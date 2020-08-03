@@ -3,7 +3,11 @@
   <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
 
-# HDR UK Open Source Contributions (9)
+# HDR UK Open Source Contributions (15)
+
+### FELLOWS-DAY-2018 (1)
+1. [Machine Learning Resources collected from the HDRUK UK Fellows's day 2018](https://github.com/alastair-droop/HDRUK-fellows-day-2018) ![GitHub stars](https://img.shields.io/github/stars/alastair-droop/HDRUK-fellows-day-2018?style=flat)
+
 
 ### GATEWAY (3)
 1. [Schemata](https://github.com/HDRUK/schemata) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/schemata?style=flat)
@@ -22,8 +26,19 @@
 1. [COVID-19](https://github.com/HDRUK/covid-19) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/covid-19?style=flat)
 
 
-### UNCATEGORISED (1)
-1. [FM-summary](https://github.com/hailianghuang/FM-summary) ![GitHub stars](https://img.shields.io/github/stars/hailianghuang/FM-summary?style=flat)
+### PHENOMICS (1)
+1. [HDR UK National Phenotype Library](https://github.com/spiros/hdr-caliber-phenome-portal) ![GitHub stars](https://img.shields.io/github/stars/spiros/hdr-caliber-phenome-portal?style=flat)
+
+
+### SUMMER-SCHOOL-2019 (3)
+1. [HDR UK Summer School demo for Image Registration](https://github.com/bwpapiez/hdr_uk_demo) ![GitHub stars](https://img.shields.io/github/stars/bwpapiez/hdr_uk_demo?style=flat)
+2. [Webmapping in R](https://github.com/alalexiou/HDR-UK_Webmapping_in_R) ![GitHub stars](https://img.shields.io/github/stars/alalexiou/HDR-UK_Webmapping_in_R?style=flat)
+3. [EHR analysis for the HDR UK summer school 2019](https://github.com/athro/hdruk_summerschool_session1) ![GitHub stars](https://img.shields.io/github/stars/athro/hdruk_summerschool_session1?style=flat)
+
+
+### UNCATEGORISED (2)
+1. [treeImbalance](https://github.com/HDRUK/treeImbalance) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/treeImbalance?style=flat)
+2. [FM-summary](https://github.com/hailianghuang/FM-summary) ![GitHub stars](https://img.shields.io/github/stars/hailianghuang/FM-summary?style=flat)
 
 
 > **Note:** Contributions are noted where there are direct or indirect contributions (funding and support) made by HDR UK to the above projects.
