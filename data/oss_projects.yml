@@ -1,3 +1,27 @@
+- name: 'Schemata'
+  description: 'Health Data Gateway - Metadata Specifications'
+  url: 'https://github.com/HDRUK/schemata'
+  keywords: [ 'hdruk-gateway', 'metadata', 'schema', 'specification' ]
+  categories: ['gateway']
+
+- name: 'Datasets'
+  description: 'Health Data Gateway - Datasets'
+  url: 'https://github.com/HDRUK/datasets'
+  keywords: [ 'hdruk-gateway', 'datasets' ]
+  categories: ['gateway']
+
+- name: 'Papers'
+  description: 'Health Data Gateway - Papers'
+  url: 'https://github.com/HDRUK/papers'
+  keywords: [ 'hdruk-gateway', 'papers' ]
+  categories: ['gateway']
+
+- name: 'COVID-19'
+  description: 'Health Data Research UK - COVID-19 Resources'
+  url: 'https://github.com/HDRUK/covid-19'
+  keywords: [ 'hdruk', 'covid-19', 'resources']
+  categories: ['hdruk']
+
 - name: 'Gateway-Frontend'
   description: 'Health Data Gateway (MVP) - React Frontend App'
   url: 'https://github.com/HDRUK/Gateway-Frontend'

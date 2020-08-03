@@ -2,5 +2,5 @@
   <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
 
-# HDR UK Open Source Projects ({count})
+# HDR UK Open Source Contributions ({count})
 
