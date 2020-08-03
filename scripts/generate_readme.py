@@ -20,7 +20,7 @@ def read_file(filename):
 
 def format_content(projects):
     CATEGORY_TEMPLATE = "### {category} ({count})"
-    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=plastic)"
+    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat)"
     content = []
     categories = []
     for p in projects:
