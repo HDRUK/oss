@@ -64,6 +64,12 @@
   keywords: [ 'hdruk', 'phenomics', 'library']
   categories: ['phenomics']
 
+- name: "PGS Catalog"
+  description: "An open database of polygenic scores and relevant metadata needed to apply and evaluate them correctly."
+  url: 'https://github.com/PGScatalog/PGS_Catalog'
+  keywords: [ 'hdruk', 'polygenic-score']
+  categories: ['phenomics']
+
 - name: "HDR UK Summer School demo for Image Registration"
   description: "HDR UK Summer School demo for Image Registration"
   url: 'https://github.com/bwpapiez/hdr_uk_demo'
