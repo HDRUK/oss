@@ -13,8 +13,8 @@
 ---
 ### How to add projects
 
-1. Create a Github.com account if you do have one already
-2. Create a fork of this project
+1. Create a [Github.com account](https://github.com/join) if you do not have one already
+2. Create a [fork of this project](https://github.com/HDRUK/oss).
 3. Edit the [oss_projects.yml](data/oss_projects.yml) file and add an entry for your project using this template:
    ```yaml
    - name: 'Project Awesome'
