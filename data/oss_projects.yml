@@ -1,0 +1,23 @@
+- name: 'Gateway-Frontend'
+  description: 'Health Data Gateway (MVP) - React Frontend App'
+  url: 'https://github.com/HDRUK/Gateway-Frontend'
+  keywords: [ 'hdruk-gateway', 'react' ]
+  categories: ['gateway-mvp']
+
+- name: 'Gateway-Auth-Server'
+  description: 'Health Data Gateway (MVP) - Auth Server'
+  url: 'https://github.com/HDRUK/Gateway-Auth-Server'
+  keywords: [ 'hdruk-gateway', 'auth-server', 'express-js' ]
+  categories: ['gateway-mvp']
+
+- name: 'Gateway-Middleware'
+  description: 'Health Data Gateway (MVP) - GraphQL Apollo Middleware'
+  url: 'https://github.com/HDRUK/Gateway-Middleware'
+  keywords: [ 'hdruk-gateway', 'middleware', 'graphql-server', 'apollo-server-express' ]
+  categories: ['gateway-mvp']
+
+- name: 'Gateway-DB'
+  description: 'Health Data Gateway (MVP) - PostgreSQL Database'
+  url: 'https://github.com/HDRUK/Gateway-DB'
+  keywords: [ 'hdruk-gateway', 'postgresql' ]
+  categories: ['gateway-mvp']
