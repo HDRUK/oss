@@ -46,8 +46,44 @@
   keywords: [ 'hdruk-gateway', 'postgresql' ]
   categories: ['gateway-mvp']
 
+- name: 'treeImbalance'
+  description: 'An R package for detecting asymmetry in time-sampled phylogenetic trees.'
+  url: 'https://github.com/HDRUK/treeImbalance'
+  keywords: [ 'hdruk', 'R' ]
+  categories: ['uncategorised']
+
 - name: 'FM-summary'
   description: 'A simplified fine-mapping method that only requires summary statistics.  It only maps the primary signal and uses flat prior with steepest descent approximation.'
   url: 'https://github.com/hailianghuang/FM-summary'
   keywords: [ 'hdruk', 'R' ]
   categories: ['uncategorised']
+
+- name: "HDR UK National Phenotype Library"
+  description: "HDR UK National Phenomics Library"
+  url: 'https://github.com/spiros/hdr-caliber-phenome-portal'
+  keywords: [ 'hdruk', 'phenomics', 'library']
+  categories: ['phenomics']
+
+- name: "HDR UK Summer School demo for Image Registration"
+  description: "HDR UK Summer School demo for Image Registration"
+  url: 'https://github.com/bwpapiez/hdr_uk_demo'
+  keywords: [ 'hdruk', 'summer-school']
+  categories: ['summer-school-2019']
+
+- name: "Webmapping in R"
+  description: "How to use leaflet to make an interactive map using child obesity at reception year data in England."
+  url: 'https://github.com/alalexiou/HDR-UK_Webmapping_in_R'
+  keywords: [ 'hdruk', 'summer-school']
+  categories: ['summer-school-2019']
+
+- name: "EHR analysis for the HDR UK summer school 2019"
+  description: "EHR analysis for the HDR UK summer school 2019"
+  url: 'https://github.com/athro/hdruk_summerschool_session1'
+  keywords: [ 'hdruk', 'summer-school']
+  categories: ['summer-school-2019']
+
+- name: "Machine Learning Resources collected from the HDRUK UK Fellows's day 2018"
+  description: "Machine Learning Resources collected from the HDRUK UK Fellows's day 2018 (2018-11-15)"
+  url: 'https://github.com/alastair-droop/HDRUK-fellows-day-2018'
+  keywords: [ 'hdruk', 'fellows-day']
+  categories: ['fellows-day-2018']
