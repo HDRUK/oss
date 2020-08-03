@@ -19,19 +19,27 @@ def read_file(filename):
     return doc
 
 def format_content(projects):
+    CATEGORY_TEMPLATE = "### {category} ({count})"
+    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=plastic)"
     content = []
     categories = []
     for p in projects:
         categories.extend(p['categories'])
     categories = sorted(list(set(categories)))
+    
+    for p in projects:
+        if p['url'].startswith("https://github.com"):
+            url = p['url'].split("https://github.com")
+            p['gh_repo'] = url[1]
 
     for category in categories:
         filtered_projects = [p for p in projects if category in p['categories']]
-        content.append("### {category} ({count})".format(category=category.upper(),
-                                                    count=len(filtered_projects)))
+        content.append(CATEGORY_TEMPLATE.format(category=category.upper(),
+                                                count=len(filtered_projects)))
         for i, p in enumerate(filtered_projects):
-            content.append("{i}. [{name}]({url})".format(i=i+1,
-                                                    name=p['name'], url=p['url']))
+            content.append(CONTENT_TEMPLATE.format(i=i+1,
+                                                name=p['name'], url=p['url'],
+                                                gh_repo=p['gh_repo']))
         content.append("\n")
     return "\n".join(content)
 
