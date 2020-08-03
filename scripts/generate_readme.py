@@ -28,8 +28,8 @@ def format_content(projects):
     categories = sorted(list(set(categories)))
     
     for p in projects:
-        if p['url'].startswith("https://github.com"):
-            url = p['url'].split("https://github.com")
+        if p['url'].startswith("https://github.com/"):
+            url = p['url'].split("https://github.com/")
             p['gh_repo'] = url[1]
 
     for category in categories:
