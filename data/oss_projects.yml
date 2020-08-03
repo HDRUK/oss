@@ -45,3 +45,9 @@
   url: 'https://github.com/HDRUK/Gateway-DB'
   keywords: [ 'hdruk-gateway', 'postgresql' ]
   categories: ['gateway-mvp']
+
+- name: 'FM-summary'
+  description: 'A simplified fine-mapping method that only requires summary statistics.  It only maps the primary signal and uses flat prior with steepest descent approximation.'
+  url: 'https://github.com/hailianghuang/FM-summary'
+  keywords: [ 'hdruk', 'R' ]
+  categories: ['uncategorised']
