@@ -11,6 +11,6 @@
      keywords: [ 'example', 'keyword' ]
      categories: ['HDR UK', 'themes' ]
    ```
-4. Commit the changes to your fork and submit a Pull request against this project.
+4. Commit the changes to your fork and [submit a Pull Request](https://github.com/HDRUK/oss/compare) against the `master` branch this project.
 
 We'll review all requests and accept them according to HDR UK's policies. If accepted, your project will be listed below
