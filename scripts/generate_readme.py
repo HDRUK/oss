@@ -3,7 +3,7 @@
 __author__ = "Susheel Varma"
 __copyright__ = "Copyright (c) 2019-2020 Susheel Varma All Rights Reserved."
 __email__ = "susheel.varma@hdruk.ac.uk"
-__license__ = "Apache 2"
+__license__ = "MIT"
 
 import yaml
 
