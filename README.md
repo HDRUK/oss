@@ -3,7 +3,7 @@
   <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
 
-# HDR UK Open Source Contributions (15)
+# HDR UK Open Source Contributions (16)
 
 ### FELLOWS-DAY-2018 (1)
 1. [Machine Learning Resources collected from the HDRUK UK Fellows's day 2018](https://github.com/alastair-droop/HDRUK-fellows-day-2018) ![GitHub stars](https://img.shields.io/github/stars/alastair-droop/HDRUK-fellows-day-2018?style=flat)
@@ -26,8 +26,9 @@
 1. [COVID-19](https://github.com/HDRUK/covid-19) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/covid-19?style=flat)
 
 
-### PHENOMICS (1)
+### PHENOMICS (2)
 1. [HDR UK National Phenotype Library](https://github.com/spiros/hdr-caliber-phenome-portal) ![GitHub stars](https://img.shields.io/github/stars/spiros/hdr-caliber-phenome-portal?style=flat)
+2. [PGS Catalog](https://github.com/PGScatalog/PGS_Catalog) ![GitHub stars](https://img.shields.io/github/stars/PGScatalog/PGS_Catalog?style=flat)
 
 
 ### SUMMER-SCHOOL-2019 (3)
