@@ -1,5 +1,6 @@
 
-Note: Contributions are noted where there are direct or indirect contributions (funding and support) made by HDR UK to the above projects.
+> **Note:** Contributions are noted where there are direct or indirect contributions (funding and support) made by HDR UK to the above projects.
+
 ---
 ### How to add projects
 
