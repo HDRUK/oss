@@ -4,7 +4,6 @@
 ---
 ### How to contribute OSS projects
 
-0. Use this [form](https://forms.gle/vnffT9stTv9kuh4T9); OR
 1. Create a [Github.com account](https://github.com/join) if you do not have one already
 2. Create a [fork of this project](https://github.com/HDRUK/oss).
 3. Edit the [oss_projects.yml](data/oss_projects.yml) file and add an entry for your project using this template:
