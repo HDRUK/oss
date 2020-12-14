@@ -3,27 +3,33 @@
   <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
 
-# HDR UK Open Source Contributions (16)
+# HDR UK Open Source Contributions (19)
 
 ### FELLOWS-DAY-2018 (1)
 1. [Machine Learning Resources collected from the HDRUK UK Fellows's day 2018](https://github.com/alastair-droop/HDRUK-fellows-day-2018) ![GitHub stars](https://img.shields.io/github/stars/alastair-droop/HDRUK-fellows-day-2018?style=flat)
 
 
-### GATEWAY (3)
+### GATEWAY (5)
 1. [Schemata](https://github.com/HDRUK/schemata) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/schemata?style=flat)
 2. [Datasets](https://github.com/HDRUK/datasets) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/datasets?style=flat)
 3. [Papers](https://github.com/HDRUK/papers) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/papers?style=flat)
+4. [Gateway-Web](https://github.com/HDRUK/gateway-web) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/gateway-web?style=flat)
+5. [Gateway-API](https://github.com/HDRUK/gateway-api) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/gateway-api?style=flat)
 
 
 ### GATEWAY-MVP (4)
-1. [Gateway-Frontend](https://github.com/HDRUK/Gateway-Frontend) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-Frontend?style=flat)
-2. [Gateway-Auth-Server](https://github.com/HDRUK/Gateway-Auth-Server) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-Auth-Server?style=flat)
-3. [Gateway-Middleware](https://github.com/HDRUK/Gateway-Middleware) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-Middleware?style=flat)
-4. [Gateway-DB](https://github.com/HDRUK/Gateway-DB) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-DB?style=flat)
+1. [Gateway-Frontend (MVP)](https://github.com/HDRUK/Gateway-Frontend) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-Frontend?style=flat)
+2. [Gateway-Auth-Server (MVP)](https://github.com/HDRUK/Gateway-Auth-Server) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-Auth-Server?style=flat)
+3. [Gateway-Middleware (MVP)](https://github.com/HDRUK/Gateway-Middleware) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-Middleware?style=flat)
+4. [Gateway-DB (MVP)](https://github.com/HDRUK/Gateway-DB) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/Gateway-DB?style=flat)
 
 
 ### HDRUK (1)
 1. [COVID-19](https://github.com/HDRUK/covid-19) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/covid-19?style=flat)
+
+
+### HDRUK-TEXT-ANALYTICS (1)
+1. [MedCATweb](https://github.com/CogStack/MedCATtrainer) ![GitHub stars](https://img.shields.io/github/stars/CogStack/MedCATtrainer?style=flat)
 
 
 ### PHENOMICS (2)
