@@ -286,8 +286,12 @@
   criticality_score: 0.14058
 - name: oss
   url: https://github.com/HDRUK/oss
-  description: HDR UK OSS Contributors
-  keywords: []
+  description: HDR UK OSS Contributons
+  keywords:
+  - hdr-uk
+  - oss
+  - github-stars
+  - gateway
   categories:
   - HDR UK
   stars: 1
@@ -297,13 +301,13 @@
   updated_since: 0
   contributor_count: 1
   org_count: 1
-  commit_frequency: 0.7
+  commit_frequency: 0.8
   recent_releases_count: 0
   closed_issues_count: 0
   updated_issues_count: 0
   comment_frequency: 0
-  dependents_count: 4
-  criticality_score: 0.13053
+  dependents_count: 6
+  criticality_score: 0.13754
 - name: PhenomicsLibrary
   url: https://github.com/HDRUK/PhenomicsLibrary
   description: ''
@@ -707,12 +711,12 @@
   contributor_count: 56
   org_count: 7
   commit_frequency: 0.0
-  recent_releases_count: 15
+  recent_releases_count: 14
   closed_issues_count: 0
   updated_issues_count: 1
   comment_frequency: 1.0
   dependents_count: 2
-  criticality_score: 0.31868
+  criticality_score: 0.31753
 - name: CogStack-Pipeline
   url: https://github.com/CogStack/CogStack-Pipeline
   description: Distributed, fault tolerant batch processing for Natural Language Applications
@@ -1405,8 +1409,8 @@
   closed_issues_count: 27
   updated_issues_count: 44
   comment_frequency: 3.6
-  dependents_count: 15
-  criticality_score: 0.56275
+  dependents_count: 0
+  criticality_score: 0.51303
 - name: bwa
   url: https://github.com/lh3/bwa
   description: Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read
@@ -2263,5 +2267,5 @@
   closed_issues_count: 2
   updated_issues_count: 4
   comment_frequency: 2.2
-  dependents_count: 5
-  criticality_score: 0.34537
+  dependents_count: 0
+  criticality_score: 0.31325
