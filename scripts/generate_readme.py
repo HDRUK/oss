@@ -32,7 +32,7 @@ def read_file(filename):
 
 def format_content(projects):
     CATEGORY_TEMPLATE = "### {category} ({count})"
-    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-{score}-yellowgreen?style=flat-square)"
+    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-{score}-yellowgreen?style=flat-square)"
     content = []
     categories = []
     for p in projects:
