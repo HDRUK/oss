@@ -28,7 +28,7 @@
   keywords: [ 'hdruk-gateway', 'react' ]
   categories: ['gateway']
  
- - name: 'Gateway-API'
+- name: 'Gateway-API'
   description: 'Health Data Gateway - API Server'
   url: 'https://github.com/HDRUK/gateway-api'
   keywords: [ 'hdruk-gateway', 'nodejs', 'MongoDB' ]
@@ -106,8 +106,8 @@
   keywords: [ 'hdruk', 'fellows-day']
   categories: ['fellows-day-2018']
  
- - name: "MedCATweb"
-   description: "This repo provides a simple interface to inspect, improve and add concepts to biomedical NER+L model (e.g. MedCAT) and a further interface for research specific training data collection"
-   url: 'https://github.com/CogStack/MedCATtrainer'
-   keywords: [ 'hdruk', 'text-analytics']
-   categories: ['hdruk-text-analytics']
+- name: "MedCATweb"
+  description: "This repo provides a simple interface to inspect, improve and add concepts to biomedical NER+L model (e.g. MedCAT) and a further interface for research specific training data collection"
+  url: 'https://github.com/CogStack/MedCATtrainer'
+  keywords: [ 'hdruk', 'text-analytics']
+  categories: ['hdruk-text-analytics']
