@@ -2,7 +2,7 @@
 > **Note:** Contributions are noted where there are direct or indirect contributions (funding and support) made by HDR UK to the above projects.
 
 ---
-### How to contribute OSS projects
+### How to contribute OSS HDR UK projects
 
 1. Create a [Github.com account](https://github.com/join) if you do not have one already
 2. Create a [fork of this project](https://github.com/HDRUK/oss).
