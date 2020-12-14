@@ -1,4 +1,4 @@
-![collect-oss](https://github.com/HDRUK/oss/workflows/collect-oss/badge.svg) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.15353-blue?style=flat-square)
+![collect-oss](https://github.com/HDRUK/oss/workflows/collect-oss/badge.svg) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.15353-blue)
 <p align="center">
   <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
