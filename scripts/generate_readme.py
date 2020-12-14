@@ -5,13 +5,24 @@ __copyright__ = "Copyright (c) 2019-2020 Susheel Varma All Rights Reserved."
 __email__ = "susheel.varma@hdruk.ac.uk"
 __license__ = "MIT"
 
+import os
+import json
 import yaml
+import subprocess
+from github import Github
 
-OSS_PROJECTS_YAML="data/oss_projects.yml"
+OSS_PROJECTS_YAML = "data/oss_projects.yml"
+GITHUB_AUTH_TOKEN = os.environ.get('GITHUB_AUTH_TOKEN')
+
+g = Github(GITHUB_AUTH_TOKEN)
 
 def read_yaml(filename):
     with open(filename, 'r') as file:
         return yaml.safe_load(file)
+
+def write_yaml(data, filename):
+    with open(filename, 'w') as file:
+        docs = yaml.dump(data, file, sort_keys=False)
 
 def read_file(filename):
     with open(filename, 'r') as file:
@@ -20,7 +31,7 @@ def read_file(filename):
 
 def format_content(projects):
     CATEGORY_TEMPLATE = "### {category} ({count})"
-    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat)"
+    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat-square) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-{score}-yellowgreen?style=flat-square)"
     content = []
     categories = []
     for p in projects:
@@ -39,7 +50,8 @@ def format_content(projects):
         for i, p in enumerate(filtered_projects):
             content.append(CONTENT_TEMPLATE.format(i=i+1,
                                                 name=p['name'], url=p['url'],
-                                                gh_repo=p['gh_repo']))
+                                                gh_repo=p['gh_repo'],
+                                                score=p['criticality_score']))
         content.append("\n")
     return "\n".join(content)
 
@@ -53,8 +65,50 @@ def write_readme(projects, filename="README.md"):
         file.writelines(content)
         file.writelines(footer)
 
+def get_repo_info(repo_url, categories=None, keywords=None):
+    if categories is None: categories = []
+    if keywords is None: keywords = []
+    # Get views - repo.get_views_traffic()
+    # Get clones - repo.get_clones_traffic()
+    repo = g.get_repo(repo_url.replace("https://github.com/", ""))
+    data = {
+        'name': repo.name,
+        'url': "https://github.com/" + repo.full_name,
+        'description': repo.description if repo.description is not None else "",
+        'keywords': repo.get_topics() if repo.get_topics() else keywords,
+        'categories': categories,
+        'stars': repo.stargazers_count,
+        'forks': repo.forks,
+    }
+    return data
+
+def get_criticality_score(url):
+    print("Calculating criticality-score: ", url)
+    env = os.environ.copy()
+    env['GITHUB_AUTH_TOKEN'] = GITHUB_AUTH_TOKEN
+    cmd = subprocess.Popen("criticality_score --format json --repo {}".format(url),
+                            shell=True,
+                            stdin=None,
+                            stdout=subprocess.PIPE,
+                            stderr=subprocess.PIPE,
+                            env=env)
+    cmd.wait()
+    out, err = cmd.communicate()
+    out = json.loads(out)
+    return out
+
+def get_criticality_scores(projects):
+    for p in projects:
+        repo_info = get_repo_info(p['url'], p['categories'], p['keywords'])
+        p.update(repo_info)
+        scores = get_criticality_score(p['url'])
+        p.update(scores)
+    return projects
+
 def main():
     projects = read_yaml(OSS_PROJECTS_YAML)
+    projects = get_criticality_scores(projects)
+    write_yaml(projects, 'data/oss_projects.yml')
     write_readme(projects)
 
 if __name__ == "__main__":

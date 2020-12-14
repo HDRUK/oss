@@ -32,6 +32,8 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     
     - name: Generate README from oss_projects.yml
+      env:
+        GITHUB_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         python scripts/generate_readme.py
 

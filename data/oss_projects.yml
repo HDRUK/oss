@@ -1,113 +1,2267 @@
-- name: 'Schemata'
-  description: 'Health Data Gateway - Metadata Specifications'
-  url: 'https://github.com/HDRUK/schemata'
-  keywords: [ 'hdruk-gateway', 'metadata', 'schema', 'specification' ]
-  categories: ['gateway']
-
-- name: 'Datasets'
-  description: 'Health Data Gateway - Datasets'
-  url: 'https://github.com/HDRUK/datasets'
-  keywords: [ 'hdruk-gateway', 'datasets' ]
-  categories: ['gateway']
-
-- name: 'Papers'
-  description: 'Health Data Gateway - Papers'
-  url: 'https://github.com/HDRUK/papers'
-  keywords: [ 'hdruk-gateway', 'papers' ]
-  categories: ['gateway']
-
-- name: 'COVID-19'
-  description: 'Health Data Research UK - COVID-19 Resources'
-  url: 'https://github.com/HDRUK/covid-19'
-  keywords: [ 'hdruk', 'covid-19', 'resources']
-  categories: ['hdruk']
-
-- name: 'Gateway-Web'
-  description: 'Health Data Gateway - React Frontend App'
-  url: 'https://github.com/HDRUK/gateway-web'
-  keywords: [ 'hdruk-gateway', 'react' ]
-  categories: ['gateway']
- 
-- name: 'Gateway-API'
-  description: 'Health Data Gateway - API Server'
-  url: 'https://github.com/HDRUK/gateway-api'
-  keywords: [ 'hdruk-gateway', 'nodejs', 'MongoDB' ]
-  categories: ['gateway']
-
-- name: 'Gateway-Frontend (MVP)'
-  description: 'Health Data Gateway (MVP) - React Frontend App'
-  url: 'https://github.com/HDRUK/Gateway-Frontend'
-  keywords: [ 'hdruk-gateway', 'react' ]
-  categories: ['gateway-mvp']
-
-- name: 'Gateway-Auth-Server (MVP)'
-  description: 'Health Data Gateway (MVP) - Auth Server'
-  url: 'https://github.com/HDRUK/Gateway-Auth-Server'
-  keywords: [ 'hdruk-gateway', 'auth-server', 'express-js' ]
-  categories: ['gateway-mvp']
-
-- name: 'Gateway-Middleware (MVP)'
-  description: 'Health Data Gateway (MVP) - GraphQL Apollo Middleware'
-  url: 'https://github.com/HDRUK/Gateway-Middleware'
-  keywords: [ 'hdruk-gateway', 'middleware', 'graphql-server', 'apollo-server-express' ]
-  categories: ['gateway-mvp']
-
-- name: 'Gateway-DB (MVP)'
-  description: 'Health Data Gateway (MVP) - PostgreSQL Database'
-  url: 'https://github.com/HDRUK/Gateway-DB'
-  keywords: [ 'hdruk-gateway', 'postgresql' ]
-  categories: ['gateway-mvp']
-
-- name: 'treeImbalance'
-  description: 'An R package for detecting asymmetry in time-sampled phylogenetic trees.'
-  url: 'https://github.com/HDRUK/treeImbalance'
-  keywords: [ 'hdruk', 'R' ]
-  categories: ['uncategorised']
-
-- name: 'FM-summary'
-  description: 'A simplified fine-mapping method that only requires summary statistics.  It only maps the primary signal and uses flat prior with steepest descent approximation.'
-  url: 'https://github.com/hailianghuang/FM-summary'
-  keywords: [ 'hdruk', 'R' ]
-  categories: ['uncategorised']
-
-- name: "HDR UK National Phenotype Library"
-  description: "HDR UK National Phenomics Library"
-  url: 'https://github.com/spiros/hdr-caliber-phenome-portal'
-  keywords: [ 'hdruk', 'phenomics', 'library']
-  categories: ['phenomics']
-
-- name: "PGS Catalog"
-  description: "An open database of polygenic scores and relevant metadata needed to apply and evaluate them correctly."
-  url: 'https://github.com/PGScatalog/PGS_Catalog'
-  keywords: [ 'hdruk', 'polygenic-score']
-  categories: ['phenomics']
-
-- name: "HDR UK Summer School demo for Image Registration"
-  description: "HDR UK Summer School demo for Image Registration"
-  url: 'https://github.com/bwpapiez/hdr_uk_demo'
-  keywords: [ 'hdruk', 'summer-school']
-  categories: ['summer-school-2019']
-
-- name: "Webmapping in R"
-  description: "How to use leaflet to make an interactive map using child obesity at reception year data in England."
-  url: 'https://github.com/alalexiou/HDR-UK_Webmapping_in_R'
-  keywords: [ 'hdruk', 'summer-school']
-  categories: ['summer-school-2019']
-
-- name: "EHR analysis for the HDR UK summer school 2019"
-  description: "EHR analysis for the HDR UK summer school 2019"
-  url: 'https://github.com/athro/hdruk_summerschool_session1'
-  keywords: [ 'hdruk', 'summer-school']
-  categories: ['summer-school-2019']
-
-- name: "Machine Learning Resources collected from the HDRUK UK Fellows's day 2018"
-  description: "Machine Learning Resources collected from the HDRUK UK Fellows's day 2018 (2018-11-15)"
-  url: 'https://github.com/alastair-droop/HDRUK-fellows-day-2018'
-  keywords: [ 'hdruk', 'fellows-day']
-  categories: ['fellows-day-2018']
- 
-- name: "MedCATweb"
-  description: "This repo provides a simple interface to inspect, improve and add concepts to biomedical NER+L model (e.g. MedCAT) and a further interface for research specific training data collection"
-  url: 'https://github.com/CogStack/MedCATtrainer'
-  keywords: [ 'hdruk', 'text-analytics']
-  categories: ['hdruk-text-analytics']
+- name: papers
+  url: https://github.com/HDRUK/papers
+  description: Extract of publications that mention HDR-UK
+  keywords:
+  - publications
+  - hdruk
+  - covid-19
+  - coronavirus
+  - 2019-ncov
+  - sars-cov
+  categories:
+  - HDR UK
+  stars: 4
+  forks: 2
+  language: Python
+  created_since: 19
+  updated_since: 0
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 8.6
+  recent_releases_count: 1
+  closed_issues_count: 3
+  updated_issues_count: 4
+  comment_frequency: 0.5
+  dependents_count: 12
+  criticality_score: 0.27262
+- name: Gateway-Frontend
+  url: https://github.com/HDRUK/Gateway-Frontend
+  description: Health Data Gateway Frontend - react App
+  keywords:
+  - hdruk
+  - health-data
+  - hdruk-gateway
+  - react
+  categories:
+  - Gateway (MVP)
+  stars: 1
+  forks: 2
+  language: CSS
+  created_since: 11
+  updated_since: 11
+  contributor_count: 9
+  org_count: 2
+  commit_frequency: 1.8
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.13504
+- name: Gateway-Middleware
+  url: https://github.com/HDRUK/Gateway-Middleware
+  description: Health Data Gateway - GraphQL Apollo Middleware
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  - graphql-server
+  - apollo-server-express
+  - health-data
+  categories:
+  - Gateway (MVP)
+  stars: 2
+  forks: 1
+  language: JavaScript
+  created_since: 11
+  updated_since: 11
+  contributor_count: 13
+  org_count: 2
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.12991
+- name: Gateway-DB
+  url: https://github.com/HDRUK/Gateway-DB
+  description: Health Data Gateway - PostgreSQL Database
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  - postgresql
+  - health-data
+  categories:
+  - Gateway (MVP)
+  stars: 1
+  forks: 1
+  language: PLpgSQL
+  created_since: 11
+  updated_since: 11
+  contributor_count: 6
+  org_count: 2
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.11076
+- name: Gateway-Auth-Server
+  url: https://github.com/HDRUK/Gateway-Auth-Server
+  description: ''
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  - nodejs
+  - express-js
+  - health-data
+  categories:
+  - Gateway (MVP)
+  stars: 1
+  forks: 1
+  language: JavaScript
+  created_since: 11
+  updated_since: 11
+  contributor_count: 12
+  org_count: 2
+  commit_frequency: 0.4
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.13049
+- name: covid-19
+  url: https://github.com/HDRUK/covid-19
+  description: "HDR UK - Resources for \U0001F9A0COVID-19 Research"
+  keywords:
+  - coronavirus
+  - england
+  - worldwide
+  - health
+  - covid-19
+  - wales
+  - scotland
+  - northern-ireland
+  - dataset
+  - united-kingdom
+  - 2019-ncov
+  - hdruk
+  - gisaid
+  categories:
+  - HDR UK
+  stars: 35
+  forks: 10
+  language: null
+  created_since: 9
+  updated_since: 8
+  contributor_count: 4
+  org_count: 3
+  commit_frequency: 1.6
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.13133
+- name: datasets
+  url: https://github.com/HDRUK/datasets
+  description: HDR UK Gateway Datasets
+  keywords:
+  - hdruk
+  - datasets
+  categories:
+  - HDR UK
+  stars: 5
+  forks: 6
+  language: Python
+  created_since: 8
+  updated_since: 0
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 10.9
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 14
+  criticality_score: 0.22789
+- name: gateway-api
+  url: https://github.com/HDRUK/gateway-api
+  description: HDR UK Gateway API
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  categories:
+  - Gateway
+  stars: 0
+  forks: 0
+  language: JavaScript
+  created_since: 7
+  updated_since: 0
+  contributor_count: 11
+  org_count: 4
+  commit_frequency: 13.1
+  recent_releases_count: 39
+  closed_issues_count: 72
+  updated_issues_count: 75
+  comment_frequency: 0.8
+  dependents_count: 23
+  criticality_score: 0.44397
+- name: gateway-web
+  url: https://github.com/HDRUK/gateway-web
+  description: HDR UK Gateway Web
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  categories:
+  - Gateway
+  stars: 0
+  forks: 0
+  language: JavaScript
+  created_since: 7
+  updated_since: 0
+  contributor_count: 12
+  org_count: 4
+  commit_frequency: 20.5
+  recent_releases_count: 50
+  closed_issues_count: 131
+  updated_issues_count: 137
+  comment_frequency: 0.7
+  dependents_count: 34
+  criticality_score: 0.46592
+- name: schemata
+  url: https://github.com/HDRUK/schemata
+  description: HDR UK Schemas
+  keywords:
+  - hdruk
+  - schema
+  - metadata
+  categories:
+  - HDR UK
+  stars: 0
+  forks: 2
+  language: null
+  created_since: 7
+  updated_since: 6
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.6
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.06444
+- name: phenotypes
+  url: https://github.com/HDRUK/phenotypes
+  description: HDR UK National Phenotype Library
+  keywords: []
+  categories:
+  - National Phenomics Resource
+  stars: 0
+  forks: 1
+  language: SCSS
+  created_since: 6
+  updated_since: 3
+  contributor_count: 4
+  org_count: 3
+  commit_frequency: 2.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.14601
+- name: 4C-Initiative
+  url: https://github.com/HDRUK/4C-Initiative
+  description: 4C-Initiative
+  keywords: []
+  categories:
+  - BHF Data Science Centre
+  stars: 0
+  forks: 0
+  language: R
+  created_since: 6
+  updated_since: 5
+  contributor_count: 1
+  org_count: 10
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.14058
+- name: oss
+  url: https://github.com/HDRUK/oss
+  description: HDR UK OSS Contributors
+  keywords: []
+  categories:
+  - HDR UK
+  stars: 1
+  forks: 1
+  language: Python
+  created_since: 4
+  updated_since: 0
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.7
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 4
+  criticality_score: 0.13053
+- name: PhenomicsLibrary
+  url: https://github.com/HDRUK/PhenomicsLibrary
+  description: ''
+  keywords: []
+  categories:
+  - National Phenomics Resource
+  stars: 0
+  forks: 0
+  language: null
+  created_since: 3
+  updated_since: 4
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02488
+- name: TRE-Survey
+  url: https://github.com/HDRUK/TRE-Survey
+  description: ''
+  keywords: []
+  categories:
+  - HDR UK
+  stars: 0
+  forks: 0
+  language: null
+  created_since: 3
+  updated_since: 3
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05626
+- name: clinical-trials
+  url: https://github.com/HDRUK/clinical-trials
+  description: ''
+  keywords: []
+  categories:
+  - HDR UK
+  stars: 0
+  forks: 0
+  language: Python
+  created_since: 3
+  updated_since: 1
+  contributor_count: 3
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 1
+  updated_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.10199
+- name: collaborathon-2020-team3
+  url: https://github.com/HDRUK/collaborathon-2020-team3
+  description: HDR UK Collaborathon Team3 Submission
+  keywords: []
+  categories:
+  - Better Care
+  stars: 0
+  forks: 0
+  language: null
+  created_since: 0
+  updated_since: 0
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05626
+- name: chronological-map-phenotypes
+  url: https://github.com/spiros/chronological-map-phenotypes
+  description: Machine-readable version of electronic health record phenotypes for
+    Kuan V. and Denaxas S. et al.
+  keywords:
+  - electronic-health-record
+  - phenotype
+  - icd-10
+  - read-code
+  - epidemiology
+  - health-informatics
+  categories:
+  - National Phenomics Resource
+  stars: 26
+  forks: 22
+  language: null
+  created_since: 21
+  updated_since: 6
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.1
+  recent_releases_count: 5
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.12605
+- name: bhpm
+  url: https://github.com/rcarragh/bhpm
+  description: Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes
+    with Clustering
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 2
+  language: R
+  created_since: 18
+  updated_since: 2
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.2
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.0799
+- name: MedCATtrainer
+  url: https://github.com/CogStack/MedCATtrainer
+  description: 'A simple interface to inspect, improve and add concepts to biomedical
+    NER+L -> MedCAT. '
+  keywords:
+  - umls
+  - snomed
+  - nlp
+  - active-learning
+  - medcat
+  - machine-learning
+  categories:
+  - National Text Analytics
+  stars: 22
+  forks: 10
+  language: Python
+  created_since: 18
+  updated_since: 2
+  contributor_count: 7
+  org_count: 1
+  commit_frequency: 3.6
+  recent_releases_count: 5
+  closed_issues_count: 5
+  updated_issues_count: 8
+  comment_frequency: 1.6
+  dependents_count: 15
+  criticality_score: 0.31251
+- name: HDRUK-fellows-day-2018
+  url: https://github.com/alastair-droop/HDRUK-fellows-day-2018
+  description: Machine Learning Resources collected from the HDRUK UK Fellows's day
+    2018 (2018-11-15)
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: null
+  created_since: 25
+  updated_since: 25
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05316
+- name: openpathology-web
+  url: https://github.com/ebmdatalab/openpathology-web
+  description: Openpathology website
+  keywords: []
+  categories:
+  - Better Care
+  stars: 2
+  forks: 2
+  language: Jupyter Notebook
+  created_since: 20
+  updated_since: 13
+  contributor_count: 4
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05441
+- name: HDRUK_AppliedML
+  url: https://github.com/MatthewWilletts/HDRUK_AppliedML
+  description: This repository contains code and supporting material for the HDRUK
+    Summer School Course on Applied Deep Learning, August 22nd 2019
+  keywords: []
+  categories:
+  - Applied Analytics
+  stars: 1
+  forks: 1
+  language: Python
+  created_since: 17
+  updated_since: 16
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.03175
+- name: hdruk_summerschool_session1
+  url: https://github.com/athro/hdruk_summerschool_session1
+  description: EHR analysis for the HDR UK summer school 2019
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Dockerfile
+  created_since: 16
+  updated_since: 16
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915
+- name: hdruk_bbmri_hack
+  url: https://github.com/simonjupp/hdruk_bbmri_hack
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Python
+  created_since: 15
+  updated_since: 15
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.05794
+- name: hdruk_summerschool_session_1_2
+  url: https://github.com/athro/hdruk_summerschool_session_1_2
+  description: Docker image for first two sessions at the HDRUK summer school 2019
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Jupyter Notebook
+  created_since: 16
+  updated_since: 16
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915
+- name: 20190927_IntroductionGithub_HDRUK
+  url: https://github.com/semacu/20190927_IntroductionGithub_HDRUK
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 1
+  forks: 1
+  language: null
+  created_since: 15
+  updated_since: 15
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05316
+- name: hdr_uk_demo
+  url: https://github.com/bwpapiez/hdr_uk_demo
+  description: HDR UK Summer School demo for Image Registration
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Jupyter Notebook
+  created_since: 16
+  updated_since: 16
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915
+- name: HDR-UK_Webmapping_in_R
+  url: https://github.com/alalexiou/HDR-UK_Webmapping_in_R
+  description: How to use leaflet to make an interactive map using child obesity at
+    reception year data in England.
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 1
+  forks: 1
+  language: HTML
+  created_since: 16
+  updated_since: 16
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05316
+- name: KGPhenotyping
+  url: https://github.com/Honghan/KGPhenotyping
+  description: knowledge graph based phenotyping
+  keywords:
+  - reusable
+  - phenotyping
+  - health-data
+  categories:
+  - UNCATEGORISED
+  stars: 3
+  forks: 1
+  language: Java
+  created_since: 15
+  updated_since: 13
+  contributor_count: 3
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.08795
+- name: uvR
+  url: https://github.com/markocherrie/uvR
+  description: R package to support analysing UVR data
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: R
+  created_since: 15
+  updated_since: 15
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915
+- name: Data-Science-for-Docs
+  url: https://github.com/carpentries-incubator/Data-Science-for-Docs
+  description: Data Science For Practicing Clinicians
+  keywords:
+  - carpentries
+  - carpentries-incubator
+  - medicine
+  - education
+  - pre-alpha
+  - lesson
+  - data-science
+  - english
+  categories:
+  - UNCATEGORISED
+  stars: 4
+  forks: 2
+  language: HTML
+  created_since: 15
+  updated_since: 14
+  contributor_count: 56
+  org_count: 7
+  commit_frequency: 0.0
+  recent_releases_count: 15
+  closed_issues_count: 0
+  updated_issues_count: 1
+  comment_frequency: 1.0
+  dependents_count: 2
+  criticality_score: 0.31868
+- name: CogStack-Pipeline
+  url: https://github.com/CogStack/CogStack-Pipeline
+  description: Distributed, fault tolerant batch processing for Natural Language Applications
+    and Search, using remote partitioning
+  keywords:
+  - batch-processing
+  - cogstack
+  - elasticsearch
+  - spring
+  - nlp
+  - tika
+  - tesseract
+  - ocr
+  - semantic-search
+  - alerting
+  categories:
+  - National Text Analytics
+  stars: 25
+  forks: 11
+  language: Java
+  created_since: 43
+  updated_since: 19
+  contributor_count: 9
+  org_count: 4
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 3
+  criticality_score: 0.19914
+- name: CogStack-NiFi
+  url: https://github.com/CogStack/CogStack-NiFi
+  description: Building data processing pipelines for documents processing with NLP
+    using Apache NiFi and related services
+  keywords:
+  - apache-nifi
+  - nifi
+  - elasticsearch
+  - kibana
+  - data-pipelines
+  - nlp
+  - rest
+  - electronic-health-records
+  - data-integration
+  categories:
+  - National Text Analytics
+  stars: 4
+  forks: 6
+  language: Jupyter Notebook
+  created_since: 18
+  updated_since: 4
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05352
+- name: CogStack-Recipes
+  url: https://github.com/CogStack/CogStack-Recipes
+  description: Example deployment recipes based on CogStack
+  keywords: []
+  categories:
+  - National Text Analytics
+  stars: 0
+  forks: 2
+  language: Shell
+  created_since: 21
+  updated_since: 19
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02149
+- name: MedCAT
+  url: https://github.com/CogStack/MedCAT
+  description: Medical Concept Annotation Tool
+  keywords:
+  - electronic-health-records
+  - nlp
+  - ner
+  - healthcare
+  - snomed
+  - umls
+  - covid-19
+  categories:
+  - National Text Analytics
+  stars: 117
+  forks: 31
+  language: Python
+  created_since: 21
+  updated_since: 0
+  contributor_count: 5
+  org_count: 2
+  commit_frequency: 2.6
+  recent_releases_count: 1
+  closed_issues_count: 6
+  updated_issues_count: 6
+  comment_frequency: 1.7
+  dependents_count: 29
+  criticality_score: 0.34342
+- name: MedCATservice
+  url: https://github.com/CogStack/MedCATservice
+  description: Running MedCAT as a RESTful web service
+  keywords:
+  - nlp
+  - microservices
+  - umls
+  - snomed
+  - docker
+  - python
+  - flask
+  - rest
+  - spacy
+  categories:
+  - National Text Analytics
+  stars: 5
+  forks: 6
+  language: Python
+  created_since: 16
+  updated_since: 0
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.4
+  recent_releases_count: 3
+  closed_issues_count: 3
+  updated_issues_count: 3
+  comment_frequency: 2.0
+  dependents_count: 0
+  criticality_score: 0.24421
+- name: predCAN
+  url: https://github.com/bio-ontology-research-group/predCAN
+  description: Ontology-based prediction of cancer driver genes
+  keywords:
+  - machine-learning
+  - driver-genes
+  - ontology
+  - embeddings
+  categories:
+  - UNCATEGORISED
+  stars: 3
+  forks: 4
+  language: Python
+  created_since: 24
+  updated_since: 15
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.0301
+- name: phenomenet-vp
+  url: https://github.com/bio-ontology-research-group/phenomenet-vp
+  description: A phenotype-based tool for variant prioritization in WES and WGS data
+  keywords:
+  - translationalscience
+  - variant-analysis
+  - variant-annotations
+  - prioritize-disease-variants
+  - rare-variants
+  - phenotypes
+  - vcf-files
+  - omim
+  - synthetic-genomes
+  - variants
+  - disease
+  categories:
+  - National Phenomics Resource
+  stars: 19
+  forks: 7
+  language: Java
+  created_since: 58
+  updated_since: 6
+  contributor_count: 6
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  closed_issues_count: 2
+  updated_issues_count: 4
+  comment_frequency: 0.5
+  dependents_count: 2
+  criticality_score: 0.22793
+- name: ontologies
+  url: https://github.com/biosemantics/ontologies
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 1
+  forks: 1
+  language: null
+  created_since: 79
+  updated_since: 25
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.04672
+- name: risk-score-builder
+  url: https://github.com/CogStack/risk-score-builder
+  description: Map clinical risk score concepts to structured definitions using ontologies,
+    calculate structured risk scores from NLP.
+  keywords: []
+  categories:
+  - National Text Analytics
+  stars: 1
+  forks: 1
+  language: Python
+  created_since: 20
+  updated_since: 18
+  contributor_count: 2
+  org_count: 10
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.15045
+- name: EHRtemporalVariability
+  url: https://github.com/hms-dbmi/EHRtemporalVariability
+  description: R package for delineating temporal dataset shifts in Eletronic Health
+    Records
+  keywords:
+  - dataset-shifts
+  - time
+  - electronic-health-records
+  - visualization
+  - data-quality
+  - data-quality-monitoring
+  - biomedical-data-science
+  - biomedical-informatics
+  - variability
+  categories:
+  - UNCATEGORISED
+  stars: 4
+  forks: 4
+  language: R
+  created_since: 30
+  updated_since: 2
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.11355
+- name: CPRD_HES_variability
+  url: https://github.com/prockenschaub/CPRD_HES_variability
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 1
+  forks: 1
+  language: R
+  created_since: 16
+  updated_since: 15
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05464
+- name: lrTaps
+  url: https://github.com/jfeicheng92/lrTaps
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Shell
+  created_since: 10
+  updated_since: 10
+  contributor_count: 1
+  org_count: 10
+  commit_frequency: 0.2
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.15227
+- name: loftee
+  url: https://github.com/konradjk/loftee
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 120
+  forks: 42
+  language: Perl
+  created_since: 82
+  updated_since: 1
+  contributor_count: 11
+  org_count: 5
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  closed_issues_count: 2
+  updated_issues_count: 6
+  comment_frequency: 2.8
+  dependents_count: 5
+  criticality_score: 0.37012
+- name: ringbp
+  url: https://github.com/cmmid/ringbp
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 42
+  forks: 27
+  language: R
+  created_since: 10
+  updated_since: 10
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05316
+- name: mvGWAMA
+  url: https://github.com/Kyoko-wtnb/mvGWAMA
+  description: Python script for multivariate GWAS meta-analysis
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 4
+  forks: 3
+  language: Python
+  created_since: 35
+  updated_since: 13
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.08753
+- name: treeseq-inference
+  url: https://github.com/mcveanlab/treeseq-inference
+  description: Work for the tree sequence inference paper.
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 16
+  forks: 6
+  language: Python
+  created_since: 49
+  updated_since: 6
+  contributor_count: 6
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 122
+  criticality_score: 0.22228
+- name: cCFRDiamondPrincess
+  url: https://github.com/thimotei/cCFRDiamondPrincess
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 11
+  forks: 4
+  language: HTML
+  created_since: 10
+  updated_since: 9
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.4
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.07242
+- name: multiomic_AITD
+  url: https://github.com/TiphaineCMartin/multiomic_AITD
+  description: 'Scripts associated with the paper doi: https://doi.org/10.1101/662957'
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: R
+  created_since: 18
+  updated_since: 18
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.06436
+- name: ldsc
+  url: https://github.com/bulik/ldsc
+  description: LD Score Regression (LDSC)
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 299
+  forks: 189
+  language: Python
+  created_since: 80
+  updated_since: 5
+  contributor_count: 18
+  org_count: 3
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 2
+  updated_issues_count: 18
+  comment_frequency: 0.7
+  dependents_count: 53
+  criticality_score: 0.33827
+- name: FM-summary
+  url: https://github.com/hailianghuang/FM-summary
+  description: Fine-mapping method only using summary statistics
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 4
+  forks: 5
+  language: R
+  created_since: 58
+  updated_since: 58
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05316
+- name: Winterfell
+  url: https://github.com/andrewhathaway/Winterfell
+  description: Generate complex, validated and extendable JSON-based forms in React.
+  keywords:
+  - reactjs
+  - react
+  - forms
+  - json
+  - complex
+  - winterfell
+  - customisable
+  - validation
+  - validated
+  categories:
+  - Gateway
+  stars: 786
+  forks: 127
+  language: JavaScript
+  created_since: 65
+  updated_since: 35
+  contributor_count: 16
+  org_count: 8
+  commit_frequency: 0.0
+  recent_releases_count: 2
+  closed_issues_count: 1
+  updated_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 14
+  criticality_score: 0.27868
+- name: ScienceCOPEMethodsCode
+  url: https://github.com/MGHcteu/ScienceCOPEMethodsCode
+  description: Code accompanying map generation in Drew et al. Science manuscript
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Jupyter Notebook
+  created_since: 8
+  updated_since: 8
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 2
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.03876
+- name: treeImbalance
+  url: https://github.com/bdearlove/treeImbalance
+  description: An R package for detecting asymmetry in time-sampled phylogenetic trees.
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 4
+  forks: 2
+  language: R
+  created_since: 78
+  updated_since: 57
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.03793
+- name: rake-nltk
+  url: https://github.com/csurfer/rake-nltk
+  description: Python implementation of the Rapid Automatic Keyword Extraction algorithm
+    using NLTK.
+  keywords:
+  - nltk
+  - algorithm
+  - python
+  - text-mining
+  - keyword-extraction
+  categories:
+  - National Text Analytics
+  stars: 780
+  forks: 134
+  language: Python
+  created_since: 48
+  updated_since: 14
+  contributor_count: 6
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.1168
+- name: artificialMHR
+  url: https://github.com/KCL-Health-NLP/artificialMHR
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 1
+  forks: 1
+  language: Python
+  created_since: 14
+  updated_since: 9
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02909
+- name: treeSeg
+  url: https://github.com/merlebehr/treeSeg
+  description: Implementation of the treeSeg algorithm as an R package.
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 7
+  forks: 2
+  language: Jupyter Notebook
+  created_since: 22
+  updated_since: 2
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.11595
+- name: covid-uk
+  url: https://github.com/cmmid/covid-uk
+  description: Scenario analyses for COVID-19 outbreak in the United Kingdom
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 58
+  forks: 25
+  language: R
+  created_since: 9
+  updated_since: 7
+  contributor_count: 3
+  org_count: 2
+  commit_frequency: 0.4
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 4
+  criticality_score: 0.13226
+- name: comix_covid-19-first_wave
+  url: https://github.com/jarvisc1/comix_covid-19-first_wave
+  description: Code and data from the analysis of the 1st wave of the CoMix 2020 contacts
+    survey
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 5
+  forks: 5
+  language: R
+  created_since: 8
+  updated_since: 8
+  contributor_count: 2
+  org_count: 2
+  commit_frequency: 0.2
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.09973
+- name: Biomarker_Identification
+  url: https://github.com/jaw-bioinf/Biomarker_Identification
+  description: Biomarker Identification for Bravo, Williams, Gkoutos and Acharjee
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 2
+  forks: 2
+  language: null
+  created_since: 27
+  updated_since: 27
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915
+- name: tpot
+  url: https://github.com/EpistasisLab/tpot
+  description: A Python Automated Machine Learning tool that optimizes machine learning
+    pipelines using genetic programming.
+  keywords:
+  - machine-learning
+  - python
+  - data-science
+  - automl
+  - automation
+  - scikit-learn
+  - hyperparameter-optimization
+  - model-selection
+  - parameter-tuning
+  - automated-machine-learning
+  - random-forest
+  - gradient-boosting
+  - feature-engineering
+  - xgboost
+  categories:
+  - Applied Analytics
+  stars: 7686
+  forks: 1347
+  language: Python
+  created_since: 62
+  updated_since: 0
+  contributor_count: 107
+  org_count: 7
+  commit_frequency: 2.9
+  recent_releases_count: 10
+  closed_issues_count: 27
+  updated_issues_count: 44
+  comment_frequency: 3.6
+  dependents_count: 15
+  criticality_score: 0.56275
+- name: bwa
+  url: https://github.com/lh3/bwa
+  description: Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read
+    alignment)
+  keywords:
+  - bioinformatics
+  - sequence-alignment
+  - genomics
+  - fm-index
+  categories:
+  - Bioinformatics
+  stars: 927
+  forks: 445
+  language: C
+  created_since: 121
+  updated_since: 6
+  contributor_count: 31
+  org_count: 8
+  commit_frequency: 0.1
+  recent_releases_count: 3
+  closed_issues_count: 4
+  updated_issues_count: 14
+  comment_frequency: 1.4
+  dependents_count: 97
+  criticality_score: 0.449
+- name: gatk
+  url: https://github.com/broadgsa/gatk
+  description: Official code repository for GATK versions 1.0 through 3.7 (core engine).
+    For GATK 4 code, see the https://github.com/broadinstitute/gatk repository
+  keywords: []
+  categories:
+  - Bioinformatics
+  stars: 271
+  forks: 215
+  language: Java
+  created_since: 115
+  updated_since: 38
+  contributor_count: 121
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 3
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 12
+  criticality_score: 0.28409
+- name: bedtools2
+  url: https://github.com/arq5x/bedtools2
+  description: bedtools - the swiss army knife for genome arithmetic
+  keywords: []
+  categories:
+  - Bioinformatics
+  stars: 634
+  forks: 241
+  language: C
+  created_since: 85
+  updated_since: 0
+  contributor_count: 84
+  org_count: 7
+  commit_frequency: 0.7
+  recent_releases_count: 1
+  closed_issues_count: 11
+  updated_issues_count: 25
+  comment_frequency: 1.2
+  dependents_count: 181
+  criticality_score: 0.52186
+- name: ensembl-vep
+  url: https://github.com/Ensembl/ensembl-vep
+  description: The Ensembl Variant Effect Predictor predicts the functional effects
+    of genomic variants
+  keywords: []
+  categories:
+  - Bioinformatics
+  stars: 238
+  forks: 88
+  language: Perl
+  created_since: 57
+  updated_since: 1
+  contributor_count: 22
+  org_count: 6
+  commit_frequency: 1.6
+  recent_releases_count: 9
+  closed_issues_count: 52
+  updated_issues_count: 81
+  comment_frequency: 3.1
+  dependents_count: 15
+  criticality_score: 0.4895
+- name: MetaXcan
+  url: https://github.com/hakyimlab/MetaXcan
+  description: MetaXcan software and manuscript
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 47
+  forks: 46
+  language: Python
+  created_since: 59
+  updated_since: 0
+  contributor_count: 13
+  org_count: 2
+  commit_frequency: 1.0
+  recent_releases_count: 4
+  closed_issues_count: 6
+  updated_issues_count: 9
+  comment_frequency: 4.6
+  dependents_count: 23
+  criticality_score: 0.4272
+- name: common-api
+  url: https://github.com/federated-data-sharing/common-api
+  description: OpenAPI definitions for the Federated Data Sharing Common API
+  keywords: []
+  categories:
+  - Gateway
+  stars: 2
+  forks: 1
+  language: null
+  created_since: 6
+  updated_since: 5
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.8
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 3
+  criticality_score: 0.11712
+- name: covid19_cases_from_deaths
+  url: https://github.com/thibautjombart/covid19_cases_from_deaths
+  description: Shiny app to infer caes from new deaths of COVID-19
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 10
+  forks: 9
+  language: R
+  created_since: 10
+  updated_since: 9
+  contributor_count: 5
+  org_count: 3
+  commit_frequency: 1.1
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 4
+  criticality_score: 0.17371
+- name: ADR-graph
+  url: https://github.com/KHP-Informatics/ADR-graph
+  description: Predicting adverse drug reactions from a knowledge graph
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 16
+  forks: 12
+  language: Python
+  created_since: 50
+  updated_since: 10
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.07556
+- name: covid-mobility-tracker
+  url: https://github.com/SurgicalInformatics/covid-mobility-tracker
+  description: Generate maps from google mobility data
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 0
+  forks: 1
+  language: null
+  created_since: 8
+  updated_since: 7
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.4
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02777
+- name: COVID19_clustersize
+  url: https://github.com/akira-endo/COVID19_clustersize
+  description: Analysis of COVID-19 transmission using cluster size distribution
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 5
+  forks: 3
+  language: HTML
+  created_since: 9
+  updated_since: 6
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.4
+  recent_releases_count: 2
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.08724
+- name: hilton-keeling-estimating-R0
+  url: https://github.com/JBHilton/hilton-keeling-estimating-R0
+  description: The code in this repository accompanies our upcoming paper "Estimation
+    of country-level basic reproductive ratios for novelCoronavirus (COVID-19) using
+    synthetic contact matrices". A preprint version of this paper is available at
+    https://www.medrxiv.org/content/10.1101/2020.02.26.20028167v1. Some of our notation
+    has changed between the preprint and the submission version of the paper. In particular,
+    the age-specific susceptibility is now denoted by sigma rather than z.
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: HTML
+  created_since: 9
+  updated_since: 7
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02773
+- name: 2019nCoV_proportion_asym
+  url: https://github.com/yangclaraliu/2019nCoV_proportion_asym
+  description: ''
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 7
+  forks: 6
+  language: R
+  created_since: 11
+  updated_since: 9
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.5
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.0541
+- name: drug_target_lof
+  url: https://github.com/ericminikel/drug_target_lof
+  description: Evaluating potential drug targets through human loss-of-function genetic
+    variation
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 6
+  forks: 4
+  language: R
+  created_since: 23
+  updated_since: 7
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.08173
+- name: screening_outbreak_delay
+  url: https://github.com/cmmid/screening_outbreak_delay
+  description: ''
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 1
+  forks: 1
+  language: R
+  created_since: 10
+  updated_since: 10
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05626
+- name: BRASS
+  url: https://github.com/cancerit/BRASS
+  description: Breakpoints via assembly - Identifies breaks and attempts to assemble
+    rearrangements.
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 48
+  forks: 16
+  language: Perl
+  created_since: 75
+  updated_since: 5
+  contributor_count: 9
+  org_count: 4
+  commit_frequency: 0.3
+  recent_releases_count: 4
+  closed_issues_count: 2
+  updated_issues_count: 3
+  comment_frequency: 1.7
+  dependents_count: 0
+  criticality_score: 0.29736
+- name: dpclust
+  url: https://github.com/Wedge-lab/dpclust
+  description: Dirichlet Process based methods for subclonal reconstruction of tumours
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 8
+  forks: 8
+  language: R
+  created_since: 42
+  updated_since: 11
+  contributor_count: 5
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 3
+  closed_issues_count: 1
+  updated_issues_count: 2
+  comment_frequency: 1.5
+  dependents_count: 0
+  criticality_score: 0.2107
+- name: los_review
+  url: https://github.com/esnightingale/los_review
+  description: Code used to produce the results presented in "A rapid review of evidence
+    for hospital length of stay of COVID-19 patients"
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 2
+  forks: 4
+  language: R
+  created_since: 8
+  updated_since: 6
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.8
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 7
+  criticality_score: 0.13193
+- name: hdr-caliber-phenome-portal
+  url: https://github.com/spiros/hdr-caliber-phenome-portal
+  description: HDR UK National Phenotype Library
+  keywords: []
+  categories:
+  - National Phenomics Resource
+  stars: 3
+  forks: 5
+  language: SCSS
+  created_since: 6
+  updated_since: 0
+  contributor_count: 4
+  org_count: 4
+  commit_frequency: 1.0
+  recent_releases_count: 0
+  closed_issues_count: 6
+  updated_issues_count: 6
+  comment_frequency: 0.8
+  dependents_count: 0
+  criticality_score: 0.23478
+- name: PGS_Catalog
+  url: https://github.com/PGScatalog/PGS_Catalog
+  description: 'An open database of polygenic scores and relevant metadata needed
+    to apply and evaluate them correctly. '
+  keywords: []
+  categories:
+  - National Phenomics Resource
+  stars: 3
+  forks: 3
+  language: Python
+  created_since: 11
+  updated_since: 0
+  contributor_count: 4
+  org_count: 2
+  commit_frequency: 4.4
+  recent_releases_count: 0
+  closed_issues_count: 33
+  updated_issues_count: 33
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.23675
+- name: uprn-match
+  url: https://github.com/endeavourhealth-discovery/uprn-match
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: M
+  created_since: 6
+  updated_since: 2
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 1.4
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.06604
+- name: vec2sparql
+  url: https://github.com/gkoutos-group/vec2sparql
+  description: SPARQL Endpoint with functions for computing embedding similarities
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Java
+  created_since: 19
+  updated_since: 19
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.07847
+- name: resource_manager
+  url: https://github.com/gkoutos-group/resource_manager
+  description: This is a simple resource manager
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Python
+  created_since: 17
+  updated_since: 5
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 2
+  criticality_score: 0.07862
+- name: hdruk-phd-handbook
+  url: https://github.com/cwcyau/hdruk-phd-handbook
+  description: Handbook for the HDRUK-Turing PhD Programme in Health Data Science
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 3
+  language: CSS
+  created_since: 7
+  updated_since: 2
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 1.9
+  recent_releases_count: 0
+  closed_issues_count: 3
+  updated_issues_count: 3
+  comment_frequency: 0.0
+  dependents_count: 2
+  criticality_score: 0.15951
+- name: clockwork
+  url: https://github.com/iqbal-lab-org/clockwork
+  description: CRyPTIC data processing pipelines
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 13
+  forks: 12
+  language: HTML
+  created_since: 35
+  updated_since: 1
+  contributor_count: 9
+  org_count: 2
+  commit_frequency: 0.4
+  recent_releases_count: 4
+  closed_issues_count: 4
+  updated_issues_count: 5
+  comment_frequency: 0.2
+  dependents_count: 3
+  criticality_score: 0.27895
+- name: DWGSIM
+  url: https://github.com/nh13/DWGSIM
+  description: Whole Genome Simulator for Next-Generation Sequencing
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 56
+  forks: 31
+  language: C
+  created_since: 111
+  updated_since: 18
+  contributor_count: 11
+  org_count: 4
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 2
+  comment_frequency: 1.0
+  dependents_count: 2
+  criticality_score: 0.2602
+- name: seqtk
+  url: https://github.com/lh3/seqtk
+  description: Toolkit for processing sequences in FASTA/Q formats
+  keywords:
+  - bioinformatics
+  - sequence-analysis
+  categories:
+  - Bioinformatics
+  stars: 762
+  forks: 237
+  language: C
+  created_since: 106
+  updated_since: 0
+  contributor_count: 8
+  org_count: 6
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 5
+  comment_frequency: 0.6
+  dependents_count: 33
+  criticality_score: 0.36797
+- name: manuscript_code
+  url: https://github.com/bloodcellgwas/manuscript_code
+  description: 'Manuscript code for our paper: bit.ly/bloodcellgwas'
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 2
+  language: R
+  created_since: 6
+  updated_since: 6
+  contributor_count: 4
+  org_count: 2
+  commit_frequency: 0.3
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.10283
+- name: EPACTS
+  url: https://github.com/statgen/EPACTS
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 25
+  forks: 15
+  language: C++
+  created_since: 49
+  updated_since: 17
+  contributor_count: 4
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.14058
+- name: RDMP
+  url: https://github.com/HicServices/RDMP
+  description: Research Data Management Platform (RDMP) is an open source application
+    for the loading,linking,anonymisation and extraction of datasets stored in relational
+    databases.
+  keywords:
+  - database
+  - extraction
+  - anonymisation
+  - linkage
+  - cohort-selection
+  - relational-databases
+  - research-data-management
+  - electronic-health-record
+  categories:
+  - UNCATEGORISED
+  stars: 10
+  forks: 7
+  language: C#
+  created_since: 40
+  updated_since: 0
+  contributor_count: 11
+  org_count: 2
+  commit_frequency: 11.7
+  recent_releases_count: 15
+  closed_issues_count: 75
+  updated_issues_count: 85
+  comment_frequency: 0.5
+  dependents_count: 232
+  criticality_score: 0.48203
+- name: cardio
+  url: https://github.com/Nico-Curti/cardio
+  description: Pulse oximetry data processing and classification
+  keywords:
+  - cardiology
+  - machine-learning
+  - ecg-signal
+  - cardiological-data
+  categories:
+  - UNCATEGORISED
+  stars: 1
+  forks: 2
+  language: Python
+  created_since: 26
+  updated_since: 13
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 5
+  criticality_score: 0.12671
+- name: vascular-ageing
+  url: https://github.com/LorenzoDallOlio/vascular-ageing
+  description: Container for Python analysis codes regarding "Prediction of vascular
+    ageing based on smartphoneacquired PPG signals"
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Python
+  created_since: 7
+  updated_since: 7
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02077
+- name: RF-FeatureSelection-PowerAnalysis
+  url: https://github.com/joelarkman/RF-FeatureSelection-PowerAnalysis
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 3
+  language: R
+  created_since: 17
+  updated_since: 17
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915
+- name: PGM
+  url: https://github.com/azizfurqan/PGM
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: MATLAB
+  created_since: 2
+  updated_since: 2
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02077
+- name: openprescribing
+  url: https://github.com/ebmdatalab/openprescribing
+  description: A Django app providing a REST API and dashboards for the HSCIC's GP
+    prescribing data
+  keywords: []
+  categories:
+  - Better Care
+  stars: 77
+  forks: 22
+  language: Python
+  created_since: 64
+  updated_since: 0
+  contributor_count: 19
+  org_count: 1
+  commit_frequency: 13.4
+  recent_releases_count: 0
+  closed_issues_count: 100
+  updated_issues_count: 113
+  comment_frequency: 0.7
+  dependents_count: 26
+  criticality_score: 0.41078
+- name: software_differences_paper
+  url: https://github.com/ebmdatalab/software_differences_paper
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: Jupyter Notebook
+  created_since: 20
+  updated_since: 3
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.07265
+- name: clustering_w2v
+  url: https://github.com/RichJackson/clustering_w2v
+  description: ''
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 2
+  forks: 1
+  language: Python
+  created_since: 35
+  updated_since: 32
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.03248
+- name: covid19_asymptomatic_trans
+  url: https://github.com/thimotei/covid19_asymptomatic_trans
+  description: ''
+  keywords: []
+  categories:
+  - COVID-19
+  stars: 2
+  forks: 3
+  language: R
+  created_since: 9
+  updated_since: 2
+  contributor_count: 3
+  org_count: 1
+  commit_frequency: 1.7
+  recent_releases_count: 0
+  closed_issues_count: 1
+  updated_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 2
+  criticality_score: 0.14803
+- name: CPRD_UTI_sepsis_elderly
+  url: https://github.com/prockenschaub/CPRD_UTI_sepsis_elderly
+  description: 'This is the R code and code lists used to analyse the data for paper
+    "Antibiotic prescribing for lower UTI in elderly patients in primary care and
+    risk of bloodstream infection: A cohort study using electronic health records
+    in England"'
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: R
+  created_since: 15
+  updated_since: 3
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.10264
+- name: Electronic-Monitoring-Device-Adherence-Typology
+  url: https://github.com/hollytibble/Electronic-Monitoring-Device-Adherence-Typology
+  description: 'Study Aim: To construct a data-driven multi-dimensional typology of
+    medication non-adherence in children with asthma.  '
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 1
+  forks: 1
+  language: R
+  created_since: 16
+  updated_since: 0
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.09027
+- name: ESCs_models
+  url: https://github.com/MinhongW/ESCs_models
+  description: Agent-based modelling of pattern formation in embryonic stem cells
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 0
+  forks: 1
+  language: NetLogo
+  created_since: 7
+  updated_since: 7
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02077
+- name: cgpBattenberg
+  url: https://github.com/cancerit/cgpBattenberg
+  description: Battenberg algorithm and associated implementation script
+  keywords: []
+  categories:
+  - UNCATEGORISED
+  stars: 43
+  forks: 14
+  language: Perl
+  created_since: 76
+  updated_since: 2
+  contributor_count: 10
+  org_count: 4
+  commit_frequency: 0.6
+  recent_releases_count: 1
+  closed_issues_count: 2
+  updated_issues_count: 4
+  comment_frequency: 2.2
+  dependents_count: 5
+  criticality_score: 0.34537
