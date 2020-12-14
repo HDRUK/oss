@@ -22,25 +22,37 @@
   keywords: [ 'hdruk', 'covid-19', 'resources']
   categories: ['hdruk']
 
-- name: 'Gateway-Frontend'
+- name: 'Gateway-Web'
+  description: 'Health Data Gateway - React Frontend App'
+  url: 'https://github.com/HDRUK/gateway-web'
+  keywords: [ 'hdruk-gateway', 'react' ]
+  categories: ['gateway']
+ 
+ - name: 'Gateway-API'
+  description: 'Health Data Gateway - API Server'
+  url: 'https://github.com/HDRUK/gateway-api'
+  keywords: [ 'hdruk-gateway', 'nodejs', 'MongoDB' ]
+  categories: ['gateway']
+
+- name: 'Gateway-Frontend (MVP)'
   description: 'Health Data Gateway (MVP) - React Frontend App'
   url: 'https://github.com/HDRUK/Gateway-Frontend'
   keywords: [ 'hdruk-gateway', 'react' ]
   categories: ['gateway-mvp']
 
-- name: 'Gateway-Auth-Server'
+- name: 'Gateway-Auth-Server (MVP)'
   description: 'Health Data Gateway (MVP) - Auth Server'
   url: 'https://github.com/HDRUK/Gateway-Auth-Server'
   keywords: [ 'hdruk-gateway', 'auth-server', 'express-js' ]
   categories: ['gateway-mvp']
 
-- name: 'Gateway-Middleware'
+- name: 'Gateway-Middleware (MVP)'
   description: 'Health Data Gateway (MVP) - GraphQL Apollo Middleware'
   url: 'https://github.com/HDRUK/Gateway-Middleware'
   keywords: [ 'hdruk-gateway', 'middleware', 'graphql-server', 'apollo-server-express' ]
   categories: ['gateway-mvp']
 
-- name: 'Gateway-DB'
+- name: 'Gateway-DB (MVP)'
   description: 'Health Data Gateway (MVP) - PostgreSQL Database'
   url: 'https://github.com/HDRUK/Gateway-DB'
   keywords: [ 'hdruk-gateway', 'postgresql' ]
@@ -93,3 +105,9 @@
   url: 'https://github.com/alastair-droop/HDRUK-fellows-day-2018'
   keywords: [ 'hdruk', 'fellows-day']
   categories: ['fellows-day-2018']
+ 
+ - name: "MedCATweb"
+  description: "This repo provides a simple interface to inspect, improve and add concepts to biomedical NER+L model (e.g. MedCAT) and a further interface for research specific training data collection"
+  url: 'https://github.com/CogStack/MedCATtrainer'
+  keywords: [ 'hdruk', 'text-analytics']
+  categories: ['hdruk-text-analytics']
