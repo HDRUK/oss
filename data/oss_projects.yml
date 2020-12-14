@@ -107,7 +107,7 @@
   categories: ['fellows-day-2018']
  
  - name: "MedCATweb"
-  description: "This repo provides a simple interface to inspect, improve and add concepts to biomedical NER+L model (e.g. MedCAT) and a further interface for research specific training data collection"
-  url: 'https://github.com/CogStack/MedCATtrainer'
-  keywords: [ 'hdruk', 'text-analytics']
-  categories: ['hdruk-text-analytics']
+   description: "This repo provides a simple interface to inspect, improve and add concepts to biomedical NER+L model (e.g. MedCAT) and a further interface for research specific training data collection"
+   url: 'https://github.com/CogStack/MedCATtrainer'
+   keywords: [ 'hdruk', 'text-analytics']
+   categories: ['hdruk-text-analytics']
