@@ -1,4 +1,4 @@
-![collect-oss](https://github.com/HDRUK/oss/workflows/collect-oss/badge.svg) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.15353-blue)
+![collect-oss](https://github.com/HDRUK/oss/workflows/collect-oss/badge.svg) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.1528-blue)
 <p align="center">
   <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
@@ -7,7 +7,7 @@
 
 ### APPLIED ANALYTICS (2)
 1. [HDRUK_AppliedML](https://github.com/MatthewWilletts/HDRUK_AppliedML) ![GitHub stars](https://img.shields.io/github/stars/MatthewWilletts/HDRUK_AppliedML?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.03175-yellowgreen?style=flat-square)
-2. [tpot](https://github.com/EpistasisLab/tpot) ![GitHub stars](https://img.shields.io/github/stars/EpistasisLab/tpot?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.56275-yellowgreen?style=flat-square)
+2. [tpot](https://github.com/EpistasisLab/tpot) ![GitHub stars](https://img.shields.io/github/stars/EpistasisLab/tpot?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.51303-yellowgreen?style=flat-square)
 
 
 ### BHF DATA SCIENCE CENTRE (1)
@@ -59,7 +59,7 @@
 2. [covid-19](https://github.com/HDRUK/covid-19) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/covid-19?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.13133-yellowgreen?style=flat-square)
 3. [datasets](https://github.com/HDRUK/datasets) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/datasets?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.22789-yellowgreen?style=flat-square)
 4. [schemata](https://github.com/HDRUK/schemata) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/schemata?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.06444-yellowgreen?style=flat-square)
-5. [oss](https://github.com/HDRUK/oss) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/oss?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.13053-yellowgreen?style=flat-square)
+5. [oss](https://github.com/HDRUK/oss) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/oss?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.13754-yellowgreen?style=flat-square)
 6. [TRE-Survey](https://github.com/HDRUK/TRE-Survey) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/TRE-Survey?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.05626-yellowgreen?style=flat-square)
 7. [clinical-trials](https://github.com/HDRUK/clinical-trials) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/clinical-trials?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.10199-yellowgreen?style=flat-square)
 
@@ -95,7 +95,7 @@
 8. [HDR-UK_Webmapping_in_R](https://github.com/alalexiou/HDR-UK_Webmapping_in_R) ![GitHub stars](https://img.shields.io/github/stars/alalexiou/HDR-UK_Webmapping_in_R?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.05316-yellowgreen?style=flat-square)
 9. [KGPhenotyping](https://github.com/Honghan/KGPhenotyping) ![GitHub stars](https://img.shields.io/github/stars/Honghan/KGPhenotyping?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.08795-yellowgreen?style=flat-square)
 10. [uvR](https://github.com/markocherrie/uvR) ![GitHub stars](https://img.shields.io/github/stars/markocherrie/uvR?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.01915-yellowgreen?style=flat-square)
-11. [Data-Science-for-Docs](https://github.com/carpentries-incubator/Data-Science-for-Docs) ![GitHub stars](https://img.shields.io/github/stars/carpentries-incubator/Data-Science-for-Docs?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.31868-yellowgreen?style=flat-square)
+11. [Data-Science-for-Docs](https://github.com/carpentries-incubator/Data-Science-for-Docs) ![GitHub stars](https://img.shields.io/github/stars/carpentries-incubator/Data-Science-for-Docs?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.31753-yellowgreen?style=flat-square)
 12. [predCAN](https://github.com/bio-ontology-research-group/predCAN) ![GitHub stars](https://img.shields.io/github/stars/bio-ontology-research-group/predCAN?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0301-yellowgreen?style=flat-square)
 13. [ontologies](https://github.com/biosemantics/ontologies) ![GitHub stars](https://img.shields.io/github/stars/biosemantics/ontologies?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.04672-yellowgreen?style=flat-square)
 14. [EHRtemporalVariability](https://github.com/hms-dbmi/EHRtemporalVariability) ![GitHub stars](https://img.shields.io/github/stars/hms-dbmi/EHRtemporalVariability?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.11355-yellowgreen?style=flat-square)
@@ -138,7 +138,7 @@
 51. [CPRD_UTI_sepsis_elderly](https://github.com/prockenschaub/CPRD_UTI_sepsis_elderly) ![GitHub stars](https://img.shields.io/github/stars/prockenschaub/CPRD_UTI_sepsis_elderly?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.10264-yellowgreen?style=flat-square)
 52. [Electronic-Monitoring-Device-Adherence-Typology](https://github.com/hollytibble/Electronic-Monitoring-Device-Adherence-Typology) ![GitHub stars](https://img.shields.io/github/stars/hollytibble/Electronic-Monitoring-Device-Adherence-Typology?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.09027-yellowgreen?style=flat-square)
 53. [ESCs_models](https://github.com/MinhongW/ESCs_models) ![GitHub stars](https://img.shields.io/github/stars/MinhongW/ESCs_models?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.02077-yellowgreen?style=flat-square)
-54. [cgpBattenberg](https://github.com/cancerit/cgpBattenberg) ![GitHub stars](https://img.shields.io/github/stars/cancerit/cgpBattenberg?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.34537-yellowgreen?style=flat-square)
+54. [cgpBattenberg](https://github.com/cancerit/cgpBattenberg) ![GitHub stars](https://img.shields.io/github/stars/cancerit/cgpBattenberg?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.31325-yellowgreen?style=flat-square)
 
 
 > **Note:** Contributions are noted where there are direct or indirect contributions (funding and support) made by HDR UK to the above projects.
