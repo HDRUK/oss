@@ -111,8 +111,8 @@ def get_criticality_scores(projects):
 
 def main():
     projects = read_yaml(OSS_PROJECTS_YAML)
-    # projects = get_criticality_scores(projects)
-    # write_yaml(projects, 'data/oss_projects.yml')
+    projects = get_criticality_scores(projects)
+    write_yaml(projects, 'data/oss_projects.yml')
     write_readme(projects)
 
 if __name__ == "__main__":
