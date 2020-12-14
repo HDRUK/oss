@@ -9,6 +9,7 @@ import os
 import json
 import yaml
 import subprocess
+import statistics
 from github import Github
 
 OSS_PROJECTS_YAML = "data/oss_projects.yml"
@@ -37,7 +38,7 @@ def format_content(projects):
     for p in projects:
         categories.extend(p['categories'])
     categories = sorted(list(set(categories)))
-    
+
     for p in projects:
         if p['url'].startswith("https://github.com/"):
             url = p['url'].split("https://github.com/")
@@ -60,8 +61,11 @@ def write_readme(projects, filename="README.md"):
     footer = read_file("templates/footer.md")
     content = format_content(projects)
 
+    criticality_scores = [p['criticality_score'] for p in projects]
+    mean_criticality_score = round(statistics.mean(criticality_scores), 5)
+
     with open(filename, 'w') as file:
-        file.writelines(header.format(count=len(projects)))
+        file.writelines(header.format(count=len(projects), score=mean_criticality_score))
         file.writelines(content)
         file.writelines(footer)
 
@@ -107,8 +111,8 @@ def get_criticality_scores(projects):
 
 def main():
     projects = read_yaml(OSS_PROJECTS_YAML)
-    projects = get_criticality_scores(projects)
-    write_yaml(projects, 'data/oss_projects.yml')
+    # projects = get_criticality_scores(projects)
+    # write_yaml(projects, 'data/oss_projects.yml')
     write_readme(projects)
 
 if __name__ == "__main__":
