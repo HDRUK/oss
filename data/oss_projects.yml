@@ -2269,3 +2269,11 @@
   comment_frequency: 2.2
   dependents_count: 0
   criticality_score: 0.31325
+- name: crossplatform_mGWAS
+  url: https://github.com/MRC-Epid/crossplatform_mGWAS
+  description: Cross-platform genetic discovery of small molecule products of metabolism and application to clinical outcomes
+  keywords:
+  - GWAS
+  - Metabolism
+  categories:
+  - Bioinformatics
