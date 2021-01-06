@@ -1,6 +1,6 @@
 ---
-name: Submit new HDR UK affiliated open source software
-about: Describe this issue template's purpose here.
+name: New OSS
+about: Submit new HDR UK affiliated open source software
 title: ''
 labels: new oss
 assignees: susheel
