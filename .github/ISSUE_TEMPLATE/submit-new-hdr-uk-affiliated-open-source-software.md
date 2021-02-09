@@ -8,7 +8,7 @@ assignees: susheel
 ---
 
 - name: NAME
-  url: URL
+  url: GITHUB URL
   description: DESCRIPTION
   keywords:
   - KEYWORD
