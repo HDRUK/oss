@@ -87,7 +87,6 @@ def get_repo_info(repo_url, categories=None, keywords=None):
     return data
 
 def get_criticality_score(url):
-    print("Calculating criticality-score: ", url)
     env = os.environ.copy()
     env['GITHUB_AUTH_TOKEN'] = GITHUB_AUTH_TOKEN
     cmd = subprocess.Popen("criticality_score --format json --repo {}".format(url),
@@ -102,9 +101,11 @@ def get_criticality_score(url):
     return out
 
 def get_criticality_scores(projects):
-    for p in projects:
+    num_projects = len(projects)
+    for i, p in enumerate(projects):
         repo_info = get_repo_info(p['url'], p['categories'], p['keywords'])
         p.update(repo_info)
+        print("Calculating criticality-score (%s/%s): ", i, num_projects, url)
         scores = get_criticality_score(p['url'])
         p.update(scores)
     return projects
