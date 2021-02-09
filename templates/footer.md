@@ -11,9 +11,13 @@
    - name: 'Project Awesome'
      description: 'Describe what your project is about'
      url: 'https://github.com/YOUREPO (Provide your Github Repo URL)'
-     keywords: [ 'example', 'keyword' ]
-     categories: ['HDR UK', 'themes' ]
+     keywords:
+      - 'example'
+      - 'keyword'
+     categories:
+      - 'HDR UK'
+      - 'themes'
    ```
 4. Commit the changes to your fork and [submit a Pull Request](https://github.com/HDRUK/oss/compare) against the `master` branch of this project.
 
-We'll review all requests and accept them according to HDR UK's policies. If accepted, your project will be listed below
+We'll review all requests and accept them according to HDR UK's policies. If accepted, your project will be listed above
