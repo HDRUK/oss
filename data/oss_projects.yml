@@ -2269,3 +2269,9 @@
   comment_frequency: 0
   dependents_count: 0
   criticality_score: 0.07847
+- name: Linked-EHR-England-2021
+  url: https://github.com/BHFDSC/Linked-EHR-England-2021
+  description: Publication: Linked electronic health records for research on a nationwide cohort including over 54 million people in England
+  keywords: ['EHR', 'Cardiovascular', 'COVID-19']
+  categories:
+  - BHF Data Science Centre
