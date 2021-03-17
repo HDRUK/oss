@@ -2365,3 +2365,9 @@
   keywords: []
   categories:
   - NATIONAL TEXT ANALYTICS
+- name: link-lite
+  url: https://github.com/biobankinguk/link-lite
+  description: HDR Link Lite - an open source lightweight version of BC-Link 
+  keywords: []
+  categories:
+  - GATEWAY
