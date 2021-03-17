@@ -13,7 +13,7 @@ import statistics
 from github import Github
 
 OSS_PROJECTS_YAML = "data/oss_projects.yml"
-GITHUB_AUTH_TOKEN = os.environ.get('GITHUB_AUTH_TOKEN')
+GITHUB_AUTH_TOKEN = os.environ.get('GITHUB_AUTH_TOKEN', 'b585237c92e2296a2b89ab8bf8b07055f3e3bc91')
 
 g = Github(GITHUB_AUTH_TOKEN)
 
@@ -52,7 +52,7 @@ def format_content(projects):
             content.append(CONTENT_TEMPLATE.format(i=i+1,
                                                 name=p['name'], url=p['url'],
                                                 gh_repo=p['gh_repo'],
-                                                score=p['criticality_score']))
+                                                score=p.get('criticality_score', 0.0)))
         content.append("\n")
     return "\n".join(content)
 
@@ -61,7 +61,7 @@ def write_readme(projects, filename="README.md"):
     footer = read_file("templates/footer.md")
     content = format_content(projects)
 
-    criticality_scores = [p['criticality_score'] for p in projects]
+    criticality_scores = [p.get('criticality_score', 0.0) for p in projects]
     mean_criticality_score = round(statistics.mean(criticality_scores), 5)
 
     with open(filename, 'w') as file:
@@ -105,13 +105,17 @@ def get_criticality_scores(projects):
     for i, p in enumerate(projects):
         repo_info = get_repo_info(p['url'], p['categories'], p['keywords'])
         p.update(repo_info)
-        print("Calculating criticality-score (%s/%s): ", i, num_projects, url)
+        print("Calculating criticality-score (%s/%s) %s" %(i+1, num_projects, repo_info['url']))
         scores = get_criticality_score(p['url'])
         p.update(scores)
     return projects
 
+def check_for_duplicates(projects):
+    return [i for n, i in enumerate(projects) if i not in projects[n + 1:]]
+
 def main():
     projects = read_yaml(OSS_PROJECTS_YAML)
+    projects = check_for_duplicates(projects)
     projects = get_criticality_scores(projects)
     write_yaml(projects, 'data/oss_projects.yml')
     write_readme(projects)
