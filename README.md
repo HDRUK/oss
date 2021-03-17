@@ -1,17 +1,18 @@
-![collect-oss](https://github.com/HDRUK/oss/workflows/collect-oss/badge.svg) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.15598-blue)
+![collect-oss](https://github.com/HDRUK/oss/workflows/collect-oss/badge.svg) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.1385-blue)
 <p align="center">
   <img src="images/HDRUK_LOVE_OPEN_SOURCE.png">
 </p>
 
-# HDR UK Open Source Contributions (103)
+# HDR UK Open Source Contributions (116)
 
 ### APPLIED ANALYTICS (2)
 1. [HDRUK_AppliedML](https://github.com/MatthewWilletts/HDRUK_AppliedML) ![GitHub stars](https://img.shields.io/github/stars/MatthewWilletts/HDRUK_AppliedML?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.06562-yellowgreen?style=flat-square)
 2. [tpot](https://github.com/EpistasisLab/tpot) ![GitHub stars](https://img.shields.io/github/stars/EpistasisLab/tpot?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.52856-yellowgreen?style=flat-square)
 
 
-### BHF DATA SCIENCE CENTRE (1)
+### BHF DATA SCIENCE CENTRE (2)
 1. [4C-Initiative](https://github.com/HDRUK/4C-Initiative) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/4C-Initiative?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.13968-yellowgreen?style=flat-square)
+2. [Linked-EHR-England-2021](https://github.com/BHFDSC/Linked-EHR-England-2021) ![GitHub stars](https://img.shields.io/github/stars/BHFDSC/Linked-EHR-England-2021?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 
 
 ### BETTER CARE (3)
@@ -20,15 +21,16 @@
 3. [openprescribing](https://github.com/ebmdatalab/openprescribing) ![GitHub stars](https://img.shields.io/github/stars/ebmdatalab/openprescribing?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.4038-yellowgreen?style=flat-square)
 
 
-### BIOINFORMATICS (5)
+### BIOINFORMATICS (6)
 1. [bedtools2](https://github.com/arq5x/bedtools2) ![GitHub stars](https://img.shields.io/github/stars/arq5x/bedtools2?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.54159-yellowgreen?style=flat-square)
 2. [bwa](https://github.com/lh3/bwa) ![GitHub stars](https://img.shields.io/github/stars/lh3/bwa?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.43492-yellowgreen?style=flat-square)
 3. [ensembl-vep](https://github.com/Ensembl/ensembl-vep) ![GitHub stars](https://img.shields.io/github/stars/Ensembl/ensembl-vep?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.4681-yellowgreen?style=flat-square)
 4. [gatk](https://github.com/broadgsa/gatk) ![GitHub stars](https://img.shields.io/github/stars/broadgsa/gatk?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.28328-yellowgreen?style=flat-square)
 5. [seqtk](https://github.com/lh3/seqtk) ![GitHub stars](https://img.shields.io/github/stars/lh3/seqtk?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.35952-yellowgreen?style=flat-square)
+6. [crossplatform_mGWAS](https://github.com/MRC-Epid/crossplatform_mGWAS) ![GitHub stars](https://img.shields.io/github/stars/MRC-Epid/crossplatform_mGWAS?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 
 
-### COVID-19 (9)
+### COVID-19 (15)
 1. [2019nCoV_proportion_asym](https://github.com/yangclaraliu/2019nCoV_proportion_asym) ![GitHub stars](https://img.shields.io/github/stars/yangclaraliu/2019nCoV_proportion_asym?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.08316-yellowgreen?style=flat-square)
 2. [COVID19_clustersize](https://github.com/akira-endo/COVID19_clustersize) ![GitHub stars](https://img.shields.io/github/stars/akira-endo/COVID19_clustersize?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.08555-yellowgreen?style=flat-square)
 3. [comix_covid-19-first_wave](https://github.com/jarvisc1/comix_covid-19-first_wave) ![GitHub stars](https://img.shields.io/github/stars/jarvisc1/comix_covid-19-first_wave?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.09973-yellowgreen?style=flat-square)
@@ -38,6 +40,12 @@
 7. [covid19_cases_from_deaths](https://github.com/thibautjombart/covid19_cases_from_deaths) ![GitHub stars](https://img.shields.io/github/stars/thibautjombart/covid19_cases_from_deaths?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.17351-yellowgreen?style=flat-square)
 8. [los_review](https://github.com/esnightingale/los_review) ![GitHub stars](https://img.shields.io/github/stars/esnightingale/los_review?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.13069-yellowgreen?style=flat-square)
 9. [screening_outbreak_delay](https://github.com/cmmid/screening_outbreak_delay) ![GitHub stars](https://img.shields.io/github/stars/cmmid/screening_outbreak_delay?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.05822-yellowgreen?style=flat-square)
+10. [COVID19_NPIs_vs_Rt](https://github.com/yangclaraliu/COVID19_NPIs_vs_Rt) ![GitHub stars](https://img.shields.io/github/stars/yangclaraliu/COVID19_NPIs_vs_Rt?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+11. [comix_uk_covid_restrictions](https://github.com/jarvisc1/comix_uk_covid_restrictions) ![GitHub stars](https://img.shields.io/github/stars/jarvisc1/comix_uk_covid_restrictions?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+12. [transmission_inference](https://github.com/davideyre/transmission_inference) ![GitHub stars](https://img.shields.io/github/stars/davideyre/transmission_inference?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+13. [ncov_measles_Kenya](https://github.com/CarolineNM/ncov_measles_Kenya) ![GitHub stars](https://img.shields.io/github/stars/CarolineNM/ncov_measles_Kenya?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+14. [SocialBubble](https://github.com/tsleng93/SocialBubble) ![GitHub stars](https://img.shields.io/github/stars/tsleng93/SocialBubble?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+15. [nsaids-covid-research](https://github.com/opensafely/nsaids-covid-research) ![GitHub stars](https://img.shields.io/github/stars/opensafely/nsaids-covid-research?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 
 
 ### GATEWAY (4)
@@ -62,6 +70,17 @@
 5. [oss](https://github.com/HDRUK/oss) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/oss?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.1373-yellowgreen?style=flat-square)
 6. [papers](https://github.com/HDRUK/papers) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/papers?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.27505-yellowgreen?style=flat-square)
 7. [schemata](https://github.com/HDRUK/schemata) ![GitHub stars](https://img.shields.io/github/stars/HDRUK/schemata?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.20968-yellowgreen?style=flat-square)
+
+
+### NATIONAL PHENOMICS RESOURCE (1)
+1. [ukb-biomarker-phenotypes](https://github.com/spiros/ukb-biomarker-phenotypes) ![GitHub stars](https://img.shields.io/github/stars/spiros/ukb-biomarker-phenotypes?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+
+
+### NATIONAL TEXT ANALYTICS (4)
+1. [onset_pipeline](https://github.com/medesto/onset_pipeline) ![GitHub stars](https://img.shields.io/github/stars/medesto/onset_pipeline?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+2. [nlp2phenome](https://github.com/CogStack/nlp2phenome) ![GitHub stars](https://img.shields.io/github/stars/CogStack/nlp2phenome?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+3. [CogStack-SemEHR](https://github.com/CogStack/CogStack-SemEHR) ![GitHub stars](https://img.shields.io/github/stars/CogStack/CogStack-SemEHR?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+4. [risk-score-builder](https://github.com/CogStack/risk-score-builder) ![GitHub stars](https://img.shields.io/github/stars/CogStack/risk-score-builder?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 
 
 ### NATIONAL PHENOMICS RESOURCE (6)
@@ -153,9 +172,13 @@
    - name: 'Project Awesome'
      description: 'Describe what your project is about'
      url: 'https://github.com/YOUREPO (Provide your Github Repo URL)'
-     keywords: [ 'example', 'keyword' ]
-     categories: ['HDR UK', 'themes' ]
+     keywords:
+      - 'example'
+      - 'keyword'
+     categories:
+      - 'HDR UK'
+      - 'themes'
    ```
 4. Commit the changes to your fork and [submit a Pull Request](https://github.com/HDRUK/oss/compare) against the `master` branch of this project.
 
-We'll review all requests and accept them according to HDR UK's policies. If accepted, your project will be listed below
+We'll review all requests and accept them according to HDR UK's policies. If accepted, your project will be listed above
