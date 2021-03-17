@@ -2271,7 +2271,97 @@
   criticality_score: 0.07847
 - name: Linked-EHR-England-2021
   url: https://github.com/BHFDSC/Linked-EHR-England-2021
-  description: Publication: Linked electronic health records for research on a nationwide cohort including over 54 million people in England
-  keywords: ['EHR', 'Cardiovascular', 'COVID-19']
+  description: Publication - Linked electronic health records for research on a nationwide
+    cohort including over 54 million people in England
+  keywords:
+  - EHR
+  - Cardiovascular
+  - COVID-19
   categories:
   - BHF Data Science Centre
+- name: crossplatform_mGWAS
+  url: https://github.com/MRC-Epid/crossplatform_mGWAS
+  description: Cross-platform genetic discovery of small molecule products of metabolism
+    and application to clinical outcomes
+  keywords:
+  - GWAS
+  - Metabolism
+  categories:
+  - Bioinformatics
+- name: ukb-biomarker-phenotypes
+  url: https://github.com/spiros/ukb-biomarker-phenotypes
+  description: Phenotyping algorithms for common biomarkers in primary care EHR for
+    UK Biobank
+  keywords: []
+  categories:
+  - NATIONAL PHENOMICS RESOURCE
+- name: COVID19_NPIs_vs_Rt
+  url: https://github.com/yangclaraliu/COVID19_NPIs_vs_Rt
+  description: null
+  keywords: []
+  categories:
+  - COVID-19
+- name: comix_uk_covid_restrictions
+  url: https://github.com/jarvisc1/comix_uk_covid_restrictions
+  description: code and data to reproduce analysis for Comix local and national restrictions
+    paper
+  keywords: []
+  categories:
+  - COVID-19
+- name: transmission_inference
+  url: https://github.com/davideyre/transmission_inference
+  description: This repository contains a series of healthcare-associated tranmission
+    tools currently under development.
+  keywords: []
+  categories:
+  - COVID-19
+- name: ncov_measles_Kenya
+  url: https://github.com/CarolineNM/ncov_measles_Kenya
+  description: Analysis of risk of measles outbreak during COVID19 pandemic in Kenya
+  keywords: []
+  categories:
+  - COVID-19
+- name: SocialBubble
+  url: https://github.com/tsleng93/SocialBubble
+  description: This repository contains the underlying code and functions used in
+    the paper "The effectiveness of social bubbles as part of a Covid-19 lockdown
+    exit strategy, a modelling study",
+  keywords: []
+  categories:
+  - COVID-19
+- name: nsaids-covid-research
+  url: https://github.com/opensafely/nsaids-covid-research
+  description: OpenSAFELY Association between routine use of NSAIDs and COVID-19 deaths
+  keywords: []
+  categories:
+  - COVID-19
+- name: onset_pipeline
+  url: https://github.com/medesto/onset_pipeline
+  description: Annotation guidelines and methodological approach for the paper -Viani
+    N, Botelle R, Kerwin J, Yin L, Patel R, Stewart R, Velupillai S. "When Did It
+    Start? A Natural Language Processing Approach for Determining Disease Onset from
+    Mental Health Text"
+  keywords: []
+  categories:
+  - NATIONAL TEXT ANALYTICS
+- name: nlp2phenome
+  url: https://github.com/CogStack/nlp2phenome
+  description: using AI model to infer patient phenotypes from identified named entities
+    (instances of biomedical concepts)
+  keywords: []
+  categories:
+  - NATIONAL TEXT ANALYTICS
+- name: CogStack-SemEHR
+  url: https://github.com/CogStack/CogStack-SemEHR
+  description: Surfacing Semantic Data from Clinical Notes in Electronic Health Records
+    for Tailored Care, Trial Recruitment and Clinical Research
+  keywords: []
+  categories:
+  - NATIONAL TEXT ANALYTICS
+- name: risk-score-builder
+  url: https://github.com/CogStack/risk-score-builder
+  description: Map clinical risk score concepts to structured definitions using ontologies,
+    calculate structured risk scores from NLP.
+  keywords: []
+  categories:
+  - NATIONAL TEXT ANALYTICS
