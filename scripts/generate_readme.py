@@ -13,7 +13,7 @@ import statistics
 from github import Github
 
 OSS_PROJECTS_YAML = "data/oss_projects.yml"
-GITHUB_AUTH_TOKEN = os.environ.get('GITHUB_AUTH_TOKEN', 'YOUR_TOKEN_HERE')
+GITHUB_AUTH_TOKEN = os.environ.get('GITHUB_AUTH_TOKEN', 'EXAMPLE-TOKEN')
 
 g = Github(GITHUB_AUTH_TOKEN)
 
