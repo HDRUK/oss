@@ -74,7 +74,10 @@ def get_repo_info(repo_url, categories=None, keywords=None):
     if keywords is None: keywords = []
     # Get views - repo.get_views_traffic()
     # Get clones - repo.get_clones_traffic()
-    repo = g.get_repo(repo_url.replace("https://github.com/", ""))
+    try:
+        repo = g.get_repo(repo_url.replace("https://github.com/", ""))
+    except:
+        return None
     data = {
         'name': repo.name,
         'url': "https://github.com/" + repo.full_name,
@@ -104,10 +107,15 @@ def get_criticality_scores(projects):
     num_projects = len(projects)
     for i, p in enumerate(projects):
         repo_info = get_repo_info(p['url'], p['categories'], p['keywords'])
+        if repo_info is None:
+            continue
         p.update(repo_info)
         print("Calculating criticality-score (%s/%s) %s" %(i+1, num_projects, repo_info['url']))
-        scores = get_criticality_score(p['url'])
-        p.update(scores)
+        try:
+            scores = get_criticality_score(p['url'])
+            p.update(scores)
+        except:
+            continue
     return projects
 
 def check_for_duplicates(projects):
