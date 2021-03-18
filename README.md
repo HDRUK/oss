@@ -30,6 +30,10 @@
 6. [crossplatform_mGWAS](https://github.com/MRC-Epid/crossplatform_mGWAS) ![GitHub stars](https://img.shields.io/github/stars/MRC-Epid/crossplatform_mGWAS?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 
 
+### COHORT DISCOVERY (1)
+1. [link-lite](https://github.com/biobankinguk/link-lite) ![GitHub stars](https://img.shields.io/github/stars/biobankinguk/link-lite?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
+
+
 ### COVID-19 (15)
 1. [2019nCoV_proportion_asym](https://github.com/yangclaraliu/2019nCoV_proportion_asym) ![GitHub stars](https://img.shields.io/github/stars/yangclaraliu/2019nCoV_proportion_asym?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.08316-yellowgreen?style=flat-square)
 2. [COVID19_clustersize](https://github.com/akira-endo/COVID19_clustersize) ![GitHub stars](https://img.shields.io/github/stars/akira-endo/COVID19_clustersize?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.08555-yellowgreen?style=flat-square)
@@ -46,10 +50,6 @@
 13. [ncov_measles_Kenya](https://github.com/CarolineNM/ncov_measles_Kenya) ![GitHub stars](https://img.shields.io/github/stars/CarolineNM/ncov_measles_Kenya?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 14. [SocialBubble](https://github.com/tsleng93/SocialBubble) ![GitHub stars](https://img.shields.io/github/stars/tsleng93/SocialBubble?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 15. [nsaids-covid-research](https://github.com/opensafely/nsaids-covid-research) ![GitHub stars](https://img.shields.io/github/stars/opensafely/nsaids-covid-research?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
-
-
-### GATEWAY (1)
-1. [link-lite](https://github.com/biobankinguk/link-lite) ![GitHub stars](https://img.shields.io/github/stars/biobankinguk/link-lite?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-0.0-yellowgreen?style=flat-square)
 
 
 ### GATEWAY (4)

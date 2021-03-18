@@ -2420,7 +2420,7 @@
   description: HDR Link Lite - an open source lightweight version of BC-Link
   keywords: []
   categories:
-  - GATEWAY
+  - COHORT DISCOVERY
 - name: papers
   url: https://github.com/HDRUK/papers
   description: Extract of publications that mention HDR-UK
