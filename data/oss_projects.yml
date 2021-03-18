@@ -1820,32 +1820,6 @@
   comment_frequency: 0.0
   dependents_count: 6
   criticality_score: 0.1373
-- name: papers
-  url: https://github.com/HDRUK/papers
-  description: Extract of publications that mention HDR-UK
-  keywords:
-  - publications
-  - hdruk
-  - covid-19
-  - coronavirus
-  - 2019-ncov
-  - sars-cov
-  categories:
-  - HDR UK
-  stars: 4
-  forks: 2
-  language: Python
-  created_since: 20
-  updated_since: 0
-  contributor_count: 2
-  org_count: 1
-  commit_frequency: 10.6
-  recent_releases_count: 1
-  closed_issues_count: 2
-  updated_issues_count: 4
-  comment_frequency: 0.5
-  dependents_count: 12
-  criticality_score: 0.27505
 - name: phenomenet-vp
   url: https://github.com/bio-ontology-research-group/phenomenet-vp
   description: A phenotype-based tool for variant prioritization in WES and WGS data
@@ -1947,6 +1921,82 @@
   comment_frequency: 0.5
   dependents_count: 0
   criticality_score: 0.13902
+- name: komenti
+  url: https://github.com/reality/komenti
+  description: Semantic query and text mining tool
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: generate-patients
+  url: https://github.com/reality/generate-patients
+  description: Generate noisy patients for semantic similarity experiments
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: add_synonyms
+  url: https://github.com/reality/add_synonyms
+  description: Add a list of synonyms to an OWL ontology
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: sampledd
+  url: https://github.com/reality/sampledd
+  description: Sample patients who will die during their stay in MIMIC-iii, and their
+    associated text records.
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: mimpred
+  url: https://github.com/reality/mimpred
+  description: (In development) Reproducible experimental foundation for experiments
+    with MIMIC
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: mim3val
+  url: https://github.com/reality/mim3val
+  description: Test the performance of several negation algorithms over MIMIC-III,
+    and a standalone implementation of komenti-negation
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: mimsim
+  url: https://github.com/reality/mimsim
+  description: Tools for performing semantic similarity over MIMIC-III
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: ecmo
+  url: https://github.com/reality/ecmo
+  description: Extended Clinical Measurement Ontology with additional axiomatisation
+    and connection with HP and MP ontologies
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: synonym_expansion_validation
+  url: https://github.com/reality/synonym_expansion_validation
+  description: Extended HPO and DO vocabularies for use with text mining
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: UNMIREOT
+  url: https://github.com/bio-ontology-research-group/UNMIREOT
+  description: Tools for testing the mutual consistency of biomedical ontologies
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: ocimido
+  url: https://github.com/sap218/ocimido
+  description: Ocular Immune-Mediated Inflammatory Diseases Ontology
+  keywords: []
+  categories:
+  - UNCATEGORISED
+- name: jabberwocky
+  url: https://github.com/sap218/jabberwocky
+  description: Toolkit for ontologies - text mining & synonym curation
+  keywords: []
+  categories:
+  - UNCATEGORISED
 - name: resource_manager
   url: https://github.com/gkoutos-group/resource_manager
   description: This is a simple resource manager
@@ -2294,7 +2344,7 @@
     UK Biobank
   keywords: []
   categories:
-  - NATIONAL PHENOMICS RESOURCE
+  - National Phenomics Resource
 - name: COVID19_NPIs_vs_Rt
   url: https://github.com/yangclaraliu/COVID19_NPIs_vs_Rt
   description: null
@@ -2343,31 +2393,57 @@
     Mental Health Text"
   keywords: []
   categories:
-  - NATIONAL TEXT ANALYTICS
+  - National Text Analytics
 - name: nlp2phenome
   url: https://github.com/CogStack/nlp2phenome
   description: using AI model to infer patient phenotypes from identified named entities
     (instances of biomedical concepts)
   keywords: []
   categories:
-  - NATIONAL TEXT ANALYTICS
+  - National Text Analytics
 - name: CogStack-SemEHR
   url: https://github.com/CogStack/CogStack-SemEHR
   description: Surfacing Semantic Data from Clinical Notes in Electronic Health Records
     for Tailored Care, Trial Recruitment and Clinical Research
   keywords: []
   categories:
-  - NATIONAL TEXT ANALYTICS
+  - National Text Analytics
 - name: risk-score-builder
   url: https://github.com/CogStack/risk-score-builder
   description: Map clinical risk score concepts to structured definitions using ontologies,
     calculate structured risk scores from NLP.
   keywords: []
   categories:
-  - NATIONAL TEXT ANALYTICS
+  - National Text Analytics
 - name: link-lite
   url: https://github.com/biobankinguk/link-lite
-  description: HDR Link Lite - an open source lightweight version of BC-Link 
+  description: HDR Link Lite - an open source lightweight version of BC-Link
   keywords: []
   categories:
   - GATEWAY
+- name: papers
+  url: https://github.com/HDRUK/papers
+  description: Extract of publications that mention HDR-UK
+  keywords:
+  - publications
+  - hdruk
+  - covid-19
+  - coronavirus
+  - 2019-ncov
+  - sars-cov
+  categories:
+  - HDR UK
+  stars: 4
+  forks: 2
+  language: Python
+  created_since: 20
+  updated_since: 0
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 10.6
+  recent_releases_count: 1
+  closed_issues_count: 2
+  updated_issues_count: 4
+  comment_frequency: 0.5
+  dependents_count: 12
+  criticality_score: 0.27505
