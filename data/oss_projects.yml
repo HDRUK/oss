@@ -921,14 +921,14 @@
   created_since: 88
   updated_since: 0
   contributor_count: 85
-  org_count: 7
+  org_count: 8
   commit_frequency: 0.7
   recent_releases_count: 1
   closed_issues_count: 12
-  updated_issues_count: 27
+  updated_issues_count: 26
   comment_frequency: 2.0
   dependents_count: 199
-  criticality_score: 0.53894
+  criticality_score: 0.54447
 - name: bhpm
   url: https://github.com/rcarragh/bhpm
   description: Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes
@@ -1402,10 +1402,10 @@
   commit_frequency: 14.2
   recent_releases_count: 51
   closed_issues_count: 73
-  updated_issues_count: 76
+  updated_issues_count: 75
   comment_frequency: 0.5
   dependents_count: 26
-  criticality_score: 0.44983
+  criticality_score: 0.44974
 - name: gateway-web
   url: https://github.com/HDRUK/gateway-web
   description: HDR UK Gateway Web
@@ -1424,10 +1424,10 @@
   commit_frequency: 22.0
   recent_releases_count: 63
   closed_issues_count: 130
-  updated_issues_count: 134
+  updated_issues_count: 133
   comment_frequency: 0.6
   dependents_count: 63
-  criticality_score: 0.48497
+  criticality_score: 0.48492
 - name: gatk
   url: https://github.com/broadgsa/gatk
   description: Official code repository for GATK versions 1.0 through 3.7 (core engine).
@@ -1507,8 +1507,8 @@
   closed_issues_count: 0
   updated_issues_count: 0
   comment_frequency: 0
-  dependents_count: 0
-  criticality_score: 0.13842
+  dependents_count: 2
+  criticality_score: 0.15812
 - name: hdruk_bbmri_hack
   url: https://github.com/simonjupp/hdruk_bbmri_hack
   description: ''
@@ -1620,7 +1620,7 @@
   keywords: []
   categories:
   - UNCATEGORISED
-  stars: 122
+  stars: 123
   forks: 42
   language: Perl
   created_since: 85
@@ -1813,13 +1813,13 @@
   updated_since: 0
   contributor_count: 1
   org_count: 1
-  commit_frequency: 1.1
+  commit_frequency: 1.2
   recent_releases_count: 0
   closed_issues_count: 4
   updated_issues_count: 12
   comment_frequency: 0.0
   dependents_count: 6
-  criticality_score: 0.18341
+  criticality_score: 0.1842
 - name: phenomenet-vp
   url: https://github.com/bio-ontology-research-group/phenomenet-vp
   description: A phenotype-based tool for variant prioritization in WES and WGS data
@@ -1991,7 +1991,7 @@
   stars: 0
   forks: 0
   language: Groovy
-  created_since: 0
+  created_since: 1
   updated_since: 0
   contributor_count: 1
   org_count: 0
@@ -2001,7 +2001,7 @@
   updated_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.02077
+  criticality_score: 0.03778
 - name: mimpred
   url: https://github.com/reality/mimpred
   description: (In development) Reproducible experimental foundation for experiments
@@ -2196,27 +2196,6 @@
   comment_frequency: 0
   dependents_count: 0
   criticality_score: 0.05316
-- name: risk-score-builder
-  url: https://github.com/CogStack/risk-score-builder
-  description: Map clinical risk score concepts to structured definitions using ontologies,
-    calculate structured risk scores from NLP.
-  keywords: []
-  categories:
-  - National Text Analytics
-  stars: 1
-  forks: 1
-  language: Python
-  created_since: 24
-  updated_since: 0
-  contributor_count: 3
-  org_count: 10
-  commit_frequency: 0.1
-  recent_releases_count: 1
-  closed_issues_count: 0
-  updated_issues_count: 0
-  comment_frequency: 0
-  dependents_count: 0
-  criticality_score: 0.2489
 - name: schemata
   url: https://github.com/HDRUK/schemata
   description: HDR UK Schemas
@@ -2332,11 +2311,11 @@
   org_count: 8
   commit_frequency: 2.5
   recent_releases_count: 10
-  closed_issues_count: 30
-  updated_issues_count: 57
+  closed_issues_count: 29
+  updated_issues_count: 55
   comment_frequency: 1.7
-  dependents_count: 15
-  criticality_score: 0.52098
+  dependents_count: 0
+  criticality_score: 0.47079
 - name: treeImbalance
   url: https://github.com/bdearlove/treeImbalance
   description: An R package for detecting asymmetry in time-sampled phylogenetic trees.
@@ -2609,7 +2588,7 @@
   forks: 1
   language: C++
   created_since: 48
-  updated_since: 22
+  updated_since: 23
   contributor_count: 2
   org_count: 0
   commit_frequency: 0.0
@@ -2618,7 +2597,7 @@
   updated_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.0489
+  criticality_score: 0.04786
 - name: ncov_measles_Kenya
   url: https://github.com/CarolineNM/ncov_measles_Kenya
   description: Analysis of risk of measles outbreak during COVID19 pandemic in Kenya
@@ -2657,8 +2636,8 @@
   closed_issues_count: 0
   updated_issues_count: 0
   comment_frequency: 0
-  dependents_count: 0
-  criticality_score: 0.18825
+  dependents_count: 3
+  criticality_score: 0.21311
 - name: nsaids-covid-research
   url: https://github.com/opensafely/nsaids-covid-research
   description: ''
