@@ -32,7 +32,7 @@ def read_file(filename):
 
 def format_content(projects):
     CATEGORY_TEMPLATE = "### {category} ({count})"
-    CONTENT_TEMPLATE = "{i}. [{name}]({url}) ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-{score}-yellowgreen?style=flat-square)"
+    CONTENT_TEMPLATE = "{i}. [{name}]({url}): {description} ![GitHub stars](https://img.shields.io/github/stars/{gh_repo}?style=flat-square) ![Criticality Score](https://img.shields.io/badge/criticality--score-{score}-yellowgreen?style=flat-square)"
     content = []
     categories = []
     for p in projects:
@@ -51,6 +51,7 @@ def format_content(projects):
         for i, p in enumerate(filtered_projects):
             content.append(CONTENT_TEMPLATE.format(i=i+1,
                                                 name=p['name'], url=p['url'],
+                                                description=p['description'],
                                                 gh_repo=p['gh_repo'],
                                                 score=p.get('criticality_score', 0.0)))
         content.append("\n")
