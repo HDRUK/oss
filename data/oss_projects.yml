@@ -2011,8 +2011,7 @@
   - UNCATEGORISED
 - name: mim3val
   url: https://github.com/reality/mim3val
-  description: mimic3 nlp evaluation. needs a NOTEEVENTS.csv, processed files from
-    Komenti
+  description: mimic3 nlp evaluation. needs a NOTEEVENTS.csv, processed files from Komenti
   keywords: []
   categories:
   - UNCATEGORISED
@@ -2790,6 +2789,109 @@
   comment_frequency: 0.0
   dependents_count: 0
   criticality_score: 0.11851
+- name: CALIBER Drugdose
+  url: http://r-forge.r-project.org/R/?group_id=1598
+  description: medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.
+  keywords: []
+  categories:
+  - National Text Analytics
+  - National Phenomic Resource
+- name: CRIS Natural Language Processing
+  url: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
+  description: library of applications available for use within South London and Maudsley (SLaM) on the Clinical Record Interaction Search (CRIS) platform. Access to CRIS must be applied for in order to use applications.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: EdIE-Viz
+  url: https://github.com/Edinburgh-LTG/edieviz/
+  description: provides an interface for stroke-related clinical concept recognition and negation detection in brain radiology reports.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: EdIE-R
+  url: https://github.com/Edinburgh-LTG/edieviz/tree/master/EdIE-R
+  description: a rule-based information extraction tool developed for brain imaging reports.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: EdIE-BiLSTM
+  url: https://github.com/Edinburgh-LTG/edieviz/tree/master/EdIE-N
+  description: a neural network system for named entity recognition and negation detection with a character-aware BiLSTM sentence encoder for brain imaging reports.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: EdIE-BERT
+  url: https://github.com/Edinburgh-LTG/edieviz/tree/master/EdIE-N
+  description: a neural network system for named entity recognition and negation detection with a pretrained BERT encoder (BlueBERT) for brain imaging reports.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: EndoMineR
+  url: https://github.com/sebastiz/EndoMineR/
+  description: a rule-based information extraction system for free-text and semi-structured endoscopy reports and their associated pathology specimens.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: Freetext Matching Algorithm
+  url: https://github.com/anoopshah/freetext-matching-algorithm
+  description: this computer program is designed to extract diagnoses, dates, durations, laboratory results and selected examination findings (heart rate and blood pressure) from unstructured free text. The program was created based on text in general practice records from the Vision system, and information is encoded using Read Clinical Terms.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: HELIN
+  url: https://github.com/cambridgeltl/HELIN
+  description: A web API demo for performing named entity recognition and linking (NER-L) on biomedical text.§
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: Med7
+  url: https://github.com/kormilitzin/med7
+  description: dedicated named entity and recognition system to identify 7 categories - dosage, drug, duration, form, frequency, route and strength.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: SIPHS
+  url: https://siphs.org/resources
+  description: a collection of software and datasets to support linguistic analysis of online health communities.
+  keywords: []
+  categories:
+  - National Text Analytics
+- name: BioReddit Embeddings
+  url: https://github.com/basaldella/bioreddit
+  description:  a set of word embeddings (GloVe, ELMo, Flair) trained on medical subreddits. The embeddings are trained on ~800,000 Reddit posts from over 60 medical-themed communities.
+  keywords: ["dataset", "models"]
+  categories:
+  - National Text Analytics
+- name: BioWSD
+  url: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
+  description: corpora containing examples of two ambiguities from the biomedical domain (abbreviations and gene names).
+  keywords: ["dataset", "models"]
+  categories:
+  - National Text Analytics
+- name: Cardiovascular research abstracts
+  url: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
+  description: corpus containing examples of potentially contradictory claims from Medline abstracts describing cardiovascular research intended as a useful resource for researchers working on similar problems.
+  keywords: ["dataset", "models"]
+  categories:
+  - National Text Analytics
+- name: COMETA
+  url: https://github.com/cambridgeltl/cometa
+  description: an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.
+  keywords: ["dataset", "models"]
+  categories:
+  - National Text Analytics
+- name: PheneBank
+  url: https://zenodo.org/record/1197188#.X9OFtcv7SjB
+  description: 4 million MEDLINE abstracts as well as 3.8M open-access PMC full articles annotated with 9 classes of entity - Phenotype, Disease, Anatomy, Cell, Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies - SNOMED, HPO, MeSH, PRO, and FMA.
+  keywords: ["dataset", "models"]
+  categories:
+  - National Text Analytics
+- name: SapBERT
+  url: https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext
+  description: Despite the widespread success of self-supervised learning via masked language models, learning representations directly from text to accurately capture complex and fine-grained semantic relationships in the biomedical domain remains as a challenge. SapBERT is a pre-training scheme based on BERT. It self-aligns the representation space of biomedical entities with a metric learning objective function leveraging UMLS, a collection of biomedical ontologies with >4M concepts.
+  keywords: ["dataset", "models"]
+  categories:
+  - National Text Analytics
 - name: papers
   url: https://github.com/HDRUK/papers
   description: Extract of publications that mention HDR-UK
