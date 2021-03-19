@@ -253,7 +253,7 @@
   forks: 2
   language: Shell
   created_since: 24
-  updated_since: 22
+  updated_since: 23
   contributor_count: 1
   org_count: 0
   commit_frequency: 0.0
@@ -262,7 +262,7 @@
   updated_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.02119
+  criticality_score: 0.02015
 - name: DWGSIM
   url: https://github.com/nh13/DWGSIM
   description: Whole Genome Simulator for Next-Generation Sequencing
@@ -796,10 +796,10 @@
   commit_frequency: 14.2
   recent_releases_count: 16
   closed_issues_count: 92
-  updated_issues_count: 99
+  updated_issues_count: 100
   comment_frequency: 0.8
   dependents_count: 252
-  criticality_score: 0.50176
+  criticality_score: 0.50183
 - name: RF-FeatureSelection-PowerAnalysis
   url: https://github.com/joelarkman/RF-FeatureSelection-PowerAnalysis
   description: ''
@@ -925,10 +925,10 @@
   commit_frequency: 0.7
   recent_releases_count: 1
   closed_issues_count: 12
-  updated_issues_count: 26
+  updated_issues_count: 27
   comment_frequency: 2.0
   dependents_count: 199
-  criticality_score: 0.52774
+  criticality_score: 0.52799
 - name: bhpm
   url: https://github.com/rcarragh/bhpm
   description: Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes
@@ -1095,7 +1095,7 @@
   stars: 14
   forks: 13
   language: HTML
-  created_since: 38
+  created_since: 39
   updated_since: 0
   contributor_count: 9
   org_count: 2
@@ -1105,7 +1105,7 @@
   updated_issues_count: 1
   comment_frequency: 0.0
   dependents_count: 3
-  criticality_score: 0.25729
+  criticality_score: 0.25791
 - name: clustering_w2v
   url: https://github.com/RichJackson/clustering_w2v
   description: ''
@@ -1816,10 +1816,10 @@
   commit_frequency: 1.2
   recent_releases_count: 0
   closed_issues_count: 4
-  updated_issues_count: 12
+  updated_issues_count: 14
   comment_frequency: 0.0
   dependents_count: 6
-  criticality_score: 0.1842
+  criticality_score: 0.18519
 - name: phenomenet-vp
   url: https://github.com/bio-ontology-research-group/phenomenet-vp
   description: A phenotype-based tool for variant prioritization in WES and WGS data
@@ -2302,7 +2302,7 @@
   - xgboost
   categories:
   - Applied Analytics
-  stars: 7899
+  stars: 7900
   forks: 1392
   language: Python
   created_since: 65
@@ -2568,7 +2568,7 @@
   forks: 1
   language: R
   created_since: 5
-  updated_since: 1
+  updated_since: 2
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.1
@@ -2577,7 +2577,7 @@
   updated_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.08173
+  criticality_score: 0.07178
 - name: transmission_inference
   url: https://github.com/davideyre/transmission_inference
   description: ''
