@@ -52,7 +52,7 @@ def format_content(projects):
             content.append(CONTENT_TEMPLATE.format(i=i+1,
                                                 name=p['name'], url=p['url'],
                                                 description=p['description'],
-                                                gh_repo=p['gh_repo'],
+                                                gh_repo=p.get('gh_repo', ""),
                                                 score=p.get('criticality_score', 0.0)))
         content.append("\n")
     return "\n".join(content)

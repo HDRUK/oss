@@ -148,7 +148,7 @@
   stars: 1
   forks: 1
   language: R
-  created_since: 19
+  created_since: 20
   updated_since: 18
   contributor_count: 1
   org_count: 1
@@ -158,7 +158,7 @@
   updated_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.05441
+  criticality_score: 0.05561
 - name: CPRD_UTI_sepsis_elderly
   url: https://github.com/prockenschaub/CPRD_UTI_sepsis_elderly
   description: 'This is the R code and code lists used to analyse the data for paper
@@ -706,9 +706,9 @@
   recent_releases_count: 4
   closed_issues_count: 4
   updated_issues_count: 8
-  comment_frequency: 1.4
+  comment_frequency: 1.5
   dependents_count: 23
-  criticality_score: 0.35827
+  criticality_score: 0.36001
 - name: PGM
   url: https://github.com/azizfurqan/PGM
   description: ''
@@ -793,13 +793,13 @@
   updated_since: 0
   contributor_count: 12
   org_count: 2
-  commit_frequency: 14.1
+  commit_frequency: 14.2
   recent_releases_count: 16
-  closed_issues_count: 91
+  closed_issues_count: 92
   updated_issues_count: 99
   comment_frequency: 0.8
   dependents_count: 252
-  criticality_score: 0.50158
+  criticality_score: 0.50176
 - name: RF-FeatureSelection-PowerAnalysis
   url: https://github.com/joelarkman/RF-FeatureSelection-PowerAnalysis
   description: ''
@@ -809,8 +809,8 @@
   stars: 0
   forks: 3
   language: R
-  created_since: 20
-  updated_since: 20
+  created_since: 21
+  updated_since: 21
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.0
@@ -915,20 +915,20 @@
   keywords: []
   categories:
   - Bioinformatics
-  stars: 658
-  forks: 247
+  stars: 660
+  forks: 248
   language: C
-  created_since: 88
-  updated_since: 0
+  created_since: 89
+  updated_since: 1
   contributor_count: 85
-  org_count: 7
+  org_count: 8
   commit_frequency: 0.7
   recent_releases_count: 1
   closed_issues_count: 12
-  updated_issues_count: 27
+  updated_issues_count: 26
   comment_frequency: 2.0
   dependents_count: 199
-  criticality_score: 0.53894
+  criticality_score: 0.52774
 - name: bhpm
   url: https://github.com/rcarragh/bhpm
   description: Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes
@@ -1379,11 +1379,11 @@
   org_count: 6
   commit_frequency: 1.8
   recent_releases_count: 9
-  closed_issues_count: 85
-  updated_issues_count: 120
+  closed_issues_count: 86
+  updated_issues_count: 122
   comment_frequency: 1.5
   dependents_count: 16
-  criticality_score: 0.47813
+  criticality_score: 0.47832
 - name: gateway-api
   url: https://github.com/HDRUK/gateway-api
   description: HDR UK Gateway API
@@ -1402,10 +1402,10 @@
   commit_frequency: 14.2
   recent_releases_count: 51
   closed_issues_count: 73
-  updated_issues_count: 76
+  updated_issues_count: 75
   comment_frequency: 0.5
   dependents_count: 26
-  criticality_score: 0.44983
+  criticality_score: 0.44974
 - name: gateway-web
   url: https://github.com/HDRUK/gateway-web
   description: HDR UK Gateway Web
@@ -1424,10 +1424,10 @@
   commit_frequency: 22.0
   recent_releases_count: 63
   closed_issues_count: 130
-  updated_issues_count: 134
+  updated_issues_count: 133
   comment_frequency: 0.6
   dependents_count: 63
-  criticality_score: 0.48497
+  criticality_score: 0.48492
 - name: gatk
   url: https://github.com/broadgsa/gatk
   description: Official code repository for GATK versions 1.0 through 3.7 (core engine).
@@ -1507,8 +1507,8 @@
   closed_issues_count: 0
   updated_issues_count: 0
   comment_frequency: 0
-  dependents_count: 0
-  criticality_score: 0.13842
+  dependents_count: 2
+  criticality_score: 0.15812
 - name: hdruk_bbmri_hack
   url: https://github.com/simonjupp/hdruk_bbmri_hack
   description: ''
@@ -1610,17 +1610,17 @@
   commit_frequency: 0.1
   recent_releases_count: 0
   closed_issues_count: 9
-  updated_issues_count: 40
+  updated_issues_count: 41
   comment_frequency: 0.7
   dependents_count: 53
-  criticality_score: 0.35231
+  criticality_score: 0.35248
 - name: loftee
   url: https://github.com/konradjk/loftee
   description: ''
   keywords: []
   categories:
   - UNCATEGORISED
-  stars: 122
+  stars: 124
   forks: 42
   language: Perl
   created_since: 85
@@ -1770,11 +1770,11 @@
   org_count: 0
   commit_frequency: 0.0
   recent_releases_count: 0
-  closed_issues_count: 0
-  updated_issues_count: 1
-  comment_frequency: 0.0
+  closed_issues_count: 1
+  updated_issues_count: 3
+  comment_frequency: 0.3
   dependents_count: 0
-  criticality_score: 0.05771
+  criticality_score: 0.07841
 - name: openprescribing
   url: https://github.com/ebmdatalab/openprescribing
   description: A Django app providing a REST API and dashboards for the HSCIC's GP
@@ -1813,13 +1813,13 @@
   updated_since: 0
   contributor_count: 1
   org_count: 1
-  commit_frequency: 1.1
+  commit_frequency: 1.2
   recent_releases_count: 0
   closed_issues_count: 4
   updated_issues_count: 12
   comment_frequency: 0.0
   dependents_count: 6
-  criticality_score: 0.18341
+  criticality_score: 0.1842
 - name: phenomenet-vp
   url: https://github.com/bio-ontology-research-group/phenomenet-vp
   description: A phenotype-based tool for variant prioritization in WES and WGS data
@@ -1991,7 +1991,7 @@
   stars: 0
   forks: 0
   language: Groovy
-  created_since: 0
+  created_since: 1
   updated_since: 0
   contributor_count: 1
   org_count: 0
@@ -2001,7 +2001,7 @@
   updated_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.02077
+  criticality_score: 0.03778
 - name: mimpred
   url: https://github.com/reality/mimpred
   description: (In development) Reproducible experimental foundation for experiments
@@ -2011,7 +2011,8 @@
   - UNCATEGORISED
 - name: mim3val
   url: https://github.com/reality/mim3val
-  description: mimic3 nlp evaluation. needs a NOTEEVENTS.csv, processed files from Komenti
+  description: mimic3 nlp evaluation. needs a NOTEEVENTS.csv, processed files from
+    Komenti
   keywords: []
   categories:
   - UNCATEGORISED
@@ -2195,27 +2196,6 @@
   comment_frequency: 0
   dependents_count: 0
   criticality_score: 0.05316
-- name: risk-score-builder
-  url: https://github.com/CogStack/risk-score-builder
-  description: Map clinical risk score concepts to structured definitions using ontologies,
-    calculate structured risk scores from NLP.
-  keywords: []
-  categories:
-  - National Text Analytics
-  stars: 1
-  forks: 1
-  language: Python
-  created_since: 24
-  updated_since: 0
-  contributor_count: 3
-  org_count: 10
-  commit_frequency: 0.1
-  recent_releases_count: 1
-  closed_issues_count: 0
-  updated_issues_count: 0
-  comment_frequency: 0
-  dependents_count: 0
-  criticality_score: 0.2489
 - name: schemata
   url: https://github.com/HDRUK/schemata
   description: HDR UK Schemas
@@ -2322,8 +2302,8 @@
   - xgboost
   categories:
   - Applied Analytics
-  stars: 7900
-  forks: 1391
+  stars: 7899
+  forks: 1392
   language: Python
   created_since: 65
   updated_since: 2
@@ -2331,11 +2311,11 @@
   org_count: 8
   commit_frequency: 2.5
   recent_releases_count: 10
-  closed_issues_count: 30
-  updated_issues_count: 57
+  closed_issues_count: 29
+  updated_issues_count: 55
   comment_frequency: 1.7
   dependents_count: 15
-  criticality_score: 0.52098
+  criticality_score: 0.52051
 - name: treeImbalance
   url: https://github.com/bdearlove/treeImbalance
   description: An R package for detecting asymmetry in time-sampled phylogenetic trees.
@@ -2494,14 +2474,14 @@
   created_since: 1
   updated_since: 0
   contributor_count: 3
-  org_count: 1
+  org_count: 2
   commit_frequency: 0.5
   recent_releases_count: 0
   closed_issues_count: 1
   updated_issues_count: 1
   comment_frequency: 0.0
   dependents_count: 0
-  criticality_score: 0.10579
+  criticality_score: 0.12568
 - name: crossplatform_mGWAS
   url: https://github.com/MRC-Epid/crossplatform_mGWAS
   description: "Cross-platform genetic discovery of small molecule products of metabolism\
@@ -2608,7 +2588,7 @@
   forks: 1
   language: C++
   created_since: 48
-  updated_since: 22
+  updated_since: 23
   contributor_count: 2
   org_count: 0
   commit_frequency: 0.0
@@ -2617,7 +2597,7 @@
   updated_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.0489
+  criticality_score: 0.04786
 - name: ncov_measles_Kenya
   url: https://github.com/CarolineNM/ncov_measles_Kenya
   description: Analysis of risk of measles outbreak during COVID19 pandemic in Kenya
@@ -2656,8 +2636,8 @@
   closed_issues_count: 0
   updated_issues_count: 0
   comment_frequency: 0
-  dependents_count: 0
-  criticality_score: 0.18825
+  dependents_count: 3
+  criticality_score: 0.21311
 - name: nsaids-covid-research
   url: https://github.com/opensafely/nsaids-covid-research
   description: ''
@@ -2734,7 +2714,7 @@
   - semantic-annotation
   categories:
   - National Text Analytics
-  stars: 53
+  stars: 54
   forks: 12
   language: JavaScript
   created_since: 54
@@ -2791,105 +2771,213 @@
   criticality_score: 0.11851
 - name: CALIBER Drugdose
   url: http://r-forge.r-project.org/R/?group_id=1598
-  description: medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.
+  description: medication dosage instructions in electronic health records are often
+    in the form of text rather than numbers. This program is designed to convert the
+    text into numbers for the dose, frequency, units, duration etc.
   keywords: []
   categories:
   - National Text Analytics
   - National Phenomic Resource
 - name: CRIS Natural Language Processing
   url: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  description: library of applications available for use within South London and Maudsley (SLaM) on the Clinical Record Interaction Search (CRIS) platform. Access to CRIS must be applied for in order to use applications.
+  description: library of applications available for use within South London and Maudsley
+    (SLaM) on the Clinical Record Interaction Search (CRIS) platform. Access to CRIS
+    must be applied for in order to use applications.
   keywords: []
   categories:
   - National Text Analytics
 - name: EdIE-Viz
   url: https://github.com/Edinburgh-LTG/edieviz/
-  description: provides an interface for stroke-related clinical concept recognition and negation detection in brain radiology reports.
+  description: provides an interface for stroke-related clinical concept recognition
+    and negation detection in brain radiology reports.
   keywords: []
   categories:
   - National Text Analytics
 - name: EdIE-R
   url: https://github.com/Edinburgh-LTG/edieviz/tree/master/EdIE-R
-  description: a rule-based information extraction tool developed for brain imaging reports.
+  description: a rule-based information extraction tool developed for brain imaging
+    reports.
   keywords: []
   categories:
   - National Text Analytics
 - name: EdIE-BiLSTM
   url: https://github.com/Edinburgh-LTG/edieviz/tree/master/EdIE-N
-  description: a neural network system for named entity recognition and negation detection with a character-aware BiLSTM sentence encoder for brain imaging reports.
+  description: a neural network system for named entity recognition and negation detection
+    with a character-aware BiLSTM sentence encoder for brain imaging reports.
   keywords: []
   categories:
   - National Text Analytics
 - name: EdIE-BERT
   url: https://github.com/Edinburgh-LTG/edieviz/tree/master/EdIE-N
-  description: a neural network system for named entity recognition and negation detection with a pretrained BERT encoder (BlueBERT) for brain imaging reports.
+  description: a neural network system for named entity recognition and negation detection
+    with a pretrained BERT encoder (BlueBERT) for brain imaging reports.
   keywords: []
   categories:
   - National Text Analytics
 - name: EndoMineR
   url: https://github.com/sebastiz/EndoMineR/
-  description: a rule-based information extraction system for free-text and semi-structured endoscopy reports and their associated pathology specimens.
+  description: a rule-based information extraction system for free-text and semi-structured
+    endoscopy reports and their associated pathology specimens.
   keywords: []
   categories:
   - National Text Analytics
-- name: Freetext Matching Algorithm
+- name: freetext-matching-algorithm
   url: https://github.com/anoopshah/freetext-matching-algorithm
-  description: this computer program is designed to extract diagnoses, dates, durations, laboratory results and selected examination findings (heart rate and blood pressure) from unstructured free text. The program was created based on text in general practice records from the Vision system, and information is encoded using Read Clinical Terms.
+  description: Source code for the Freetext Matching Algorithm, a natural language
+    processing system for clinical text
   keywords: []
   categories:
   - National Text Analytics
+  stars: 8
+  forks: 1
+  language: Visual Basic
+  created_since: 95
+  updated_since: 86
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 3
+  criticality_score: 0.09163
 - name: HELIN
   url: https://github.com/cambridgeltl/HELIN
-  description: A web API demo for performing named entity recognition and linking (NER-L) on biomedical text.§
+  description: Demo Entity Linking API for the HDR Text Analytic Team.
   keywords: []
   categories:
   - National Text Analytics
-- name: Med7
+  stars: 1
+  forks: 0
+  language: Python
+  created_since: 2
+  updated_since: 1
+  contributor_count: 2
+  org_count: 2
+  commit_frequency: 0.3
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.11104
+- name: med7
   url: https://github.com/kormilitzin/med7
-  description: dedicated named entity and recognition system to identify 7 categories - dosage, drug, duration, form, frequency, route and strength.
+  description: ''
   keywords: []
   categories:
   - National Text Analytics
+  stars: 101
+  forks: 12
+  language: null
+  created_since: 13
+  updated_since: 1
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  closed_issues_count: 1
+  updated_issues_count: 1
+  comment_frequency: 2.0
+  dependents_count: 0
+  criticality_score: 0.15871
 - name: SIPHS
   url: https://siphs.org/resources
-  description: a collection of software and datasets to support linguistic analysis of online health communities.
+  description: a collection of software and datasets to support linguistic analysis
+    of online health communities.
   keywords: []
   categories:
   - National Text Analytics
-- name: BioReddit Embeddings
+- name: bioreddit
   url: https://github.com/basaldella/bioreddit
-  description:  a set of word embeddings (GloVe, ELMo, Flair) trained on medical subreddits. The embeddings are trained on ~800,000 Reddit posts from over 60 medical-themed communities.
-  keywords: ["dataset", "models"]
+  description: Word embeddings trained on medical subreddits.
+  keywords:
+  - dataset
+  - models
   categories:
   - National Text Analytics
+  stars: 4
+  forks: 0
+  language: null
+  created_since: 18
+  updated_since: 2
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.11081
 - name: BioWSD
   url: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  description: corpora containing examples of two ambiguities from the biomedical domain (abbreviations and gene names).
-  keywords: ["dataset", "models"]
+  description: corpora containing examples of two ambiguities from the biomedical
+    domain (abbreviations and gene names).
+  keywords:
+  - dataset
+  - models
   categories:
   - National Text Analytics
 - name: Cardiovascular research abstracts
   url: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
-  description: corpus containing examples of potentially contradictory claims from Medline abstracts describing cardiovascular research intended as a useful resource for researchers working on similar problems.
-  keywords: ["dataset", "models"]
+  description: corpus containing examples of potentially contradictory claims from
+    Medline abstracts describing cardiovascular research intended as a useful resource
+    for researchers working on similar problems.
+  keywords:
+  - dataset
+  - models
   categories:
   - National Text Analytics
-- name: COMETA
+- name: cometa
   url: https://github.com/cambridgeltl/cometa
-  description: an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.
-  keywords: ["dataset", "models"]
+  description: 'Corpus of Online Medical EnTities: the cometA corpus'
+  keywords:
+  - entity-linking
+  - bionlp
+  - nlp
+  - machine-learning
+  - deep-learning
+  - transformer
   categories:
   - National Text Analytics
+  stars: 16
+  forks: 2
+  language: Jupyter Notebook
+  created_since: 6
+  updated_since: 2
+  contributor_count: 2
+  org_count: 2
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  closed_issues_count: 0
+  updated_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.10814
 - name: PheneBank
   url: https://zenodo.org/record/1197188#.X9OFtcv7SjB
-  description: 4 million MEDLINE abstracts as well as 3.8M open-access PMC full articles annotated with 9 classes of entity - Phenotype, Disease, Anatomy, Cell, Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies - SNOMED, HPO, MeSH, PRO, and FMA.
-  keywords: ["dataset", "models"]
+  description: 4 million MEDLINE abstracts as well as 3.8M open-access PMC full articles
+    annotated with 9 classes of entity - Phenotype, Disease, Anatomy, Cell, Cell_line,
+    GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies - SNOMED,
+    HPO, MeSH, PRO, and FMA.
+  keywords:
+  - dataset
+  - models
   categories:
   - National Text Analytics
 - name: SapBERT
   url: https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext
-  description: Despite the widespread success of self-supervised learning via masked language models, learning representations directly from text to accurately capture complex and fine-grained semantic relationships in the biomedical domain remains as a challenge. SapBERT is a pre-training scheme based on BERT. It self-aligns the representation space of biomedical entities with a metric learning objective function leveraging UMLS, a collection of biomedical ontologies with >4M concepts.
-  keywords: ["dataset", "models"]
+  description: Despite the widespread success of self-supervised learning via masked
+    language models, learning representations directly from text to accurately capture
+    complex and fine-grained semantic relationships in the biomedical domain remains
+    as a challenge. SapBERT is a pre-training scheme based on BERT. It self-aligns
+    the representation space of biomedical entities with a metric learning objective
+    function leveraging UMLS, a collection of biomedical ontologies with >4M concepts.
+  keywords:
+  - dataset
+  - models
   categories:
   - National Text Analytics
 - name: papers
