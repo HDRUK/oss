@@ -2777,7 +2777,7 @@
   keywords: []
   categories:
   - National Text Analytics
-  - National Phenomic Resource
+  - National Phenomics Resource
 - name: CRIS Natural Language Processing
   url: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
   description: library of applications available for use within South London and Maudsley
@@ -2980,6 +2980,52 @@
   - models
   categories:
   - National Text Analytics
+- name: discrete_frechet
+  url: https://github.com/spiros/discrete_frechet
+  description: Python module to calculate Frechet distance between curves (for trajectory clustering)
+  keywords: []
+  categories:
+  - National Phenomics Resource
+- name: docker-ukbiobank-utils
+  url: https://github.com/spiros/docker-ukbiobank-utils
+  description: Docker containers to run UKB utilities
+  keywords: []
+  categories:
+  - National Phenomics Resource
+- name: tofu
+  url: https://github.com/spiros/tofu
+  description: Tofu – a tool to generate synethetic UKB data for training and development
+  keywords: []
+  categories:
+  - National Phenomics Resource
+- name: ohdsi-etl-caliber
+  url: https://github.com/thehyve/ohdsi-etl-caliber
+  description: ETL to OMOP CALIBER
+  keywords: []
+  categories:
+  - National Phenomics Resource
+- name: phemap
+  url: https://github.com/spiros/phemap
+  description: Phemap – Python library to map ICD10 to Phecodes
+  keywords: []
+  categories:
+  - National Phenomics Resource
+- name: ukbiobank-resources
+  url: https://github.com/spiros/ukbiobank-resources
+  description: curated list of UKB resources
+  keywords: []
+  categories:
+  - National Phenomics Resource
+- name: biobankAccelerometerAnalysis
+  url: https://github.com/activityMonitoring/biobankAccelerometerAnalysis
+  description: Machine learning of activities of daily living from time-series accelerometer datasets. As used to analyse data from 100,000 UK Biobank participants.
+  keywords:
+  - accelerometer
+  - machine learning
+  - physical activity
+  - sleep
+  categories:
+  - Applied Analytics
 - name: papers
   url: https://github.com/HDRUK/papers
   description: Extract of publications that mention HDR-UK
