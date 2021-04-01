@@ -3088,14 +3088,10 @@
 - name: ggquickeda
   url: https://github.com/smouksassi/ggquickeda
   description: 'ggquickeda is an R Shiny app/package providing a graphical user interface
-    (GUI) to ggplot2 and table1.
-
-
-    It enables you to quickly explore your data and to detect trends on the fly. You
-    can do scatter plots, dotplots, boxplots, barplots, histograms, densities and
-    summary statistics of one or multiple variable(s) by column(s) splits and an optional
-    overall column.
-
+    (GUI) to ggplot2 and table1. It enables you to quickly explore your data and to
+    detect trends on the fly. You can do scatter plots, dotplots, boxplots, barplots,
+    histograms, densities and summary statistics of one or multiple variable(s) by
+    column(s) splits and an optional overall column.
 
     It also has the km, kmband and kmticks geoms/stats to facilitate the plotting
     of Kaplan-Meier Survival curves'
