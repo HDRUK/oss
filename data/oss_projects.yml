@@ -265,9 +265,8 @@
   criticality_score: 0.02015
 - name: Pulse Wave Database
   url: https://github.com/peterhcharlton/pwdb/
-  description: 'The aim of this project is to develop a database of simulated pulse
+  description: The aim of this project is to develop a database of simulated pulse
     waves with which to test pulse wave analysis algorithms.
-
 
     A database of simulated pulse waves representative of a sample of healthy adults
     was created. It contains several types of pulse waves (such as those measured
@@ -277,9 +276,8 @@
     were verified against in vivo data. Case studies were published (at https://doi.org/10.1152/ajpheart.00218.2019
     ) demonstrating the utility of the database.
 
-
-    The database is a useful resource for research and education on the topics of:
-    signal processing, physiology, and computational modelling.'
+    The database is a useful resource for research and education on the topics of -
+    signal processing, physiology, and computational modelling.
   keywords:
   - ageing
   - cardiovascular
@@ -2563,16 +2561,16 @@
   criticality_score: 0.10868
 - name: crossplatform_mGWAS
   url: https://github.com/MRC-Epid/crossplatform_mGWAS
-  description: "Cross-platform genetic discovery of small molecule products of metabolism\
-    \ and application to clinical outcomes Luca A. Lotta, Maik Pietzner, Isobel D.\
-    \ Stewart, Laura B.L. Wittemans, Chen Li, Roberto Bonelli, Johannes Raffler, Emma\
-    \ K. Biggs, Clare Oliver-Williams, Victoria P.W. Auyeung, Jian\u2019an Luan, Eleanor\
-    \ Wheeler, Ellie Paige, Praveen Surendran, Gregory A. Michelotti, Robert A. Scott,\
-    \ Stephen Burgess, Verena Zuber, Eleanor Sanderson, Albert Koulman, Fumiaki Imamura,\
-    \ Nita G. Forouhi, Kay-Tee Khaw, MacTel Consortium, Julian L. Griffin, Angela\
-    \ M. Wood, Gabi Kastenm\xFCller, John Danesh, Adam S. Butterworth, Fiona M. Gribble,\
-    \ Frank Reimann, Melanie Bahlo, Eric Fauman, Nicholas J. Wareham, Claudia Langenberg\
-    \ bioRxiv 2020.02.03.932541; doi: https://doi.org/10.1101/2020.02.03.932541"
+  description: Cross-platform genetic discovery of small molecule products of metabolism
+    and application to clinical outcomes Luca A. Lotta, Maik Pietzner, Isobel D. Stewart,
+    Laura B.L. Wittemans, Chen Li, Roberto Bonelli, Johannes Raffler, Emma K. Biggs,
+    Clare Oliver-Williams, Victoria P.W. Auyeung, Jian\u2019an Luan, Eleanor Wheeler,
+    Ellie Paige, Praveen Surendran, Gregory A. Michelotti, Robert A. Scott, Stephen
+    Burgess, Verena Zuber, Eleanor Sanderson, Albert Koulman, Fumiaki Imamura, Nita
+    G. Forouhi, Kay-Tee Khaw, MacTel Consortium, Julian L. Griffin, Angela M. Wood,
+    Gabi Kastenm\xFCller, John Danesh, Adam S. Butterworth, Fiona M. Gribble, Frank
+    Reimann, Melanie Bahlo, Eric Fauman, Nicholas J. Wareham, Claudia Langenberg bioRxiv
+    2020.02.03.932541; doi- https://doi.org/10.1101/2020.02.03.932541
   keywords:
   - GWAS
   - Metabolism
@@ -3061,16 +3059,19 @@
   - National Text Analytics
 - name: ISARIC 4C prognostic score
   url: https://isaric4c.net/risk
-  description: "The ISARIC 4C prognostic score uses data from more than 70,000 hospital\
-    \ admissions, we have devised a simple, robust and generalisable prognostic scoring\
-    \ system for hospitalised patients.\n\nThe 4C Mortality Score is a risk stratification\
-    \ score that predicts in-hospital mortality for hospitalised COVID-19 patients,\
-    \ produced by the ISARIC 4C consortium. It is intended for use by clinicians.\
-    \ It is designed to be easy-to-use, and require only parameters that are commonly\
-    \ available at hospital presentation.\n\nFor full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1)\
-    \ introducing the score. \n\nThis is an infographic that visualises risk, based\
-    \ on observed mortality among hospitalised adult COVID19 patients recruited into\
-    \ the ISARIC 4C study in the UK."
+  description: 'The ISARIC 4C prognostic score uses data from more than 70,000 hospital
+    admissions, we have devised a simple, robust and generalisable prognostic scoring
+    system for hospitalised patients.
+
+    The 4C Mortality Score is a risk stratification score that predicts in-hospital
+    mortality for hospitalised COVID-19 patients, produced by the ISARIC 4C consortium.
+    It is intended for use by clinicians. It is designed to be easy-to-use, and require
+    only parameters that are commonly available at hospital presentation.
+
+    For full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1)
+    introducing the score. This is an infographic that visualises risk, based on observed
+    mortality among hospitalised adult COVID19 patients recruited into the ISARIC
+    4C study in the UK.'
   keywords:
   - Risk Calculator
   - COVID-19
