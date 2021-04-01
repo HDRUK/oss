@@ -263,6 +263,85 @@
   comment_frequency: 0
   dependents_count: 0
   criticality_score: 0.02015
+- name: Pulse Wave Database
+  url: https://github.com/peterhcharlton/pwdb/
+  description: 'The aim of this project is to develop a database of simulated pulse
+    waves with which to test pulse wave analysis algorithms.
+
+
+    A database of simulated pulse waves representative of a sample of healthy adults
+    was created. It contains several types of pulse waves (such as those measured
+    by smart watches and fitness trackers) at common measurement sites for 4,374 virtual
+    subjects aged 25 - 75 years old. The virtual subjects exhibit a range of cardiovascular
+    properties across the normal ranges encountered in healthy people. The results
+    were verified against in vivo data. Case studies were published (at https://doi.org/10.1152/ajpheart.00218.2019
+    ) demonstrating the utility of the database.
+
+
+    The database is a useful resource for research and education on the topics of:
+    signal processing, physiology, and computational modelling.'
+  keywords:
+  - ageing
+  - cardiovascular
+  - pulse waves
+  - signal processing
+  - dataset
+  - Haemodynamics
+  categories:
+  - UNCATEGORISED
+- name: Diversity Analysis Tool
+  url: https://github.com/BenevolentAI/benevolentai-dat
+  description: Characterizing diversity in biodata and producing visualizations. Read
+    more here- https://github.com/BenevolentAI/benevolentai-dat#documentation-of-demographic-variables
+  keywords:
+  - Diversity
+  - Demographics
+  - Healthcare
+  categories:
+  - COVID-19
+- name: MedNorm Corpus
+  url: https://data.mendeley.com/datasets/b9x7xxb9sz/1
+  description: 'MedNorm is a corpus of 27,979 textual descriptions simultaneously
+    mapped to both MedDRA and SNOMED-CT, sourced from five publicly available datasets
+    across biomedical and social media domains.
+
+    The cross-terminology medical concept embeddings are 64-dimensional vectors for
+    UMLS, MedDRA and SNOMED-CT concepts that are able to capture semantic similarities
+    between concepts from different medical terminologies.'
+  keywords:
+  - corpus
+  - hdruk-text
+  - natural language processing
+  - nlp
+  - text analytics
+  categories:
+  - National Text Analytics
+- name: PheneBank- Processed Medline Abstracts and PMC full articles
+  url: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
+  description: '24 million MEDLINE abstracts as well as 3.8M open-access PMC full
+    articles annotated with 9 classes of entity: Phenotype, Disease, Anatomy, Cell,
+    Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies:
+    SNOMED, HPO, MeSH, PRO, and FMA.'
+  keywords:
+  - corpus
+  - hdruk-text
+  - natural language processing
+  - nlp
+  - text analytics
+  categories:
+  - National Text Analytics
+- name: ExECT
+  url: https://github.com/swneurosci/ExECT-V2
+  description: 'Application to extract EEG investigations.  Output Values: EEG Performed
+    (Yes/No), EEG Result (Normal, Abnormal, Unknown)'
+  keywords:
+  - NLP
+  - rule-based
+  - nlp
+  - hdruk-text
+  - text analytics
+  categories:
+  - National Text Analytics
 - name: DWGSIM
   url: https://github.com/nh13/DWGSIM
   description: Whole Genome Simulator for Next-Generation Sequencing
@@ -2980,9 +3059,121 @@
   - models
   categories:
   - National Text Analytics
+- name: ISARIC 4C prognostic score
+  url: https://isaric4c.net/risk
+  description: "The ISARIC 4C prognostic score uses data from more than 70,000 hospital\
+    \ admissions, we have devised a simple, robust and generalisable prognostic scoring\
+    \ system for hospitalised patients.\n\nThe 4C Mortality Score is a risk stratification\
+    \ score that predicts in-hospital mortality for hospitalised COVID-19 patients,\
+    \ produced by the ISARIC 4C consortium. It is intended for use by clinicians.\
+    \ It is designed to be easy-to-use, and require only parameters that are commonly\
+    \ available at hospital presentation.\n\nFor full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1)\
+    \ introducing the score. \n\nThis is an infographic that visualises risk, based\
+    \ on observed mortality among hospitalised adult COVID19 patients recruited into\
+    \ the ISARIC 4C study in the UK."
+  keywords:
+  - Risk Calculator
+  - COVID-19
+  - Respiratory
+  - Infection
+  categories:
+  - COVID-19
+- name: BSTI COVID-19 Imaging Database
+  url: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
+  description: ''
+  keywords:
+  - COVID-19
+  categories:
+  - COVID-19
+- name: ggquickeda
+  url: https://github.com/smouksassi/ggquickeda
+  description: 'ggquickeda is an R Shiny app/package providing a graphical user interface
+    (GUI) to ggplot2 and table1.
+
+
+    It enables you to quickly explore your data and to detect trends on the fly. You
+    can do scatter plots, dotplots, boxplots, barplots, histograms, densities and
+    summary statistics of one or multiple variable(s) by column(s) splits and an optional
+    overall column.
+
+
+    It also has the km, kmband and kmticks geoms/stats to facilitate the plotting
+    of Kaplan-Meier Survival curves'
+  keywords:
+  - COVID-19
+  - Infection
+  categories:
+  - COVID-19
+- name: CMMID Interactive Applications
+  url: https://cmmid.github.io/visualisations
+  description: ''
+  keywords:
+  - Modelling
+  - Visualisation
+  - COVID-19
+  categories:
+  - COVID-19
+- name: OurRisk.CoV
+  url: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
+  description: 'We recently used large-scale samples of NHS patient data to estimate
+    the excess risk of mortality which may be associated with coronavirus (COVID-19).
+    We wanted to develop this research to inform simple tools to allow interaction
+    and exploration by policymakers, researchers and the public. In the OurRisk.CoV
+    tool, we provide our initial learning in relation to the implementation and development
+    of policy responses to the COVID-19 pandemic. We have provided some simple tools
+    to allow interaction and exploration.
+
+    OurRisk.CoV is initially intended for use by researchers, policy makers and those
+    who seek to work with patient data to inform responses to the current emergency.'
+  keywords:
+  - Risk Calculator
+  - electronic health records
+  - COVID-19
+  categories:
+  - National Phenomics Resource
+- name: COVID-19 CovidSim Microsimulation Model
+  url: https://github.com/mrc-ide/covid-sim
+  description: This is the COVID-19 CovidSim microsimulation model developed by the
+    MRC Centre for Global Infectious Disease Analysis hosted at Imperial College,
+    London.
+  keywords:
+  - Modelling
+  - COVID-19
+  categories:
+  - COVID-19
+- name: CALIBER health records research toolkit
+  url: http://caliberanalysis.r-forge.r-project.org/
+  description: 'This project comprises a set of R packages to assist in epidemiological
+    studies using electronic health records databases.
+
+    CALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London.
+    CALIBER investigators represent a collaboration between epidemiologists, clinicians,
+    statisticians, health informaticians and computer scientists with initial funding
+    from the Wellcome Trust and the National Institute for Health Research.
+
+    The goal of CALIBER is to provide evidence across different stages of translation,
+    from discovery, through evaluation to implementation where electronic health records
+    provide new scientific opportunities.'
+  keywords:
+  - Imputation
+  - Phenomics
+  - Data management
+  - Natural language processing
+  categories:
+  - National Phenomics Resource
+- name: COVID-19 Phenomics
+  url: http://covid19-phenomics.org/
+  description: ''
+  keywords:
+  - Phenomics
+  - COVID-19
+  categories:
+  - National Phenomics Resource
+  - COVID-19
 - name: discrete_frechet
   url: https://github.com/spiros/discrete_frechet
-  description: Python module to calculate Frechet distance between curves (for trajectory clustering)
+  description: Python module to calculate Frechet distance between curves (for trajectory
+    clustering)
   keywords: []
   categories:
   - National Phenomics Resource
@@ -2994,7 +3185,8 @@
   - National Phenomics Resource
 - name: tofu
   url: https://github.com/spiros/tofu
-  description: Tofu – a tool to generate synethetic UKB data for training and development
+  description: "Tofu \u2013 a tool to generate synethetic UKB data for training and\
+    \ development"
   keywords: []
   categories:
   - National Phenomics Resource
@@ -3006,7 +3198,7 @@
   - National Phenomics Resource
 - name: phemap
   url: https://github.com/spiros/phemap
-  description: Phemap – Python library to map ICD10 to Phecodes
+  description: "Phemap \u2013 Python library to map ICD10 to Phecodes"
   keywords: []
   categories:
   - National Phenomics Resource
@@ -3018,7 +3210,8 @@
   - National Phenomics Resource
 - name: biobankAccelerometerAnalysis
   url: https://github.com/activityMonitoring/biobankAccelerometerAnalysis
-  description: Machine learning of activities of daily living from time-series accelerometer datasets. As used to analyse data from 100,000 UK Biobank participants.
+  description: Machine learning of activities of daily living from time-series accelerometer
+    datasets. As used to analyse data from 100,000 UK Biobank participants.
   keywords:
   - accelerometer
   - machine learning
