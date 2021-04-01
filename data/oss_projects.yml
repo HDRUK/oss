@@ -3172,19 +3172,9 @@
   - COVID-19
 - name: discrete_frechet
   url: https://github.com/spiros/discrete_frechet
-<<<<<<< HEAD
   description: Python module to calculate Frechet distance between curves (for trajectory
     clustering)
   keywords: []
-=======
-  description: "Compute the Fr\xE9chet distance between two polygonal curves in Euclidean\
-    \ space."
-  keywords:
-  - python
-  - distance-measures
-  - smoothing
-  - curve
->>>>>>> 8b8eaa58a1e255d83e32a5a3dd8e0a698607dd9f
   categories:
   - National Phenomics Resource
   stars: 38
@@ -3224,16 +3214,9 @@
   criticality_score: 0.14067
 - name: tofu
   url: https://github.com/spiros/tofu
-<<<<<<< HEAD
   description: "Tofu \u2013 a tool to generate synethetic UKB data for training and\
     \ development"
   keywords: []
-=======
-  description: Tofu is a Python tool for generating synthetic UK Biobank data.
-  keywords:
-  - ukbiobank
-  - synthetic-data
->>>>>>> 8b8eaa58a1e255d83e32a5a3dd8e0a698607dd9f
   categories:
   - National Phenomics Resource
   stars: 17
@@ -3272,19 +3255,8 @@
   criticality_score: 0.10799
 - name: phemap
   url: https://github.com/spiros/phemap
-<<<<<<< HEAD
   description: "Phemap \u2013 Python library to map ICD10 to Phecodes"
   keywords: []
-=======
-  description: Functions to map between ICD-10 terms and PheCodes for UK Biobank hospital
-    electronic health records
-  keywords:
-  - phecode
-  - electronic-health-records
-  - uk-biobank
-  - icd-10
-  - clinical-terminologies
->>>>>>> 8b8eaa58a1e255d83e32a5a3dd8e0a698607dd9f
   categories:
   - National Phenomics Resource
   stars: 10
@@ -3324,12 +3296,8 @@
   criticality_score: 0.11952
 - name: biobankAccelerometerAnalysis
   url: https://github.com/activityMonitoring/biobankAccelerometerAnalysis
-<<<<<<< HEAD
   description: Machine learning of activities of daily living from time-series accelerometer
     datasets. As used to analyse data from 100,000 UK Biobank participants.
-=======
-  description: Extracting meaningful health information from large accelerometer datasets
->>>>>>> 8b8eaa58a1e255d83e32a5a3dd8e0a698607dd9f
   keywords:
   - accelerometer
   - machine learning
