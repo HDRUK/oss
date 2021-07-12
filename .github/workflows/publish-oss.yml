@@ -1,0 +1,31 @@
+name: Publish OSS from issue
+
+on:
+  issues:
+    types: ['labeled']
+
+jobs:
+  publish-oss:
+    if: ${{ github.event.label.name == 'triaged' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate OSS
+        env:
+          POST_TITLE: ${{ github.event.issue.title }}
+          POST_BODY: ${{ github.event.issue.body }}
+        run: |
+          cat $POST_BODY >> data/oss_projects.yml
+          
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          delete-branch: true
+          title: "publish: ${{ github.event.issue.title}}"
+          body: |
+            Automagically sprouted for publishing.
+            Merging will publish to: https://github.com/HDRUK/oss
+            Closes #${{ github.event.issue.number }}
+          reviewers: "${{ github.repository_owner }}"
+          commit-message: "${{ github.event.issue.title }}"
