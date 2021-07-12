@@ -1,0 +1,78 @@
+name: Submit new OSS
+about: Submit new HDR UK affiliated open source software
+title: '[OSS]: '
+labels: submitted
+assignees: 
+  - susheel
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to submit a new OSS!
+  - type: input
+    id: name
+    attributes:
+      label: Category / Project Name
+      description: Please supply the proposed OSS catgeory/name
+      placeholder: e.g. hdruk/papers
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Please supply the proposed OSS URL
+      placeholder: e.g. https://github.com/HDRUK/papers
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please supply a brief description of the OSS
+      placeholder: This software calculates the meaning of life, the universe and eveything
+  - type: textarea
+    id: keywords
+    attributes:
+      label: Keywords
+      description: Please supply a list of relevant keywords (markdown format)
+      placeholder: "- foo"
+  - type: dropdown
+    id: main-category
+    attributes:
+      label: OSS Main Category
+      options:
+        - Applied Analytics
+        - BHF Data Science Centre
+        - Better Care
+        - Bioinformatics
+        - COVID-19
+        - Cohort Discovery
+        - Gateway
+        - Gateway (MVP)
+        - HDR UK
+        - ICODA
+        - National Phenomics Resource
+        - National Text Analytics
+        - Training
+        - Other
+  - type: dropdown
+    id: other-categories
+    attributes:
+      label: OSS Other Categories
+      multiple: true
+      options:
+        - Applied Analytics
+        - BHF Data Science Centre
+        - Better Care
+        - Bioinformatics
+        - COVID-19
+        - Cohort Discovery
+        - Gateway
+        - Gateway (MVP)
+        - HDR UK
+        - ICODA
+        - National Phenomics Resource
+        - National Text Analytics
+        - Training
+        - Other
