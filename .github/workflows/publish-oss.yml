@@ -30,4 +30,4 @@ jobs:
             Merging will publish to: https://github.com/HDRUK/oss
             Closes #${{ github.event.issue.number }}
           reviewers: "${{ github.repository_owner }}"
-          commit-message: "${{ github.event.issue.title }}"
+          commit-message: "New ${{ github.event.issue.title }}"
