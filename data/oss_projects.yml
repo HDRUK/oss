@@ -3413,3 +3413,14 @@
   comment_frequency: 0.5
   dependents_count: 12
   criticality_score: 0.27505
+- name: SAHSU-COVID-19
+  url: https://github.com/smallAreaHealthStatisticsUnit/SAHSU-COVID-19/tree/v1.0.0
+  description: Repository for code and results from SAHSU's research into SARS-CoV-2 and COVID-19
+  keywords:
+  - covid-19
+  - coronavirus
+  - 2019-ncov
+  - sars-cov
+  categories:
+  - COVID-19
+
