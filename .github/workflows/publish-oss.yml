@@ -16,7 +16,9 @@ jobs:
           POST_TITLE: ${{ github.event.issue.title }}
           POST_BODY: ${{ github.event.issue.body }}
         run: |
-          cat $POST_BODY >> data/oss_projects.yml
+          cat << EOF >> data/oss_projects.yml
+          ${POST_BODY}
+          EOF
           
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
