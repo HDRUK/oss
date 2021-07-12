@@ -25,22 +25,19 @@ jobs:
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     
-    - name: Lint with flake8
-      run: |
-        # stop the build if there are Python syntax errors or undefined names
-        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-        # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
-        flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
-    
-    - name: Generate README from oss_projects.yml
+    - name: Collect OSS Metrics
       env:
         GITHUB_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        python scripts/annotate_oss.py
+    
+    - name: Generate README from OSS projects
       run: |
         python scripts/generate_readme.py
 
     - uses: stefanzweifel/git-auto-commit-action@v4.1.6
       with:
-        commit_message: Commit new README
+        commit_message: Commit new OSS Metrics
         branch: ${{ github.head_ref }}
         commit_user_name: Susheel Varma
         commit_user_email: susheel.varma@hdruk.ac.uk
