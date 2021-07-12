@@ -1,4 +1,4 @@
-name: collect-oss
+name: Collect OSS Metrics
 
 on:
   push:
