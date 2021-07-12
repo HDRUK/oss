@@ -23,11 +23,12 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
+          branch: "new-oss-${{ github.event.issue.number }}"
           delete-branch: true
-          title: "publish: ${{ github.event.issue.title}}"
+          title: "New ${{ github.event.issue.title}}"
           body: |
             Automagically sprouted for publishing.
             Merging will publish to: https://github.com/HDRUK/oss
             Closes #${{ github.event.issue.number }}
-          reviewers: "${{ github.repository_owner }}"
+          reviewers: "susheel"
           commit-message: "New ${{ github.event.issue.title }}"
