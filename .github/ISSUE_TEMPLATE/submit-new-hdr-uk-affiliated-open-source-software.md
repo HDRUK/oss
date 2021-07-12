@@ -1,9 +1,10 @@
 ---
 name: New OSS
 about: Submit new HDR UK affiliated open source software
-title: 'New OSS: NAME'
+title: '[OSS]: '
 labels: submitted
-assignees: susheel
+assignees: 
+ - susheel
 
 ---
 
