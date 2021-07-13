@@ -37,3 +37,11 @@ github:
   comment_frequency: 0.0
   dependents_count: 2
   criticality_score: 0.11935
+- name: nlp2phenome
+  url: https://github.com/CogStack/nlp2phenome
+  description: using AI models to infer patient phenotypes from identified named entities (instances of biomedical concepts)
+  categories:
+  - National Text Analytics
+  - National Phenomics Resource
+
+
