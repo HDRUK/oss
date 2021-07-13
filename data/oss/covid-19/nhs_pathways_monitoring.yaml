@@ -1,0 +1,7 @@
+name: nhs_pathways_monitoring
+url: https://github.com/thibautjombart/nhs_pathways_monitoring
+description: Real-time monitoring of potential COVID-19 cases reported through NHS
+  pathways data
+keywords: []
+categories:
+- COVID-19
