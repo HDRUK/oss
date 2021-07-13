@@ -19,7 +19,7 @@ jobs:
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
           cat << EOF >> ${RUNNER_TEMP}/oss-${ISSUE_NUMBER}.md
-          ${POST_BODY}
+          ${ISSUE_BODY}
           EOF
           python scripts/yamlify.py ${RUNNER_TEMP}/oss-${ISSUE_NUMBER}.md
 
