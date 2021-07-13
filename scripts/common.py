@@ -42,3 +42,8 @@ def read_file(filename):
     with open(filename, "r") as file:
         doc = file.read()
     return doc
+
+def read_lines_from_file(filename):
+    with open(filename, "r") as file:
+        doc = file.readlines()
+    return doc
