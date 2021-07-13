@@ -1,5 +1,5 @@
 ---
-name: New OSS
+name: Submit OSS [OLD]
 about: Submit new HDR UK affiliated open source software
 title: '[OSS]: '
 labels: submitted
