@@ -1,5 +1,5 @@
 ---
-name: Submit OSS [OLD]
+name: Submit OSS via YAML
 about: Submit new HDR UK affiliated open source software
 title: '[OSS]: '
 labels: submitted
