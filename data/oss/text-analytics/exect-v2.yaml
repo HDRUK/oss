@@ -1,0 +1,36 @@
+name: ExECT-V2
+url: https://github.com/swneurosci/ExECT-V2
+description: ''
+keywords:
+- NLP
+- rule-based
+- nlp
+- hdruk-text
+- text analytics
+categories:
+- National Text Analytics
+github:
+  name: ExECT-V2
+  url: https://github.com/swneurosci/ExECT-V2
+  description: ''
+  keywords: ''
+  language: Java
+  created_at: 2019-05-08 11:05:59
+  updated_at: 2021-07-12 17:14:48
+  archived: false
+  subscribers: 4
+  watchers: 1
+  stars: 1
+  forks: 0
+  network: 0
+  created_since: 27
+  updated_since: 0
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 2.3
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.18054

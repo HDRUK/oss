@@ -1,0 +1,33 @@
+name: vascular-ageing
+url: https://github.com/LorenzoDallOlio/vascular-ageing
+description: Container for Python analysis codes regarding "Prediction of vascular
+  ageing based on smartphoneacquired PPG signals"
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: vascular-ageing
+  url: https://github.com/LorenzoDallOlio/vascular-ageing
+  description: Container for Python analysis codes regarding "Prediction of vascular
+    ageing based on smartphoneacquired PPG signals"
+  keywords: ''
+  language: Python
+  created_at: 2020-05-07 18:52:26
+  updated_at: 2021-05-21 21:15:56
+  archived: false
+  subscribers: 1
+  watchers: 1
+  stars: 1
+  forks: 2
+  network: 2
+  created_since: 14
+  updated_since: 14
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915

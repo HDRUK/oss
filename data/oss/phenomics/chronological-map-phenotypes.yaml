@@ -1,0 +1,45 @@
+name: chronological-map-phenotypes
+url: https://github.com/spiros/chronological-map-phenotypes
+description: Machine-readable version of electronic health record phenotypes for Kuan
+  V. and Denaxas S. et al.
+keywords:
+- electronic-health-record
+- phenotype
+- icd-10
+- read-code
+- epidemiology
+- health-informatics
+categories:
+- National Phenomics Resource
+github:
+  name: chronological-map-phenotypes
+  url: https://github.com/spiros/chronological-map-phenotypes
+  description: Machine-readable version of electronic health record phenotypes for
+    Kuan V. and Denaxas S. et al.
+  keywords:
+  - electronic-health-record
+  - phenotype
+  - icd-10
+  - read-code
+  - epidemiology
+  - health-informatics
+  language: null
+  created_at: 2019-03-11 16:26:45
+  updated_at: 2021-07-11 12:28:13
+  archived: false
+  subscribers: 4
+  watchers: 29
+  stars: 29
+  forks: 26
+  network: 26
+  created_since: 28
+  updated_since: 5
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 3
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.12775

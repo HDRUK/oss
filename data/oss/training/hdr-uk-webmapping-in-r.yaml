@@ -1,0 +1,33 @@
+name: HDR-UK_Webmapping_in_R
+url: https://github.com/alalexiou/HDR-UK_Webmapping_in_R
+description: How to use leaflet to make an interactive map using child obesity at
+  reception year data in England.
+keywords: []
+categories:
+- Training
+github:
+  name: HDR-UK_Webmapping_in_R
+  url: https://github.com/alalexiou/HDR-UK_Webmapping_in_R
+  description: How to use leaflet to make an interactive map using child obesity at
+    reception year data in England.
+  keywords: ''
+  language: HTML
+  created_at: 2019-08-20 23:21:48
+  updated_at: 2019-09-03 10:41:51
+  archived: false
+  subscribers: 1
+  watchers: 1
+  stars: 1
+  forks: 1
+  network: 1
+  created_since: 23
+  updated_since: 23
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05316

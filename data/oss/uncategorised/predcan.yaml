@@ -1,0 +1,39 @@
+name: predCAN
+url: https://github.com/bio-ontology-research-group/predCAN
+description: Ontology-based prediction of cancer driver genes
+keywords:
+- machine-learning
+- driver-genes
+- ontology
+- embeddings
+categories:
+- Uncategorised
+github:
+  name: predCAN
+  url: https://github.com/bio-ontology-research-group/predCAN
+  description: Ontology-based prediction of cancer driver genes
+  keywords:
+  - machine-learning
+  - driver-genes
+  - ontology
+  - embeddings
+  language: Python
+  created_at: 2019-01-06 07:10:14
+  updated_at: 2020-12-19 11:09:01
+  archived: false
+  subscribers: 10
+  watchers: 4
+  stars: 4
+  forks: 4
+  network: 4
+  created_since: 31
+  updated_since: 22
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02725

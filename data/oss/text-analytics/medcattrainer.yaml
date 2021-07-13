@@ -1,0 +1,45 @@
+name: MedCATtrainer
+url: https://github.com/CogStack/MedCATtrainer
+description: 'A simple interface to inspect, improve and add concepts to biomedical
+  NER+L -> MedCAT. '
+keywords:
+- umls
+- snomed
+- nlp
+- active-learning
+- medcat
+- machine-learning
+categories:
+- National Text Analytics
+github:
+  name: MedCATtrainer
+  url: https://github.com/CogStack/MedCATtrainer
+  description: 'A simple interface to inspect, improve and add concepts to biomedical
+    NER+L -> MedCAT. '
+  keywords:
+  - umls
+  - snomed
+  - nlp
+  - active-learning
+  - medcat
+  - machine-learning
+  language: Python
+  created_at: 2019-06-26 11:35:37
+  updated_at: 2021-07-12 22:56:42
+  archived: false
+  subscribers: 7
+  watchers: 30
+  stars: 30
+  forks: 12
+  network: 12
+  created_since: 27
+  updated_since: 0
+  contributor_count: 7
+  org_count: 2
+  commit_frequency: 1.7
+  recent_releases_count: 2
+  updated_issues_count: 13
+  closed_issues_count: 10
+  comment_frequency: 1.2
+  dependents_count: 18
+  criticality_score: 0.35065

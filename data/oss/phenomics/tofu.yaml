@@ -1,0 +1,35 @@
+name: tofu
+url: https://github.com/spiros/tofu
+description: Tofu is a Python tool for generating synthetic UK Biobank data.
+keywords:
+- ukbiobank
+- synthetic-data
+categories:
+- National Phenomics Resource
+github:
+  name: tofu
+  url: https://github.com/spiros/tofu
+  description: Tofu is a Python tool for generating synthetic UK Biobank data.
+  keywords:
+  - ukbiobank
+  - synthetic-data
+  language: Python
+  created_at: 2020-01-28 19:45:16
+  updated_at: 2021-03-02 06:16:42
+  archived: false
+  subscribers: 3
+  watchers: 17
+  stars: 17
+  forks: 5
+  network: 5
+  created_since: 18
+  updated_since: 9
+  contributor_count: 3
+  org_count: 3
+  commit_frequency: 0.1
+  recent_releases_count: 3
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.14842

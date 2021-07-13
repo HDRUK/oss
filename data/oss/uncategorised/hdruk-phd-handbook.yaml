@@ -1,0 +1,31 @@
+name: hdruk-phd-handbook
+url: https://github.com/cwcyau/hdruk-phd-handbook
+description: Handbook for the HDRUK-Turing PhD Programme in Health Data Science
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: hdruk-phd-handbook
+  url: https://github.com/cwcyau/hdruk-phd-handbook
+  description: Handbook for the HDRUK-Turing PhD Programme in Health Data Science
+  keywords: ''
+  language: CSS
+  created_at: 2020-05-27 19:46:39
+  updated_at: 2021-03-01 23:52:28
+  archived: false
+  subscribers: 2
+  watchers: 0
+  stars: 0
+  forks: 3
+  network: 3
+  created_since: 14
+  updated_since: 4
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 1.1
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 2
+  criticality_score: 0.13775

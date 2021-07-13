@@ -1,0 +1,33 @@
+name: risk-score-builder
+url: https://github.com/CogStack/risk-score-builder
+description: Map clinical risk score concepts to structured definitions using ontologies,
+  calculate structured risk scores from NLP.
+keywords: []
+categories:
+- National Text Analytics
+github:
+  name: risk-score-builder
+  url: https://github.com/CogStack/risk-score-builder
+  description: Map clinical risk score concepts to structured definitions using ontologies,
+    calculate structured risk scores from NLP.
+  keywords: ''
+  language: Python
+  created_at: 2019-04-12 17:14:34
+  updated_at: 2021-05-31 20:25:19
+  archived: false
+  subscribers: 3
+  watchers: 2
+  stars: 2
+  forks: 2
+  network: 2
+  created_since: 27
+  updated_since: 4
+  contributor_count: 3
+  org_count: 10
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.19983

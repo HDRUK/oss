@@ -1,0 +1,53 @@
+name: CogStack-Pipeline
+url: https://github.com/CogStack/CogStack-Pipeline
+description: Distributed, fault tolerant batch processing for Natural Language Applications
+  and Search, using remote partitioning
+keywords:
+- batch-processing
+- cogstack
+- elasticsearch
+- spring
+- nlp
+- tika
+- tesseract
+- ocr
+- semantic-search
+- alerting
+categories:
+- National Text Analytics
+github:
+  name: CogStack-Pipeline
+  url: https://github.com/CogStack/CogStack-Pipeline
+  description: Distributed, fault tolerant batch processing for Natural Language Applications
+    and Search, using remote partitioning
+  keywords:
+  - batch-processing
+  - cogstack
+  - elasticsearch
+  - spring
+  - nlp
+  - tika
+  - tesseract
+  - ocr
+  - semantic-search
+  - alerting
+  language: Java
+  created_at: 2017-05-30 11:53:30
+  updated_at: 2021-06-23 08:10:00
+  archived: false
+  subscribers: 14
+  watchers: 29
+  stars: 29
+  forks: 13
+  network: 13
+  created_since: 66
+  updated_since: 1
+  contributor_count: 11
+  org_count: 4
+  commit_frequency: 0.1
+  recent_releases_count: 1
+  updated_issues_count: 1
+  closed_issues_count: 0
+  comment_frequency: 0.0
+  dependents_count: 3
+  criticality_score: 0.27739

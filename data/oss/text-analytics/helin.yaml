@@ -1,0 +1,31 @@
+name: HELIN
+url: https://github.com/cambridgeltl/HELIN
+description: Demo Entity Linking API for the HDR Text Analytic Team.
+keywords: []
+categories:
+- National Text Analytics
+github:
+  name: HELIN
+  url: https://github.com/cambridgeltl/HELIN
+  description: Demo Entity Linking API for the HDR Text Analytic Team.
+  keywords: ''
+  language: Python
+  created_at: 2021-01-20 14:22:53
+  updated_at: 2021-03-02 14:36:44
+  archived: false
+  subscribers: 5
+  watchers: 1
+  stars: 1
+  forks: 0
+  network: 0
+  created_since: 6
+  updated_since: 4
+  contributor_count: 2
+  org_count: 2
+  commit_frequency: 0.3
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.10934

@@ -1,0 +1,32 @@
+name: mim3val
+url: https://github.com/reality/mim3val
+description: mimic3 nlp evaluation. needs a NOTEEVENTS.csv, processed files from Komenti
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: mim3val
+  url: https://github.com/reality/mim3val
+  description: mimic3 nlp evaluation. needs a NOTEEVENTS.csv, processed files from
+    Komenti
+  keywords: ''
+  language: Python
+  created_at: 2019-12-07 21:06:55
+  updated_at: 2020-07-08 14:32:01
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 0
+  created_since: 19
+  updated_since: 12
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02972

@@ -1,0 +1,49 @@
+name: MedCATservice
+url: https://github.com/CogStack/MedCATservice
+description: Running MedCAT as a RESTful web service
+keywords:
+- nlp
+- microservices
+- umls
+- snomed
+- docker
+- python
+- flask
+- rest
+- spacy
+categories:
+- National Text Analytics
+github:
+  name: MedCATservice
+  url: https://github.com/CogStack/MedCATservice
+  description: Running MedCAT as a RESTful web service
+  keywords:
+  - nlp
+  - microservices
+  - umls
+  - snomed
+  - docker
+  - python
+  - flask
+  - rest
+  - spacy
+  language: Python
+  created_at: 2019-09-04 13:16:21
+  updated_at: 2021-06-20 09:02:08
+  archived: false
+  subscribers: 6
+  watchers: 5
+  stars: 5
+  forks: 6
+  network: 6
+  created_since: 23
+  updated_since: 7
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.3
+  recent_releases_count: 1
+  updated_issues_count: 2
+  closed_issues_count: 2
+  comment_frequency: 2.0
+  dependents_count: 0
+  criticality_score: 0.18405

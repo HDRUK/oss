@@ -1,0 +1,59 @@
+name: ocimido
+url: https://github.com/sap218/ocimido
+description: An ontology for ocular immune-mediated inflammatory diseases
+keywords:
+- ontology
+- owl
+- ocular
+- inflammation
+- inflammatory
+- disease
+- diseases
+- disorder
+- biomedical-ontologies
+- layman-terms
+- synonyms
+- ophthalmology
+- tf-idf
+- patient-voice
+categories:
+- Uncategorised
+github:
+  name: ocimido
+  url: https://github.com/sap218/ocimido
+  description: An ontology for ocular immune-mediated inflammatory diseases
+  keywords:
+  - ontology
+  - owl
+  - ocular
+  - inflammation
+  - inflammatory
+  - disease
+  - diseases
+  - disorder
+  - biomedical-ontologies
+  - layman-terms
+  - synonyms
+  - ophthalmology
+  - tf-idf
+  - patient-voice
+  language: null
+  created_at: 2019-03-25 13:26:21
+  updated_at: 2021-06-18 13:34:16
+  archived: false
+  subscribers: 3
+  watchers: 1
+  stars: 1
+  forks: 0
+  network: 0
+  created_since: 28
+  updated_since: 1
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.14543

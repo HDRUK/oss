@@ -1,0 +1,55 @@
+name: jabberwocky
+url: https://github.com/sap218/jabberwocky
+description: toolkit for those nonsensical ontologies
+keywords:
+- ontology
+- python
+- python3
+- text
+- tfidf
+- extraction
+- json
+- jabberwocky
+- synonyms
+- sentences
+- textual-data
+- nonsense
+categories:
+- Uncategorised
+github:
+  name: jabberwocky
+  url: https://github.com/sap218/jabberwocky
+  description: toolkit for those nonsensical ontologies
+  keywords:
+  - ontology
+  - python
+  - python3
+  - text
+  - tfidf
+  - extraction
+  - json
+  - jabberwocky
+  - synonyms
+  - sentences
+  - textual-data
+  - nonsense
+  language: Python
+  created_at: 2019-12-12 09:43:22
+  updated_at: 2021-06-17 05:00:52
+  archived: false
+  subscribers: 1
+  watchers: 10
+  stars: 10
+  forks: 0
+  network: 0
+  created_since: 19
+  updated_since: 2
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.4
+  recent_releases_count: 1
+  updated_issues_count: 1
+  closed_issues_count: 1
+  comment_frequency: 1.0
+  dependents_count: 0
+  criticality_score: 0.16798

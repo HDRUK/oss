@@ -1,0 +1,47 @@
+name: Data-Science-for-Docs
+url: https://github.com/carpentries-incubator/Data-Science-for-Docs
+description: Data Science For Practicing Clinicians
+keywords:
+- carpentries
+- carpentries-incubator
+- medicine
+- education
+- pre-alpha
+- lesson
+- data-science
+- english
+categories:
+- Uncategorised
+github:
+  name: Data-Science-for-Docs
+  url: https://github.com/carpentries-incubator/Data-Science-for-Docs
+  description: Data Science For Practicing Clinicians
+  keywords:
+  - carpentries
+  - carpentries-incubator
+  - medicine
+  - education
+  - pre-alpha
+  - lesson
+  - data-science
+  - english
+  language: HTML
+  created_at: 2019-09-17 19:04:52
+  updated_at: 2020-06-18 23:53:10
+  archived: false
+  subscribers: 9
+  watchers: 4
+  stars: 4
+  forks: 2
+  network: 2
+  created_since: 97
+  updated_since: 20
+  contributor_count: 56
+  org_count: 5
+  commit_frequency: 0.0
+  recent_releases_count: 2
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 2
+  criticality_score: 0.27669

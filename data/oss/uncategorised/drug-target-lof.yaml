@@ -1,0 +1,33 @@
+name: drug_target_lof
+url: https://github.com/ericminikel/drug_target_lof
+description: Evaluating potential drug targets through human loss-of-function genetic
+  variation
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: drug_target_lof
+  url: https://github.com/ericminikel/drug_target_lof
+  description: Evaluating potential drug targets through human loss-of-function genetic
+    variation
+  keywords: ''
+  language: R
+  created_at: 2019-01-25 16:11:48
+  updated_at: 2021-04-02 22:12:08
+  archived: false
+  subscribers: 1
+  watchers: 7
+  stars: 7
+  forks: 6
+  network: 6
+  created_since: 30
+  updated_since: 14
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.07096

@@ -1,0 +1,33 @@
+name: PGS_Catalog
+url: https://github.com/PGScatalog/PGS_Catalog
+description: 'An open database of polygenic scores and relevant metadata needed to
+  apply and evaluate them correctly. '
+keywords: []
+categories:
+- National Phenomics Resource
+github:
+  name: PGS_Catalog
+  url: https://github.com/PGScatalog/PGS_Catalog
+  description: 'An open database of polygenic scores and relevant metadata needed
+    to apply and evaluate them correctly. '
+  keywords: ''
+  language: Python
+  created_at: 2020-01-14 09:50:03
+  updated_at: 2021-06-29 10:06:42
+  archived: false
+  subscribers: 4
+  watchers: 3
+  stars: 3
+  forks: 3
+  network: 3
+  created_since: 18
+  updated_since: 0
+  contributor_count: 4
+  org_count: 2
+  commit_frequency: 2.0
+  recent_releases_count: 0
+  updated_issues_count: 26
+  closed_issues_count: 25
+  comment_frequency: 0.7
+  dependents_count: 0
+  criticality_score: 0.25708

@@ -1,0 +1,31 @@
+name: ncov_measles_Kenya
+url: https://github.com/CarolineNM/ncov_measles_Kenya
+description: Analysis of risk of measles outbreak during COVID19 pandemic in Kenya
+keywords: []
+categories:
+- COVID-19
+github:
+  name: ncov_measles_Kenya
+  url: https://github.com/CarolineNM/ncov_measles_Kenya
+  description: Analysis of risk of measles outbreak during COVID19 pandemic in Kenya
+  keywords: ''
+  language: R
+  created_at: 2020-06-15 06:45:49
+  updated_at: 2020-12-14 05:50:17
+  archived: false
+  subscribers: 2
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 0
+  created_since: 13
+  updated_since: 7
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.7
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05311

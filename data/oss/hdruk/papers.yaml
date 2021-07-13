@@ -1,0 +1,32 @@
+name: papers
+url: https://github.com/HDRUK/papers
+description: Extract of publications that mention HDR-UK
+keywords:
+- publications
+- hdruk
+- covid-19
+- coronavirus
+- 2019-ncov
+- sars-cov
+categories:
+- HDR UK
+github:
+  name: papers
+  url: https://github.com/HDRUK/papers
+  description: Extract of publications that mention HDR-UK
+  keywords:
+  - publications
+  - hdruk
+  - covid-19
+  - coronavirus
+  - 2019-ncov
+  - sars-cov
+  language: Python
+  created_at: 2019-06-06 09:44:42
+  updated_at: 2021-07-12 03:19:59
+  archived: false
+  subscribers: 3
+  watchers: 4
+  stars: 4
+  forks: 2
+  network: 3

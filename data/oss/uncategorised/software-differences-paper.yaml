@@ -1,0 +1,31 @@
+name: software_differences_paper
+url: https://github.com/ebmdatalab/software_differences_paper
+description: ''
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: software_differences_paper
+  url: https://github.com/ebmdatalab/software_differences_paper
+  description: ''
+  keywords: ''
+  language: Jupyter Notebook
+  created_at: 2019-04-23 15:43:51
+  updated_at: 2020-09-10 09:18:34
+  archived: false
+  subscribers: 4
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 1
+  created_since: 27
+  updated_since: 10
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05327

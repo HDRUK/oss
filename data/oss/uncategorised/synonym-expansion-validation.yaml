@@ -1,0 +1,31 @@
+name: synonym_expansion_validation
+url: https://github.com/reality/synonym_expansion_validation
+description: ''
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: synonym_expansion_validation
+  url: https://github.com/reality/synonym_expansion_validation
+  description: ''
+  keywords: ''
+  language: Groovy
+  created_at: 2020-01-16 22:31:19
+  updated_at: 2020-07-10 13:28:06
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 0
+  created_since: 18
+  updated_since: 12
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05203

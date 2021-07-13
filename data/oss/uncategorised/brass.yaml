@@ -1,0 +1,33 @@
+name: BRASS
+url: https://github.com/cancerit/BRASS
+description: Breakpoints via assembly - Identifies breaks and attempts to assemble
+  rearrangements.
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: BRASS
+  url: https://github.com/cancerit/BRASS
+  description: Breakpoints via assembly - Identifies breaks and attempts to assemble
+    rearrangements.
+  keywords: ''
+  language: Perl
+  created_at: 2014-10-31 11:16:31
+  updated_at: 2021-01-25 20:52:52
+  archived: false
+  subscribers: 20
+  watchers: 50
+  stars: 50
+  forks: 15
+  network: 15
+  created_since: 82
+  updated_since: 12
+  contributor_count: 9
+  org_count: 4
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.20042

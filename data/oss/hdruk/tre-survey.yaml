@@ -1,0 +1,31 @@
+name: TRE-Survey
+url: https://github.com/HDRUK/TRE-Survey
+description: ''
+keywords: []
+categories:
+- HDR UK
+github:
+  name: TRE-Survey
+  url: https://github.com/HDRUK/TRE-Survey
+  description: ''
+  keywords: ''
+  language: null
+  created_at: 2020-09-17 14:33:24
+  updated_at: 2020-09-22 10:54:46
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 1
+  created_since: 10
+  updated_since: 10
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05626

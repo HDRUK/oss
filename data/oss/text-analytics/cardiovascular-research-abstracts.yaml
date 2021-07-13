@@ -1,0 +1,10 @@
+name: Cardiovascular research abstracts
+url: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
+description: corpus containing examples of potentially contradictory claims from Medline
+  abstracts describing cardiovascular research intended as a useful resource for researchers
+  working on similar problems.
+keywords:
+- dataset
+- models
+categories:
+- National Text Analytics

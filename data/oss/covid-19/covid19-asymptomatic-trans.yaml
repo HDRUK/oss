@@ -1,0 +1,31 @@
+name: covid19_asymptomatic_trans
+url: https://github.com/thimotei/covid19_asymptomatic_trans
+description: ''
+keywords: []
+categories:
+- COVID-19
+github:
+  name: covid19_asymptomatic_trans
+  url: https://github.com/thimotei/covid19_asymptomatic_trans
+  description: ''
+  keywords: ''
+  language: R
+  created_at: 2020-03-22 13:47:56
+  updated_at: 2021-04-05 10:36:51
+  archived: false
+  subscribers: 2
+  watchers: 3
+  stars: 3
+  forks: 3
+  network: 3
+  created_since: 16
+  updated_since: 5
+  contributor_count: 3
+  org_count: 2
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 3
+  criticality_score: 0.14423

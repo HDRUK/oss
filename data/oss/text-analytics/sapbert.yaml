@@ -1,0 +1,13 @@
+name: SapBERT
+url: https://huggingface.co/cambridgeltl/SapBERT-from-PubMedBERT-fulltext
+description: Despite the widespread success of self-supervised learning via masked
+  language models, learning representations directly from text to accurately capture
+  complex and fine-grained semantic relationships in the biomedical domain remains
+  as a challenge. SapBERT is a pre-training scheme based on BERT. It self-aligns the
+  representation space of biomedical entities with a metric learning objective function
+  leveraging UMLS, a collection of biomedical ontologies with >4M concepts.
+keywords:
+- dataset
+- models
+categories:
+- National Text Analytics

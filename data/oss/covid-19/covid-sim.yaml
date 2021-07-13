@@ -1,0 +1,36 @@
+name: covid-sim
+url: https://github.com/mrc-ide/covid-sim
+description: This is the COVID-19 CovidSim microsimulation model developed by the
+  MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.
+keywords:
+- Modelling
+- COVID-19
+categories:
+- COVID-19
+github:
+  name: covid-sim
+  url: https://github.com/mrc-ide/covid-sim
+  description: This is the COVID-19 CovidSim microsimulation model developed by the
+    MRC Centre for Global Infectious Disease Analysis hosted at Imperial College,
+    London.
+  keywords: ''
+  language: C++
+  created_at: 2020-03-24 13:53:03
+  updated_at: 2021-07-09 14:51:22
+  archived: false
+  subscribers: 77
+  watchers: 1192
+  stars: 1192
+  forks: 262
+  network: 262
+  created_since: 16
+  updated_since: 2
+  contributor_count: 23
+  org_count: 4
+  commit_frequency: 4.6
+  recent_releases_count: 7
+  updated_issues_count: 2
+  closed_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 16
+  criticality_score: 0.33894

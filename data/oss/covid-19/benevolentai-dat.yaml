@@ -1,0 +1,54 @@
+name: benevolentai-dat
+url: https://github.com/BenevolentAI/benevolentai-dat
+description: BenevolentAI's Diversity Analysis Tool (DAT) is a software package that
+  can be used to produce demographic analysis reports given health data sets that
+  contain for fields of age, sex, ethnicity, race and socio-economic status. For example,
+  you might have a data about a cohort of patients and want to know how well you cover
+  various ethnicities, age groups, sex groups and socio-economic status levels. Assuming
+  your data sets have some of these fields, this software will help generate various
+  views of the data to help inform your work. The DAT tool was developed as part of
+  BenevolentAI's Diversity in Data Initiative, which aims to help improve the ways
+  patients are represented in precision medicine. It is meant to help inspire other
+  developers to find ways of assessing the data diversity in their current and prospective
+  health data sets.
+keywords:
+- Diversity
+- Demographics
+- Healthcare
+categories:
+- COVID-19
+github:
+  name: benevolentai-dat
+  url: https://github.com/BenevolentAI/benevolentai-dat
+  description: BenevolentAI's Diversity Analysis Tool (DAT) is a software package
+    that can be used to produce demographic analysis reports given health data sets
+    that contain for fields of age, sex, ethnicity, race and socio-economic status.
+    For example, you might have a data about a cohort of patients and want to know
+    how well you cover various ethnicities, age groups, sex groups and socio-economic
+    status levels. Assuming your data sets have some of these fields, this software
+    will help generate various views of the data to help inform your work. The DAT
+    tool was developed as part of BenevolentAI's Diversity in Data Initiative, which
+    aims to help improve the ways patients are represented in precision medicine.
+    It is meant to help inspire other developers to find ways of assessing the data
+    diversity in their current and prospective health data sets.
+  keywords: ''
+  language: Python
+  created_at: 2020-09-10 14:45:14
+  updated_at: 2021-05-21 14:59:49
+  archived: false
+  subscribers: 7
+  watchers: 4
+  stars: 4
+  forks: 1
+  network: 1
+  created_since: 10
+  updated_since: 4
+  contributor_count: 5
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.10595

@@ -1,0 +1,33 @@
+name: UNMIREOT
+url: https://github.com/bio-ontology-research-group/UNMIREOT
+description: Tools to identify, diagnose, and semi-automatically repair hidden contradictions
+  in biomedical ontologies
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: UNMIREOT
+  url: https://github.com/bio-ontology-research-group/UNMIREOT
+  description: Tools to identify, diagnose, and semi-automatically repair hidden contradictions
+    in biomedical ontologies
+  keywords: ''
+  language: Groovy
+  created_at: 2016-04-14 15:07:53
+  updated_at: 2020-12-04 21:29:08
+  archived: false
+  subscribers: 8
+  watchers: 1
+  stars: 1
+  forks: 0
+  network: 0
+  created_since: 64
+  updated_since: 7
+  contributor_count: 4
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.09585

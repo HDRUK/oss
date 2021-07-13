@@ -1,0 +1,31 @@
+name: vec2sparql
+url: https://github.com/gkoutos-group/vec2sparql
+description: SPARQL Endpoint with functions for computing embedding similarities
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: vec2sparql
+  url: https://github.com/gkoutos-group/vec2sparql
+  description: SPARQL Endpoint with functions for computing embedding similarities
+  keywords: ''
+  language: Java
+  created_at: 2019-05-17 13:16:11
+  updated_at: 2019-05-20 11:24:42
+  archived: false
+  subscribers: 6
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 8
+  created_since: 36
+  updated_since: 26
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.0862

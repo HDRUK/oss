@@ -1,0 +1,39 @@
+name: cardio
+url: https://github.com/Nico-Curti/cardio
+description: Pulse oximetry data processing and classification
+keywords:
+- cardiology
+- machine-learning
+- ecg-signal
+- cardiological-data
+categories:
+- Uncategorised
+github:
+  name: cardio
+  url: https://github.com/Nico-Curti/cardio
+  description: Pulse oximetry data processing and classification
+  keywords:
+  - cardiology
+  - machine-learning
+  - ecg-signal
+  - cardiological-data
+  language: Python
+  created_at: 2018-10-21 14:07:37
+  updated_at: 2021-05-21 21:16:43
+  archived: false
+  subscribers: 2
+  watchers: 3
+  stars: 3
+  forks: 3
+  network: 3
+  created_since: 33
+  updated_since: 20
+  contributor_count: 4
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 5
+  criticality_score: 0.12242

@@ -1,0 +1,31 @@
+name: ScienceCOPEMethodsCode
+url: https://github.com/MGHcteu/ScienceCOPEMethodsCode
+description: Code accompanying map generation in Drew et al. Science manuscript
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: ScienceCOPEMethodsCode
+  url: https://github.com/MGHcteu/ScienceCOPEMethodsCode
+  description: Code accompanying map generation in Drew et al. Science manuscript
+  keywords: ''
+  language: Jupyter Notebook
+  created_at: 2020-04-25 00:55:43
+  updated_at: 2020-04-25 01:01:58
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 1
+  created_since: 15
+  updated_since: 15
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 2
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.03876

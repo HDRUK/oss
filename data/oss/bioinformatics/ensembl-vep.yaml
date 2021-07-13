@@ -1,0 +1,33 @@
+name: ensembl-vep
+url: https://github.com/Ensembl/ensembl-vep
+description: The Ensembl Variant Effect Predictor predicts the functional effects
+  of genomic variants
+keywords: []
+categories:
+- Bioinformatics
+github:
+  name: ensembl-vep
+  url: https://github.com/Ensembl/ensembl-vep
+  description: The Ensembl Variant Effect Predictor predicts the functional effects
+    of genomic variants
+  keywords: ''
+  language: Perl
+  created_at: 2016-04-05 12:08:24
+  updated_at: 2021-07-01 15:05:45
+  archived: false
+  subscribers: 25
+  watchers: 271
+  stars: 271
+  forks: 98
+  network: 98
+  created_since: 64
+  updated_since: 2
+  contributor_count: 22
+  org_count: 6
+  commit_frequency: 1.5
+  recent_releases_count: 9
+  updated_issues_count: 73
+  closed_issues_count: 44
+  comment_frequency: 2.4
+  dependents_count: 18
+  criticality_score: 0.47498

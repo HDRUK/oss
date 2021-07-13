@@ -1,0 +1,61 @@
+name: tpot
+url: https://github.com/EpistasisLab/tpot
+description: A Python Automated Machine Learning tool that optimizes machine learning
+  pipelines using genetic programming.
+keywords:
+- machine-learning
+- python
+- data-science
+- automl
+- automation
+- scikit-learn
+- hyperparameter-optimization
+- model-selection
+- parameter-tuning
+- automated-machine-learning
+- random-forest
+- gradient-boosting
+- feature-engineering
+- xgboost
+categories:
+- Applied Analytics
+github:
+  name: tpot
+  url: https://github.com/EpistasisLab/tpot
+  description: A Python Automated Machine Learning tool that optimizes machine learning
+    pipelines using genetic programming.
+  keywords:
+  - machine-learning
+  - python
+  - data-science
+  - automl
+  - automation
+  - scikit-learn
+  - hyperparameter-optimization
+  - model-selection
+  - parameter-tuning
+  - automated-machine-learning
+  - random-forest
+  - gradient-boosting
+  - feature-engineering
+  - xgboost
+  language: Python
+  created_at: 2015-11-03 21:08:40
+  updated_at: 2021-07-11 19:22:36
+  archived: false
+  subscribers: 292
+  watchers: 8113
+  stars: 8113
+  forks: 1408
+  network: 1408
+  created_since: 69
+  updated_since: 6
+  contributor_count: 108
+  org_count: 8
+  commit_frequency: 1.2
+  recent_releases_count: 6
+  updated_issues_count: 26
+  closed_issues_count: 10
+  comment_frequency: 0.9
+  dependents_count: 15
+  criticality_score: 0.45832

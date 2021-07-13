@@ -1,0 +1,35 @@
+name: gateway-web
+url: https://github.com/HDRUK/gateway-web
+description: HDR UK Gateway Web
+keywords:
+- hdruk
+- hdruk-gateway
+categories:
+- Gateway
+github:
+  name: gateway-web
+  url: https://github.com/HDRUK/gateway-web
+  description: HDR UK Gateway Web
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  language: JavaScript
+  created_at: 2020-05-13 10:07:37
+  updated_at: 2021-07-09 14:18:43
+  archived: false
+  subscribers: 3
+  watchers: 3
+  stars: 3
+  forks: 1
+  network: 1
+  created_since: 18
+  updated_since: 0
+  contributor_count: 13
+  org_count: 4
+  commit_frequency: 21.9
+  recent_releases_count: 70
+  updated_issues_count: 139
+  closed_issues_count: 136
+  comment_frequency: 0.6
+  dependents_count: 79
+  criticality_score: 0.50286

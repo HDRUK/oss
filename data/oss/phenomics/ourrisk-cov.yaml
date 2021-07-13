@@ -1,0 +1,18 @@
+name: OurRisk.CoV
+url: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
+description: 'We recently used large-scale samples of NHS patient data to estimate
+  the excess risk of mortality which may be associated with coronavirus (COVID-19).
+  We wanted to develop this research to inform simple tools to allow interaction and
+  exploration by policymakers, researchers and the public. In the OurRisk.CoV tool,
+  we provide our initial learning in relation to the implementation and development
+  of policy responses to the COVID-19 pandemic. We have provided some simple tools
+  to allow interaction and exploration.
+
+  OurRisk.CoV is initially intended for use by researchers, policy makers and those
+  who seek to work with patient data to inform responses to the current emergency.'
+keywords:
+- Risk Calculator
+- electronic health records
+- COVID-19
+categories:
+- National Phenomics Resource

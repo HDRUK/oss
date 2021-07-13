@@ -1,0 +1,37 @@
+name: schemata
+url: https://github.com/HDRUK/schemata
+description: HDR UK Schemas
+keywords:
+- hdruk
+- schema
+- metadata
+categories:
+- HDR UK
+github:
+  name: schemata
+  url: https://github.com/HDRUK/schemata
+  description: HDR UK Schemas
+  keywords:
+  - hdruk
+  - schema
+  - metadata
+  language: HTML
+  created_at: 2020-05-15 00:14:20
+  updated_at: 2021-06-02 11:34:53
+  archived: false
+  subscribers: 6
+  watchers: 1
+  stars: 1
+  forks: 4
+  network: 4
+  created_since: 14
+  updated_since: 1
+  contributor_count: 3
+  org_count: 1
+  commit_frequency: 1.3
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 5
+  criticality_score: 0.18041
