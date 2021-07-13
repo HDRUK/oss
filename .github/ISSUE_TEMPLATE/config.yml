@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: HDR UK Gateway Support
+    url: support@healthdatagateway.org
+    about: Please submit support tickets here
+  - name: HDR UK Enquires
+    url: enquiries@hdruk.ac.a.uk
+    about: Please submit enquires here.
