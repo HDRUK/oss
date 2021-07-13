@@ -1,0 +1,13 @@
+name: sview-sat-combined
+url: https://github.com/esrasuel/sview-sat-combined
+description: 'Multimodal deep learning from satellite and street-level imagery for
+  measuring income, overcrowding, and environmental deprivation in urban areas.
+
+  The code used to implement the proposed methods and produce the experimental results
+  in multimodal deep learning article'
+keywords:
+- Multimodal
+- Deep Learning
+- Sattelite Imagery
+categories:
+- Uncategorised
