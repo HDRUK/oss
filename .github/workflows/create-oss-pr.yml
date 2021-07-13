@@ -7,7 +7,7 @@ on:
 jobs:
   publish-oss:
     # Run only if label == 'triaged'
-    if: ${{ github.event.label.name == 'triaged' }}
+    if: ${{ github.event.label.name == 'publish' }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
