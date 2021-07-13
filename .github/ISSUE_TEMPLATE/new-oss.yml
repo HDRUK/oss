@@ -14,20 +14,20 @@ body:
     attributes:
       label: OSS Main Category
       options:
-        - applied-analytics
-        - bhf-dsc
-        - better-care
-        - bioinformatics
-        - covid-19
-        - cohort-discovery
-        - gateway
-        - gateway-mvp
-        - hdruk
-        - icoda
-        - phenomics
-        - text-analytics
-        - training
-        - uncategorised
+        - Applied Analytics
+        - BHF Data Science Centre
+        - Better Care
+        - Bioinformatics
+        - COVID-19
+        - Cohort Discovery
+        - Gateway
+        - Gateway (MVP)
+        - HDR UK
+        - ICODA
+        - National Phenomics Resource
+        - National Text Analytics
+        - Training
+        - Uncategorised
   - type: input
     id: name
     attributes:
@@ -62,17 +62,17 @@ body:
       label: OSS Other Categories
       multiple: true
       options:
-        - applied-analytics
-        - bhf-dsc
-        - better-care
-        - bioinformatics
-        - covid-19
-        - cohort-discovery
-        - gateway
-        - gateway-mvp
-        - hdruk
-        - icoda
-        - phenomics
-        - text-analytics
-        - training
-        - uncategorised
+        - Applied Analytics
+        - BHF Data Science Centre
+        - Better Care
+        - Bioinformatics
+        - COVID-19
+        - Cohort Discovery
+        - Gateway
+        - Gateway (MVP)
+        - HDR UK
+        - ICODA
+        - National Phenomics Resource
+        - National Text Analytics
+        - Training
+        - Uncategorised
