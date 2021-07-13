@@ -18,10 +18,10 @@ jobs:
           ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: |
-          cat << EOF >> /tmp/oss-${ISSUE_NUMBER}.md
+          cat << EOF >> ${RUNNER_TEMP}/oss-${ISSUE_NUMBER}.md
           ${POST_BODY}
           EOF
-          python scripts/yamlify.py /tmp/oss-${ISSUE_NUMBER}.md
+          python scripts/yamlify.py ${RUNNER_TEMP}/oss-${ISSUE_NUMBER}.md
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
