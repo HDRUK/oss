@@ -42,11 +42,19 @@ def format_yaml(sections):
     categories = sections['categories'][0]
     categories = sections['main-category'] + categories.split(',')
     categories = list(set(categories))
+    
+    # clean no responses
+    description = "\n".join([d for d in sections['description'] if d != '_No response_'])
+    keywords = [k for k in sections['keywords'] if k != '_No response_']
+    categories = [c for c in categories if c != '_No response_']
+    
+    # create yaml data
     data = {
         'name': sections['name'][0],
         'url': sections['url'][0],
-        'keywords': [k.lstrip('- ') for k in sections['keywords']],
-        'categories': sections['main-category'] + sections['categories']
+        'description': description,
+        'keywords': [k.lstrip('- ') for k in keywords],
+        'categories': categories
     }
     return filename, data
 
