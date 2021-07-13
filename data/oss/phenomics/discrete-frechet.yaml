@@ -1,0 +1,41 @@
+name: discrete_frechet
+url: https://github.com/spiros/discrete_frechet
+description: "Compute the Fr\xE9chet distance between two polygonal curves in Euclidean\
+  \ space."
+keywords:
+- python
+- distance-measures
+- smoothing
+- curve
+categories:
+- National Phenomics Resource
+github:
+  name: discrete_frechet
+  url: https://github.com/spiros/discrete_frechet
+  description: "Compute the Fr\xE9chet distance between two polygonal curves in Euclidean\
+    \ space."
+  keywords:
+  - python
+  - distance-measures
+  - smoothing
+  - curve
+  language: Python
+  created_at: 2018-01-20 15:57:57
+  updated_at: 2021-07-03 14:14:20
+  archived: false
+  subscribers: 4
+  watchers: 47
+  stars: 47
+  forks: 15
+  network: 15
+  created_since: 42
+  updated_since: 23
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.09103

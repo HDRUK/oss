@@ -1,0 +1,31 @@
+name: DWGSIM
+url: https://github.com/nh13/DWGSIM
+description: Whole Genome Simulator for Next-Generation Sequencing
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: DWGSIM
+  url: https://github.com/nh13/DWGSIM
+  description: Whole Genome Simulator for Next-Generation Sequencing
+  keywords: ''
+  language: C
+  created_at: 2011-10-19 00:19:14
+  updated_at: 2021-06-22 23:11:28
+  archived: false
+  subscribers: 6
+  watchers: 61
+  stars: 61
+  forks: 29
+  network: 29
+  created_since: 121
+  updated_since: 5
+  contributor_count: 11
+  org_count: 4
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 2
+  closed_issues_count: 0
+  comment_frequency: 0.5
+  dependents_count: 2
+  criticality_score: 0.27816

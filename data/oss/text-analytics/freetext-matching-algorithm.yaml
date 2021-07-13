@@ -1,0 +1,33 @@
+name: freetext-matching-algorithm
+url: https://github.com/anoopshah/freetext-matching-algorithm
+description: Source code for the Freetext Matching Algorithm, a natural language processing
+  system for clinical text
+keywords: []
+categories:
+- National Text Analytics
+github:
+  name: freetext-matching-algorithm
+  url: https://github.com/anoopshah/freetext-matching-algorithm
+  description: Source code for the Freetext Matching Algorithm, a natural language
+    processing system for clinical text
+  keywords: ''
+  language: Visual Basic
+  created_at: 2013-05-17 14:20:13
+  updated_at: 2019-11-13 17:11:00
+  archived: false
+  subscribers: 2
+  watchers: 8
+  stars: 8
+  forks: 1
+  network: 1
+  created_since: 99
+  updated_since: 90
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 3
+  criticality_score: 0.09153

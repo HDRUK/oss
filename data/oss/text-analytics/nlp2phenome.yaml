@@ -1,0 +1,39 @@
+name: nlp2phenome
+url: https://github.com/CogStack/nlp2phenome
+description: using AI model to infer patient phenotypes from identified named entities
+  (instances of biomedical concepts)
+keywords:
+- nlp
+- machine-learning
+- ehr-phenotyping
+categories:
+- National Text Analytics
+github:
+  name: nlp2phenome
+  url: https://github.com/CogStack/nlp2phenome
+  description: using AI model to infer patient phenotypes from identified named entities
+    (instances of biomedical concepts)
+  keywords:
+  - nlp
+  - machine-learning
+  - ehr-phenotyping
+  language: Python
+  created_at: 2018-12-11 18:55:43
+  updated_at: 2021-01-18 20:35:53
+  archived: false
+  subscribers: 5
+  watchers: 8
+  stars: 8
+  forks: 2
+  network: 2
+  created_since: 31
+  updated_since: 6
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  updated_issues_count: 2
+  closed_issues_count: 0
+  comment_frequency: 0.0
+  dependents_count: 2
+  criticality_score: 0.11935

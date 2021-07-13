@@ -1,0 +1,42 @@
+name: EndoMineR
+url: https://github.com/sebastiz/EndoMineR/
+description: a rule-based information extraction system for free-text and semi-structured
+  endoscopy reports and their associated pathology specimens.
+keywords: []
+categories:
+- National Text Analytics
+github:
+  name: EndoMineR
+  url: https://github.com/sebastiz/EndoMineR
+  description: Endoscopic and Pathological data extraction for various endo-pathological
+    data extraction
+  keywords:
+  - r
+  - rstats
+  - endoscopy
+  - gastroenterology
+  - semi-structured-data
+  - text-mining
+  - r-package
+  - peer-reviewed
+  - cancer-research
+  language: R
+  created_at: 2019-04-08 17:55:30
+  updated_at: 2021-03-01 22:12:24
+  archived: false
+  subscribers: 1
+  watchers: 2
+  stars: 2
+  forks: 1
+  network: 3
+  created_since: 47
+  updated_since: 5
+  contributor_count: 4
+  org_count: 2
+  commit_frequency: 0.7
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 10
+  criticality_score: 0.20141

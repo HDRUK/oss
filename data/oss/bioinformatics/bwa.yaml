@@ -1,0 +1,41 @@
+name: bwa
+url: https://github.com/lh3/bwa
+description: Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read
+  alignment)
+keywords:
+- bioinformatics
+- sequence-alignment
+- genomics
+- fm-index
+categories:
+- Bioinformatics
+github:
+  name: bwa
+  url: https://github.com/lh3/bwa
+  description: Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read
+    alignment)
+  keywords:
+  - bioinformatics
+  - sequence-alignment
+  - genomics
+  - fm-index
+  language: C
+  created_at: 2011-01-14 01:36:33
+  updated_at: 2021-07-12 15:16:50
+  archived: false
+  subscribers: 109
+  watchers: 1008
+  stars: 1008
+  forks: 483
+  network: 483
+  created_since: 128
+  updated_since: 2
+  contributor_count: 31
+  org_count: 8
+  commit_frequency: 0.2
+  recent_releases_count: 3
+  updated_issues_count: 11
+  closed_issues_count: 4
+  comment_frequency: 0.9
+  dependents_count: 117
+  criticality_score: 0.46314

@@ -1,0 +1,31 @@
+name: transmission_inference
+url: https://github.com/davideyre/transmission_inference
+description: ''
+keywords: []
+categories:
+- COVID-19
+github:
+  name: transmission_inference
+  url: https://github.com/davideyre/transmission_inference
+  description: ''
+  keywords: ''
+  language: C++
+  created_at: 2017-04-19 19:42:34
+  updated_at: 2019-05-12 18:33:14
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 1
+  created_since: 52
+  updated_since: 26
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.04689

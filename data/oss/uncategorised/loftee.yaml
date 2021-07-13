@@ -1,0 +1,31 @@
+name: loftee
+url: https://github.com/konradjk/loftee
+description: ''
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: loftee
+  url: https://github.com/konradjk/loftee
+  description: ''
+  keywords: ''
+  language: Perl
+  created_at: 2014-04-01 00:30:51
+  updated_at: 2021-06-15 18:13:08
+  archived: false
+  subscribers: 18
+  watchers: 128
+  stars: 128
+  forks: 46
+  network: 46
+  created_since: 89
+  updated_since: 8
+  contributor_count: 11
+  org_count: 5
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 7
+  closed_issues_count: 3
+  comment_frequency: 0.6
+  dependents_count: 5
+  criticality_score: 0.30142

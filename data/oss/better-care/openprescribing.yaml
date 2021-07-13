@@ -1,0 +1,33 @@
+name: openprescribing
+url: https://github.com/ebmdatalab/openprescribing
+description: A Django app providing a REST API and dashboards for the HSCIC's GP prescribing
+  data
+keywords: []
+categories:
+- Better Care
+github:
+  name: openprescribing
+  url: https://github.com/ebmdatalab/openprescribing
+  description: A Django app providing a REST API and dashboards for the HSCIC's GP
+    prescribing data
+  keywords: ''
+  language: Python
+  created_at: 2015-09-02 21:38:15
+  updated_at: 2021-07-12 14:40:58
+  archived: false
+  subscribers: 14
+  watchers: 83
+  stars: 83
+  forks: 23
+  network: 23
+  created_since: 71
+  updated_since: 0
+  contributor_count: 23
+  org_count: 2
+  commit_frequency: 5.7
+  recent_releases_count: 0
+  updated_issues_count: 195
+  closed_issues_count: 180
+  comment_frequency: 0.7
+  dependents_count: 9
+  criticality_score: 0.41515

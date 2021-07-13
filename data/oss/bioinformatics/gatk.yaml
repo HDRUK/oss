@@ -1,0 +1,33 @@
+name: gatk
+url: https://github.com/broadgsa/gatk
+description: Official code repository for GATK versions 1.0 through 3.7 (core engine).
+  For GATK 4 code, see the https://github.com/broadinstitute/gatk repository
+keywords: []
+categories:
+- Bioinformatics
+github:
+  name: gatk
+  url: https://github.com/broadgsa/gatk
+  description: Official code repository for GATK versions 1.0 through 3.7 (core engine).
+    For GATK 4 code, see the https://github.com/broadinstitute/gatk repository
+  keywords: ''
+  language: Java
+  created_at: 2011-06-28 13:08:01
+  updated_at: 2021-06-22 08:24:15
+  archived: false
+  subscribers: 69
+  watchers: 276
+  stars: 276
+  forks: 220
+  network: 220
+  created_since: 151
+  updated_since: 45
+  contributor_count: 121
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 2
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 12
+  criticality_score: 0.27594

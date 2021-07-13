@@ -1,0 +1,33 @@
+name: bhpm
+url: https://github.com/rcarragh/bhpm
+description: Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes with
+  Clustering
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: bhpm
+  url: https://github.com/rcarragh/bhpm
+  description: Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes
+    with Clustering
+  keywords: ''
+  language: R
+  created_at: 2019-06-14 14:58:06
+  updated_at: 2020-10-28 12:27:58
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 2
+  network: 2
+  created_since: 25
+  updated_since: 9
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.2
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05806

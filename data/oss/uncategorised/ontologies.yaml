@@ -1,0 +1,31 @@
+name: ontologies
+url: https://github.com/biosemantics/ontologies
+description: ''
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: ontologies
+  url: https://github.com/biosemantics/ontologies
+  description: ''
+  keywords: ''
+  language: null
+  created_at: 2014-06-19 18:44:38
+  updated_at: 2018-12-12 21:14:44
+  archived: false
+  subscribers: 13
+  watchers: 1
+  stars: 1
+  forks: 1
+  network: 1
+  created_since: 86
+  updated_since: 32
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.04293

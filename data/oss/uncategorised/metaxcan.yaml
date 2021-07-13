@@ -1,0 +1,31 @@
+name: MetaXcan
+url: https://github.com/hakyimlab/MetaXcan
+description: MetaXcan software and manuscript
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: MetaXcan
+  url: https://github.com/hakyimlab/MetaXcan
+  description: MetaXcan software and manuscript
+  keywords: ''
+  language: Python
+  created_at: 2016-02-10 18:04:32
+  updated_at: 2021-06-13 16:47:34
+  archived: false
+  subscribers: 12
+  watchers: 59
+  stars: 59
+  forks: 56
+  network: 56
+  created_since: 66
+  updated_since: 3
+  contributor_count: 15
+  org_count: 2
+  commit_frequency: 0.3
+  recent_releases_count: 4
+  updated_issues_count: 7
+  closed_issues_count: 0
+  comment_frequency: 2.3
+  dependents_count: 23
+  criticality_score: 0.35483

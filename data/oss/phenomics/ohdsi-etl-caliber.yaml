@@ -1,0 +1,31 @@
+name: ohdsi-etl-caliber
+url: https://github.com/thehyve/ohdsi-etl-caliber
+description: ETL scripts for caliber data
+keywords: []
+categories:
+- National Phenomics Resource
+github:
+  name: ohdsi-etl-caliber
+  url: https://github.com/thehyve/ohdsi-etl-caliber
+  description: ETL scripts for caliber data
+  keywords: ''
+  language: R
+  created_at: 2017-10-10 11:35:41
+  updated_at: 2021-04-22 23:02:57
+  archived: false
+  subscribers: 10
+  watchers: 3
+  stars: 3
+  forks: 0
+  network: 0
+  created_since: 46
+  updated_since: 22
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 3
+  criticality_score: 0.10675

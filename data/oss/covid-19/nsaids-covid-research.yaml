@@ -1,0 +1,31 @@
+name: nsaids-covid-research
+url: https://github.com/opensafely/nsaids-covid-research
+description: ''
+keywords: []
+categories:
+- COVID-19
+github:
+  name: nsaids-covid-research
+  url: https://github.com/opensafely/nsaids-covid-research
+  description: ''
+  keywords: ''
+  language: Stata
+  created_at: 2020-06-30 10:13:28
+  updated_at: 2021-01-22 11:21:31
+  archived: false
+  subscribers: 10
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 0
+  created_since: 13
+  updated_since: 6
+  contributor_count: 9
+  org_count: 2
+  commit_frequency: 1.5
+  recent_releases_count: 5
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 3
+  criticality_score: 0.20695

@@ -1,0 +1,51 @@
+name: crossplatform_mGWAS
+url: https://github.com/MRC-Epid/crossplatform_mGWAS
+description: "Cross-platform genetic discovery of small molecule products of metabolism\
+  \ and application to clinical outcomes Luca A. Lotta, Maik Pietzner, Isobel D. Stewart,\
+  \ Laura B.L. Wittemans, Chen Li, Roberto Bonelli, Johannes Raffler, Emma K. Biggs,\
+  \ Clare Oliver-Williams, Victoria P.W. Auyeung, Jian\u2019an Luan, Eleanor Wheeler,\
+  \ Ellie Paige, Praveen Surendran, Gregory A. Michelotti, Robert A. Scott, Stephen\
+  \ Burgess, Verena Zuber, Eleanor Sanderson, Albert Koulman, Fumiaki Imamura, Nita\
+  \ G. Forouhi, Kay-Tee Khaw, MacTel Consortium, Julian L. Griffin, Angela M. Wood,\
+  \ Gabi Kastenm\xFCller, John Danesh, Adam S. Butterworth, Fiona M. Gribble, Frank\
+  \ Reimann, Melanie Bahlo, Eric Fauman, Nicholas J. Wareham, Claudia Langenberg bioRxiv\
+  \ 2020.02.03.932541; doi: https://doi.org/10.1101/2020.02.03.932541"
+keywords:
+- GWAS
+- Metabolism
+categories:
+- Bioinformatics
+github:
+  name: crossplatform_mGWAS
+  url: https://github.com/MRC-Epid/crossplatform_mGWAS
+  description: "Cross-platform genetic discovery of small molecule products of metabolism\
+    \ and application to clinical outcomes Luca A. Lotta, Maik Pietzner, Isobel D.\
+    \ Stewart, Laura B.L. Wittemans, Chen Li, Roberto Bonelli, Johannes Raffler, Emma\
+    \ K. Biggs, Clare Oliver-Williams, Victoria P.W. Auyeung, Jian\u2019an Luan, Eleanor\
+    \ Wheeler, Ellie Paige, Praveen Surendran, Gregory A. Michelotti, Robert A. Scott,\
+    \ Stephen Burgess, Verena Zuber, Eleanor Sanderson, Albert Koulman, Fumiaki Imamura,\
+    \ Nita G. Forouhi, Kay-Tee Khaw, MacTel Consortium, Julian L. Griffin, Angela\
+    \ M. Wood, Gabi Kastenm\xFCller, John Danesh, Adam S. Butterworth, Fiona M. Gribble,\
+    \ Frank Reimann, Melanie Bahlo, Eric Fauman, Nicholas J. Wareham, Claudia Langenberg\
+    \ bioRxiv 2020.02.03.932541; doi: https://doi.org/10.1101/2020.02.03.932541"
+  keywords: ''
+  language: Shell
+  created_at: 2020-10-14 14:19:35
+  updated_at: 2020-10-26 08:57:59
+  archived: false
+  subscribers: 2
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 0
+  created_since: 9
+  updated_since: 9
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02077

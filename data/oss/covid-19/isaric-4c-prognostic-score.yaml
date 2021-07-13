@@ -1,0 +1,22 @@
+name: ISARIC 4C prognostic score
+url: https://isaric4c.net/risk
+description: 'The ISARIC 4C prognostic score uses data from more than 70,000 hospital
+  admissions, we have devised a simple, robust and generalisable prognostic scoring
+  system for hospitalised patients.
+
+  The 4C Mortality Score is a risk stratification score that predicts in-hospital
+  mortality for hospitalised COVID-19 patients, produced by the ISARIC 4C consortium.
+  It is intended for use by clinicians. It is designed to be easy-to-use, and require
+  only parameters that are commonly available at hospital presentation.
+
+  For full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1)
+  introducing the score. This is an infographic that visualises risk, based on observed
+  mortality among hospitalised adult COVID19 patients recruited into the ISARIC 4C
+  study in the UK.'
+keywords:
+- Risk Calculator
+- COVID-19
+- Respiratory
+- Infection
+categories:
+- COVID-19

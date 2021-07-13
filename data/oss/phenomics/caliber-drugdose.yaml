@@ -1,0 +1,8 @@
+name: CALIBER Drugdose
+url: http://r-forge.r-project.org/R/?group_id=1598
+description: medication dosage instructions in electronic health records are often
+  in the form of text rather than numbers. This program is designed to convert the
+  text into numbers for the dose, frequency, units, duration etc.
+keywords: []
+categories:
+- National Phenomics Resource

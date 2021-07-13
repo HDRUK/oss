@@ -1,0 +1,37 @@
+name: KGPhenotyping
+url: https://github.com/Honghan/KGPhenotyping
+description: knowledge graph based phenotyping
+keywords:
+- reusable
+- phenotyping
+- health-data
+categories:
+- Uncategorised
+github:
+  name: KGPhenotyping
+  url: https://github.com/Honghan/KGPhenotyping
+  description: knowledge graph based phenotyping
+  keywords:
+  - reusable
+  - phenotyping
+  - health-data
+  language: Java
+  created_at: 2019-09-26 15:32:24
+  updated_at: 2020-12-28 08:38:15
+  archived: false
+  subscribers: 1
+  watchers: 4
+  stars: 4
+  forks: 1
+  network: 1
+  created_since: 22
+  updated_since: 20
+  contributor_count: 3
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 2
+  closed_issues_count: 0
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.09449

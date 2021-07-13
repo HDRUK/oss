@@ -1,0 +1,51 @@
+name: CogStack-NiFi
+url: https://github.com/CogStack/CogStack-NiFi
+description: Building data processing pipelines for documents processing with NLP
+  using Apache NiFi and related services
+keywords:
+- apache-nifi
+- nifi
+- elasticsearch
+- kibana
+- data-pipelines
+- nlp
+- rest
+- electronic-health-records
+- data-integration
+categories:
+- National Text Analytics
+github:
+  name: CogStack-NiFi
+  url: https://github.com/CogStack/CogStack-NiFi
+  description: Building data processing pipelines for documents processing with NLP
+    using Apache NiFi and related services
+  keywords:
+  - apache-nifi
+  - nifi
+  - elasticsearch
+  - kibana
+  - data-pipelines
+  - nlp
+  - rest
+  - electronic-health-records
+  - data-integration
+  language: Jupyter Notebook
+  created_at: 2019-06-10 09:32:12
+  updated_at: 2021-05-31 13:22:11
+  archived: false
+  subscribers: 5
+  watchers: 8
+  stars: 8
+  forks: 10
+  network: 10
+  created_since: 26
+  updated_since: 11
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 1
+  closed_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.04862

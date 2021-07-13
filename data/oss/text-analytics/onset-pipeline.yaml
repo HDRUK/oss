@@ -1,0 +1,31 @@
+name: onset_pipeline
+url: https://github.com/medesto/onset_pipeline
+description: ''
+keywords: []
+categories:
+- National Text Analytics
+github:
+  name: onset_pipeline
+  url: https://github.com/medesto/onset_pipeline
+  description: ''
+  keywords: ''
+  language: null
+  created_at: 2020-02-13 11:23:51
+  updated_at: 2020-06-16 17:55:49
+  archived: false
+  subscribers: 2
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 0
+  created_since: 17
+  updated_since: 13
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02531

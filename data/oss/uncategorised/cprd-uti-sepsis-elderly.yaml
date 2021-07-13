@@ -1,0 +1,36 @@
+name: CPRD_UTI_sepsis_elderly
+url: https://github.com/prockenschaub/CPRD_UTI_sepsis_elderly
+description: 'This is the R code and code lists used to analyse the data for paper
+  "Antibiotic prescribing for lower UTI in elderly patients in primary care and risk
+  of bloodstream infection: A cohort study using electronic health records in England"'
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: CPRD_UTI_sepsis_elderly
+  url: https://github.com/prockenschaub/CPRD_UTI_sepsis_elderly
+  description: 'This is the R code and code lists used to analyse the data for paper
+    "Antibiotic prescribing for lower UTI in elderly patients in primary care and
+    risk of bloodstream infection: A cohort study using electronic health records
+    in England"'
+  keywords: ''
+  language: R
+  created_at: 2019-09-25 15:15:02
+  updated_at: 2021-05-26 07:06:46
+  archived: true
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 1
+  created_since: 22
+  updated_since: 10
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.2
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.08673

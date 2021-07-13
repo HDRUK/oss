@@ -1,0 +1,20 @@
+name: CALIBER health records research toolkit
+url: http://caliberanalysis.r-forge.r-project.org/
+description: 'This project comprises a set of R packages to assist in epidemiological
+  studies using electronic health records databases.
+
+  CALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER
+  investigators represent a collaboration between epidemiologists, clinicians, statisticians,
+  health informaticians and computer scientists with initial funding from the Wellcome
+  Trust and the National Institute for Health Research.
+
+  The goal of CALIBER is to provide evidence across different stages of translation,
+  from discovery, through evaluation to implementation where electronic health records
+  provide new scientific opportunities.'
+keywords:
+- Imputation
+- Phenomics
+- Data management
+- Natural language processing
+categories:
+- National Phenomics Resource

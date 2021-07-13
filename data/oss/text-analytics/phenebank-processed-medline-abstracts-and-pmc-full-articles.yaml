@@ -1,0 +1,14 @@
+name: PheneBank- Processed Medline Abstracts and PMC full articles
+url: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
+description: '24 million MEDLINE abstracts as well as 3.8M open-access PMC full articles
+  annotated with 9 classes of entity: Phenotype, Disease, Anatomy, Cell, Cell_line,
+  GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies: SNOMED,
+  HPO, MeSH, PRO, and FMA.'
+keywords:
+- corpus
+- hdruk-text
+- natural language processing
+- nlp
+- text analytics
+categories:
+- National Text Analytics

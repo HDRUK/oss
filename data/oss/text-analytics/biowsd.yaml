@@ -1,0 +1,9 @@
+name: BioWSD
+url: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
+description: corpora containing examples of two ambiguities from the biomedical domain
+  (abbreviations and gene names).
+keywords:
+- dataset
+- models
+categories:
+- National Text Analytics

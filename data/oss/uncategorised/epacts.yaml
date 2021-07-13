@@ -1,0 +1,31 @@
+name: EPACTS
+url: https://github.com/statgen/EPACTS
+description: ''
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: EPACTS
+  url: https://github.com/statgen/EPACTS
+  description: ''
+  keywords: ''
+  language: C++
+  created_at: 2016-12-15 21:58:26
+  updated_at: 2021-02-16 04:16:51
+  archived: false
+  subscribers: 14
+  watchers: 24
+  stars: 24
+  forks: 16
+  network: 16
+  created_since: 56
+  updated_since: 24
+  contributor_count: 4
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 2
+  closed_issues_count: 0
+  comment_frequency: 5.5
+  dependents_count: 0
+  criticality_score: 0.21796

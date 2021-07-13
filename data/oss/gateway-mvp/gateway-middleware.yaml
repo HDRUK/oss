@@ -1,0 +1,41 @@
+name: Gateway-Middleware
+url: https://github.com/HDRUK/Gateway-Middleware
+description: Health Data Gateway - GraphQL Apollo Middleware
+keywords:
+- hdruk
+- hdruk-gateway
+- graphql-server
+- apollo-server-express
+- health-data
+categories:
+- Gateway (MVP)
+github:
+  name: Gateway-Middleware
+  url: https://github.com/HDRUK/Gateway-Middleware
+  description: Health Data Gateway - GraphQL Apollo Middleware
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  - graphql-server
+  - apollo-server-express
+  - health-data
+  language: JavaScript
+  created_at: 2020-01-20 13:01:03
+  updated_at: 2020-10-21 08:16:16
+  archived: false
+  subscribers: 2
+  watchers: 2
+  stars: 2
+  forks: 1
+  network: 1
+  created_since: 21
+  updated_since: 18
+  contributor_count: 13
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 2
+  closed_issues_count: 0
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.13799

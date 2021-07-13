@@ -1,0 +1,53 @@
+name: phenomenet-vp
+url: https://github.com/bio-ontology-research-group/phenomenet-vp
+description: A phenotype-based tool for variant prioritization in WES and WGS data
+keywords:
+- translationalscience
+- variant-analysis
+- variant-annotations
+- prioritize-disease-variants
+- rare-variants
+- phenotypes
+- vcf-files
+- omim
+- synthetic-genomes
+- variants
+- disease
+categories:
+- National Phenomics Resource
+github:
+  name: phenomenet-vp
+  url: https://github.com/bio-ontology-research-group/phenomenet-vp
+  description: A phenotype-based tool for variant prioritization in WES and WGS data
+  keywords:
+  - translationalscience
+  - variant-analysis
+  - variant-annotations
+  - prioritize-disease-variants
+  - rare-variants
+  - phenotypes
+  - vcf-files
+  - omim
+  - synthetic-genomes
+  - variants
+  - disease
+  language: Java
+  created_at: 2016-03-14 16:11:45
+  updated_at: 2021-06-15 13:47:05
+  archived: false
+  subscribers: 7
+  watchers: 23
+  stars: 23
+  forks: 12
+  network: 12
+  created_since: 65
+  updated_since: 13
+  contributor_count: 6
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 2
+  closed_issues_count: 1
+  comment_frequency: 0.5
+  dependents_count: 2
+  criticality_score: 0.20734

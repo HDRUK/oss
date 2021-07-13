@@ -1,0 +1,31 @@
+name: ldsc
+url: https://github.com/bulik/ldsc
+description: LD Score Regression (LDSC)
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: ldsc
+  url: https://github.com/bulik/ldsc
+  description: LD Score Regression (LDSC)
+  keywords: ''
+  language: Python
+  created_at: 2014-05-18 22:15:29
+  updated_at: 2021-07-07 00:43:01
+  archived: false
+  subscribers: 22
+  watchers: 335
+  stars: 335
+  forks: 204
+  network: 204
+  created_since: 87
+  updated_since: 12
+  contributor_count: 18
+  org_count: 4
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 24
+  closed_issues_count: 3
+  comment_frequency: 1.0
+  dependents_count: 53
+  criticality_score: 0.33996

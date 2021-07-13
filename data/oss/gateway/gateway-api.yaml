@@ -1,0 +1,35 @@
+name: gateway-api
+url: https://github.com/HDRUK/gateway-api
+description: HDR UK Gateway API
+keywords:
+- hdruk
+- hdruk-gateway
+categories:
+- Gateway
+github:
+  name: gateway-api
+  url: https://github.com/HDRUK/gateway-api
+  description: HDR UK Gateway API
+  keywords:
+  - hdruk
+  - hdruk-gateway
+  language: JavaScript
+  created_at: 2020-05-13 10:06:56
+  updated_at: 2021-07-09 14:18:48
+  archived: false
+  subscribers: 3
+  watchers: 1
+  stars: 1
+  forks: 0
+  network: 0
+  created_since: 18
+  updated_since: 0
+  contributor_count: 13
+  org_count: 4
+  commit_frequency: 15.4
+  recent_releases_count: 62
+  updated_issues_count: 104
+  closed_issues_count: 103
+  comment_frequency: 0.7
+  dependents_count: 30
+  criticality_score: 0.47886

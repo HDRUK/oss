@@ -1,0 +1,31 @@
+name: FM-summary
+url: https://github.com/hailianghuang/FM-summary
+description: Fine-mapping method only using summary statistics
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: FM-summary
+  url: https://github.com/hailianghuang/FM-summary
+  description: Fine-mapping method only using summary statistics
+  keywords: ''
+  language: R
+  created_at: 2016-03-16 02:29:02
+  updated_at: 2021-04-16 08:50:08
+  archived: false
+  subscribers: 1
+  watchers: 7
+  stars: 7
+  forks: 5
+  network: 5
+  created_since: 65
+  updated_since: 65
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.05316

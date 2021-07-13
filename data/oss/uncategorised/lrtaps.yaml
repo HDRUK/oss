@@ -1,0 +1,31 @@
+name: lrTaps
+url: https://github.com/jfeicheng92/lrTaps
+description: ''
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: lrTaps
+  url: https://github.com/jfeicheng92/lrTaps
+  description: ''
+  keywords: ''
+  language: Shell
+  created_at: 2020-02-10 16:11:50
+  updated_at: 2020-02-11 18:01:35
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 1
+  created_since: 17
+  updated_since: 17
+  contributor_count: 1
+  org_count: 10
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.14917

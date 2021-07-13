@@ -1,0 +1,31 @@
+name: 2019nCoV_proportion_asym
+url: https://github.com/yangclaraliu/2019nCoV_proportion_asym
+description: ''
+keywords: []
+categories:
+- COVID-19
+github:
+  name: 2019nCoV_proportion_asym
+  url: https://github.com/yangclaraliu/2019nCoV_proportion_asym
+  description: ''
+  keywords: ''
+  language: R
+  created_at: 2020-01-31 09:48:37
+  updated_at: 2021-06-28 08:32:40
+  archived: false
+  subscribers: 4
+  watchers: 6
+  stars: 6
+  forks: 6
+  network: 6
+  created_since: 18
+  updated_since: 16
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.07946

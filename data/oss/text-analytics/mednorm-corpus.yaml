@@ -1,0 +1,17 @@
+name: MedNorm Corpus
+url: https://data.mendeley.com/datasets/b9x7xxb9sz/1
+description: 'MedNorm is a corpus of 27,979 textual descriptions simultaneously mapped
+  to both MedDRA and SNOMED-CT, sourced from five publicly available datasets across
+  biomedical and social media domains.
+
+  The cross-terminology medical concept embeddings are 64-dimensional vectors for
+  UMLS, MedDRA and SNOMED-CT concepts that are able to capture semantic similarities
+  between concepts from different medical terminologies.'
+keywords:
+- corpus
+- hdruk-text
+- natural language processing
+- nlp
+- text analytics
+categories:
+- National Text Analytics

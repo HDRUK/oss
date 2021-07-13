@@ -1,0 +1,31 @@
+name: clustering_w2v
+url: https://github.com/RichJackson/clustering_w2v
+description: ''
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: clustering_w2v
+  url: https://github.com/RichJackson/clustering_w2v
+  description: ''
+  keywords: ''
+  language: Python
+  created_at: 2018-02-11 19:34:03
+  updated_at: 2019-11-30 12:08:32
+  archived: false
+  subscribers: 1
+  watchers: 2
+  stars: 2
+  forks: 2
+  network: 2
+  created_since: 42
+  updated_since: 40
+  contributor_count: 2
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.03152

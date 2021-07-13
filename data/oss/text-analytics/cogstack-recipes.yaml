@@ -1,0 +1,31 @@
+name: CogStack-Recipes
+url: https://github.com/CogStack/CogStack-Recipes
+description: Example deployment recipes based on CogStack
+keywords: []
+categories:
+- National Text Analytics
+github:
+  name: CogStack-Recipes
+  url: https://github.com/CogStack/CogStack-Recipes
+  description: Example deployment recipes based on CogStack
+  keywords: ''
+  language: Shell
+  created_at: 2019-04-05 15:16:20
+  updated_at: 2019-05-13 10:54:32
+  archived: false
+  subscribers: 12
+  watchers: 0
+  stars: 0
+  forks: 2
+  network: 2
+  created_since: 28
+  updated_since: 26
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.0209

@@ -1,0 +1,41 @@
+name: hilton-keeling-estimating-R0
+url: https://github.com/JBHilton/hilton-keeling-estimating-R0
+description: The code in this repository accompanies our upcoming paper "Estimation
+  of country-level basic reproductive ratios for novelCoronavirus (COVID-19) using
+  synthetic contact matrices". A preprint version of this paper is available at https://www.medrxiv.org/content/10.1101/2020.02.26.20028167v1.
+  Some of our notation has changed between the preprint and the submission version
+  of the paper. In particular, the age-specific susceptibility is now denoted by sigma
+  rather than z.
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: hilton-keeling-estimating-R0
+  url: https://github.com/JBHilton/hilton-keeling-estimating-R0
+  description: The code in this repository accompanies our upcoming paper "Estimation
+    of country-level basic reproductive ratios for novelCoronavirus (COVID-19) using
+    synthetic contact matrices". A preprint version of this paper is available at
+    https://www.medrxiv.org/content/10.1101/2020.02.26.20028167v1. Some of our notation
+    has changed between the preprint and the submission version of the paper. In particular,
+    the age-specific susceptibility is now denoted by sigma rather than z.
+  keywords: ''
+  language: HTML
+  created_at: 2020-03-19 12:53:48
+  updated_at: 2020-05-29 14:13:57
+  archived: false
+  subscribers: 2
+  watchers: 0
+  stars: 0
+  forks: 2
+  network: 2
+  created_since: 16
+  updated_since: 14
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.02222

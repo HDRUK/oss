@@ -1,0 +1,33 @@
+name: bioreddit
+url: https://github.com/basaldella/bioreddit
+description: Word embeddings trained on medical subreddits.
+keywords:
+- dataset
+- models
+categories:
+- National Text Analytics
+github:
+  name: bioreddit
+  url: https://github.com/basaldella/bioreddit
+  description: Word embeddings trained on medical subreddits.
+  keywords: ''
+  language: null
+  created_at: 2019-10-01 09:30:20
+  updated_at: 2021-01-04 17:16:44
+  archived: false
+  subscribers: 2
+  watchers: 4
+  stars: 4
+  forks: 0
+  network: 0
+  created_since: 22
+  updated_since: 6
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.09471

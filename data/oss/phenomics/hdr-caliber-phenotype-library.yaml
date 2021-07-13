@@ -1,0 +1,31 @@
+name: hdr-caliber-phenotype-library
+url: https://github.com/spiros/hdr-caliber-phenotype-library
+description: HDR UK National Phenotype Library
+keywords: []
+categories:
+- National Phenomics Resource
+github:
+  name: hdr-caliber-phenotype-library
+  url: https://github.com/spiros/hdr-caliber-phenotype-library
+  description: HDR UK National Phenotype Library
+  keywords: ''
+  language: SCSS
+  created_at: 2020-06-15 12:06:31
+  updated_at: 2021-06-29 11:52:16
+  archived: false
+  subscribers: 12
+  watchers: 4
+  stars: 4
+  forks: 8
+  network: 8
+  created_since: 13
+  updated_since: 0
+  contributor_count: 7
+  org_count: 5
+  commit_frequency: 2.1
+  recent_releases_count: 0
+  updated_issues_count: 6
+  closed_issues_count: 5
+  comment_frequency: 0.3
+  dependents_count: 0
+  criticality_score: 0.26631

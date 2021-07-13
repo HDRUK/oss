@@ -1,0 +1,31 @@
+name: uvR
+url: https://github.com/markocherrie/uvR
+description: R package to support analysing UVR data
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: uvR
+  url: https://github.com/markocherrie/uvR
+  description: R package to support analysing UVR data
+  keywords: ''
+  language: R
+  created_at: 2019-09-13 17:55:57
+  updated_at: 2019-10-01 09:59:26
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 1
+  created_since: 22
+  updated_since: 22
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915

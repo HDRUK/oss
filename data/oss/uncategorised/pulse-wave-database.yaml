@@ -1,0 +1,49 @@
+name: Pulse Wave Database
+url: https://github.com/peterhcharlton/pwdb/
+description: 'The aim of this project is to develop a database of simulated pulse
+  waves with which to test pulse wave analysis algorithms.
+
+  A database of simulated pulse waves representative of a sample of healthy adults
+  was created. It contains several types of pulse waves (such as those measured by
+  smart watches and fitness trackers) at common measurement sites for 4,374 virtual
+  subjects aged 25 - 75 years old. The virtual subjects exhibit a range of cardiovascular
+  properties across the normal ranges encountered in healthy people. The results were
+  verified against in vivo data. Case studies were published (at https://doi.org/10.1152/ajpheart.00218.2019
+  ) demonstrating the utility of the database.
+
+  The database is a useful resource for research and education on the topics of -
+  signal processing, physiology, and computational modelling.'
+keywords:
+- ageing
+- cardiovascular
+- pulse waves
+- signal processing
+- dataset
+- Haemodynamics
+categories:
+- Uncategorised
+github:
+  name: pwdb
+  url: https://github.com/peterhcharlton/pwdb
+  description: Scripts for generating and analysing the simulated Pulse Wave DataBase
+  keywords: ''
+  language: MATLAB
+  created_at: 2018-12-17 10:01:51
+  updated_at: 2021-05-27 13:36:27
+  archived: false
+  subscribers: 2
+  watchers: 13
+  stars: 13
+  forks: 3
+  network: 3
+  created_since: 31
+  updated_since: 22
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 1
+  closed_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 0
+  criticality_score: 0.07083

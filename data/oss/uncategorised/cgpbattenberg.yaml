@@ -1,0 +1,31 @@
+name: cgpBattenberg
+url: https://github.com/cancerit/cgpBattenberg
+description: Battenberg algorithm and associated implementation script
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: cgpBattenberg
+  url: https://github.com/cancerit/cgpBattenberg
+  description: Battenberg algorithm and associated implementation script
+  keywords: ''
+  language: Perl
+  created_at: 2014-09-11 11:51:57
+  updated_at: 2021-05-07 14:51:03
+  archived: false
+  subscribers: 25
+  watchers: 44
+  stars: 44
+  forks: 14
+  network: 14
+  created_since: 86
+  updated_since: 9
+  contributor_count: 10
+  org_count: 4
+  commit_frequency: 0.4
+  recent_releases_count: 5
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 5
+  criticality_score: 0.26811

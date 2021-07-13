@@ -1,0 +1,33 @@
+name: ggquickeda
+url: https://github.com/smouksassi/ggquickeda
+description: ggplot2 and table1 summary statistics quick exploration of data
+keywords:
+- COVID-19
+- Infection
+categories:
+- COVID-19
+github:
+  name: ggquickeda
+  url: https://github.com/smouksassi/ggquickeda
+  description: ggplot2 and table1 summary statistics quick exploration of data
+  keywords: ''
+  language: R
+  created_at: 2018-03-01 14:23:41
+  updated_at: 2021-06-24 04:37:41
+  archived: false
+  subscribers: 2
+  watchers: 47
+  stars: 47
+  forks: 3
+  network: 3
+  created_since: 41
+  updated_since: 1
+  contributor_count: 4
+  org_count: 2
+  commit_frequency: 2.4
+  recent_releases_count: 5
+  updated_issues_count: 1
+  closed_issues_count: 0
+  comment_frequency: 1.0
+  dependents_count: 13
+  criticality_score: 0.30739

@@ -1,0 +1,35 @@
+name: seqtk
+url: https://github.com/lh3/seqtk
+description: Toolkit for processing sequences in FASTA/Q formats
+keywords:
+- bioinformatics
+- sequence-analysis
+categories:
+- Bioinformatics
+github:
+  name: seqtk
+  url: https://github.com/lh3/seqtk
+  description: Toolkit for processing sequences in FASTA/Q formats
+  keywords:
+  - bioinformatics
+  - sequence-analysis
+  language: C
+  created_at: 2012-03-23 23:24:13
+  updated_at: 2021-07-12 12:54:39
+  archived: false
+  subscribers: 62
+  watchers: 842
+  stars: 842
+  forks: 246
+  network: 246
+  created_since: 113
+  updated_since: 4
+  contributor_count: 8
+  org_count: 6
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 13
+  closed_issues_count: 3
+  comment_frequency: 0.7
+  dependents_count: 34
+  criticality_score: 0.34694

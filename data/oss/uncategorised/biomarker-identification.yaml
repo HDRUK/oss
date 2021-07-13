@@ -1,0 +1,31 @@
+name: Biomarker_Identification
+url: https://github.com/jaw-bioinf/Biomarker_Identification
+description: Biomarker Identification for Bravo, Williams, Gkoutos and Acharjee
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: Biomarker_Identification
+  url: https://github.com/jaw-bioinf/Biomarker_Identification
+  description: Biomarker Identification for Bravo, Williams, Gkoutos and Acharjee
+  keywords: ''
+  language: null
+  created_at: 2018-09-19 16:20:42
+  updated_at: 2021-05-05 21:26:07
+  archived: false
+  subscribers: 2
+  watchers: 3
+  stars: 3
+  forks: 2
+  network: 2
+  created_since: 34
+  updated_since: 34
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915

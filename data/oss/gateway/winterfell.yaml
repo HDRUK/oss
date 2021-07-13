@@ -1,0 +1,49 @@
+name: Winterfell
+url: https://github.com/andrewhathaway/Winterfell
+description: Generate complex, validated and extendable JSON-based forms in React.
+keywords:
+- reactjs
+- react
+- forms
+- json
+- complex
+- winterfell
+- customisable
+- validation
+- validated
+categories:
+- Gateway
+github:
+  name: Winterfell
+  url: https://github.com/andrewhathaway/Winterfell
+  description: Generate complex, validated and extendable JSON-based forms in React.
+  keywords:
+  - reactjs
+  - react
+  - forms
+  - json
+  - complex
+  - winterfell
+  - customisable
+  - validation
+  - validated
+  language: JavaScript
+  created_at: 2015-08-23 19:11:53
+  updated_at: 2021-04-20 19:32:15
+  archived: false
+  subscribers: 29
+  watchers: 787
+  stars: 787
+  forks: 127
+  network: 127
+  created_since: 72
+  updated_since: 42
+  contributor_count: 16
+  org_count: 8
+  commit_frequency: 0.0
+  recent_releases_count: 2
+  updated_issues_count: 2
+  closed_issues_count: 1
+  comment_frequency: 0.5
+  dependents_count: 15
+  criticality_score: 0.29795

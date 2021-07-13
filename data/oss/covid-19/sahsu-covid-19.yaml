@@ -1,0 +1,37 @@
+name: SAHSU-COVID-19
+url: https://github.com/smallAreaHealthStatisticsUnit/SAHSU-COVID-19/tree/v1.0.0
+description: Repository for code and results from SAHSU's research into SARS-CoV-2
+  and COVID-19
+keywords:
+- covid-19
+- coronavirus
+- 2019-ncov
+- sars-cov
+categories:
+- COVID-19
+github:
+  name: SAHSU-COVID-19
+  url: https://github.com/smallAreaHealthStatisticsUnit/SAHSU-COVID-19
+  description: Repository for code and results from SAHSU's research into SARS-CoV-2
+    and COVID-19
+  keywords: ''
+  language: R
+  created_at: 2021-03-11 15:42:20
+  updated_at: 2021-05-04 12:44:28
+  archived: false
+  subscribers: 2
+  watchers: 0
+  stars: 0
+  forks: 0
+  network: 0
+  created_since: 4
+  updated_since: 4
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.1
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.03314

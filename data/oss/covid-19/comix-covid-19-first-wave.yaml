@@ -1,0 +1,33 @@
+name: comix_covid-19-first_wave
+url: https://github.com/jarvisc1/comix_covid-19-first_wave
+description: Code and data from the analysis of the 1st wave of the CoMix 2020 contacts
+  survey
+keywords: []
+categories:
+- COVID-19
+github:
+  name: comix_covid-19-first_wave
+  url: https://github.com/jarvisc1/comix_covid-19-first_wave
+  description: Code and data from the analysis of the 1st wave of the CoMix 2020 contacts
+    survey
+  keywords: ''
+  language: R
+  created_at: 2020-04-06 07:49:57
+  updated_at: 2020-10-13 01:12:48
+  archived: false
+  subscribers: 1
+  watchers: 5
+  stars: 5
+  forks: 5
+  network: 5
+  created_since: 15
+  updated_since: 15
+  contributor_count: 2
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.09662

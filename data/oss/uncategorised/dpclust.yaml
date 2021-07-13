@@ -1,0 +1,31 @@
+name: dpclust
+url: https://github.com/Wedge-lab/dpclust
+description: Dirichlet Process based methods for subclonal reconstruction of tumours
+keywords: []
+categories:
+- Uncategorised
+github:
+  name: dpclust
+  url: https://github.com/Wedge-lab/dpclust
+  description: Dirichlet Process based methods for subclonal reconstruction of tumours
+  keywords: ''
+  language: R
+  created_at: 2017-07-04 18:23:23
+  updated_at: 2021-05-08 14:03:12
+  archived: false
+  subscribers: 10
+  watchers: 12
+  stars: 12
+  forks: 9
+  network: 9
+  created_since: 87
+  updated_since: 18
+  contributor_count: 5
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 2
+  updated_issues_count: 1
+  closed_issues_count: 1
+  comment_frequency: 8.0
+  dependents_count: 0
+  criticality_score: 0.26342

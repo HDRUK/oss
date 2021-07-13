@@ -1,0 +1,33 @@
+name: ukbiobank-resources
+url: https://github.com/spiros/ukbiobank-resources
+description: A curated list for preprocessing, cleaning, mapping and analyzing UK
+  Biobank data.
+keywords: []
+categories:
+- National Phenomics Resource
+github:
+  name: ukbiobank-resources
+  url: https://github.com/spiros/ukbiobank-resources
+  description: A curated list for preprocessing, cleaning, mapping and analyzing UK
+    Biobank data.
+  keywords: ''
+  language: null
+  created_at: 2020-02-24 08:25:54
+  updated_at: 2021-05-17 09:04:08
+  archived: false
+  subscribers: 3
+  watchers: 12
+  stars: 12
+  forks: 0
+  network: 0
+  created_since: 17
+  updated_since: 2
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.09873

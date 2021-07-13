@@ -1,0 +1,31 @@
+name: covid-uk
+url: https://github.com/cmmid/covid-uk
+description: Scenario analyses for COVID-19 outbreak in the United Kingdom
+keywords: []
+categories:
+- COVID-19
+github:
+  name: covid-uk
+  url: https://github.com/cmmid/covid-uk
+  description: Scenario analyses for COVID-19 outbreak in the United Kingdom
+  keywords: ''
+  language: R
+  created_at: 2020-03-31 01:26:04
+  updated_at: 2021-03-23 07:04:13
+  archived: false
+  subscribers: 14
+  watchers: 61
+  stars: 61
+  forks: 28
+  network: 28
+  created_since: 16
+  updated_since: 14
+  contributor_count: 3
+  org_count: 2
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 1
+  closed_issues_count: 1
+  comment_frequency: 0.0
+  dependents_count: 4
+  criticality_score: 0.1337

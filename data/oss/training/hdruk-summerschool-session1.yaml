@@ -1,0 +1,31 @@
+name: hdruk_summerschool_session1
+url: https://github.com/athro/hdruk_summerschool_session1
+description: EHR analysis for the HDR UK summer school 2019
+keywords: []
+categories:
+- Training
+github:
+  name: hdruk_summerschool_session1
+  url: https://github.com/athro/hdruk_summerschool_session1
+  description: EHR analysis for the HDR UK summer school 2019
+  keywords: ''
+  language: Dockerfile
+  created_at: 2019-08-14 08:39:50
+  updated_at: 2019-08-14 08:58:17
+  archived: false
+  subscribers: 1
+  watchers: 0
+  stars: 0
+  forks: 1
+  network: 1
+  created_since: 23
+  updated_since: 23
+  contributor_count: 1
+  org_count: 0
+  commit_frequency: 0.0
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 0
+  criticality_score: 0.01915

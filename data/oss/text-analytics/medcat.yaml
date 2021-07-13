@@ -1,0 +1,45 @@
+name: MedCAT
+url: https://github.com/CogStack/MedCAT
+description: Medical Concept Annotation Tool
+keywords:
+- electronic-health-records
+- nlp
+- ner
+- healthcare
+- snomed
+- umls
+- covid-19
+categories:
+- National Text Analytics
+github:
+  name: MedCAT
+  url: https://github.com/CogStack/MedCAT
+  description: Medical Concept Annotation Tool
+  keywords:
+  - electronic-health-records
+  - nlp
+  - ner
+  - healthcare
+  - snomed
+  - umls
+  - covid-19
+  language: Python
+  created_at: 2019-03-17 16:09:21
+  updated_at: 2021-07-12 15:51:59
+  archived: false
+  subscribers: 17
+  watchers: 170
+  stars: 170
+  forks: 45
+  network: 45
+  created_since: 32
+  updated_since: 0
+  contributor_count: 10
+  org_count: 4
+  commit_frequency: 2.3
+  recent_releases_count: 1
+  updated_issues_count: 23
+  closed_issues_count: 21
+  comment_frequency: 2.0
+  dependents_count: 39
+  criticality_score: 0.41974

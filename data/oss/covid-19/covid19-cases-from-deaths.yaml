@@ -1,0 +1,31 @@
+name: covid19_cases_from_deaths
+url: https://github.com/thibautjombart/covid19_cases_from_deaths
+description: Shiny app to infer caes from new deaths of COVID-19
+keywords: []
+categories:
+- COVID-19
+github:
+  name: covid19_cases_from_deaths
+  url: https://github.com/thibautjombart/covid19_cases_from_deaths
+  description: Shiny app to infer caes from new deaths of COVID-19
+  keywords: ''
+  language: R
+  created_at: 2020-03-02 19:15:37
+  updated_at: 2021-01-30 11:34:03
+  archived: false
+  subscribers: 6
+  watchers: 11
+  stars: 11
+  forks: 11
+  network: 11
+  created_since: 17
+  updated_since: 16
+  contributor_count: 5
+  org_count: 3
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 4
+  criticality_score: 0.16014
