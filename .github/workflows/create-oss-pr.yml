@@ -1,0 +1,37 @@
+name: Create OSS PR from issue
+
+on:
+  issues:
+    types: ['labeled']
+
+jobs:
+  publish-oss:
+    # Run only if label == 'triaged'
+    if: ${{ github.event.label.name == 'triaged' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate OSS
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: |
+          cat << EOF >> /tmp/oss-${ISSUE_NUMBER}.md
+          ${POST_BODY}
+          EOF
+          python scripts/yamlify.py /tmp/oss-${ISSUE_NUMBER}.md
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
+        with:
+          branch: "new-oss-${{ github.event.issue.number }}"
+          delete-branch: true
+          title: "New ${{ github.event.issue.title}}"
+          body: |
+            Automagically sprouted for publishing.
+            Merging will publish to: https://github.com/HDRUK/oss
+            Closes #${{ github.event.issue.number }}
+          reviewers: "susheel"
+          commit-message: "New ${{ github.event.issue.title }}"
