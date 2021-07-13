@@ -1,4 +1,4 @@
-name: Submit new OSS
+name: Submit OSS [New]
 description: Submit new HDR UK affiliated open source software
 title: '[OSS]: '
 labels: submitted
@@ -8,13 +8,32 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to submit a new OSS!
+        Thanks for taking the time to submit a new OSS! Please name the issue as `[OSS]: category/name`
+  - type: dropdown
+    id: main-category
+    attributes:
+      label: OSS Main Category
+      options:
+        - applied-analytics
+        - bhf-dsc
+        - better-care
+        - bioinformatics
+        - covid-19
+        - cohort-discovery
+        - gateway
+        - gateway-mvp
+        - hdruk
+        - icoda
+        - phenomics
+        - text-analytics
+        - training
+        - uncategorised
   - type: input
     id: name
     attributes:
-      label: Category / Project Name
-      description: Please supply the proposed OSS catgeory/name
-      placeholder: e.g. hdruk/papers
+      label: Name
+      description: Please supply the proposed OSS name
+      placeholder: e.g. papers
     validations:
       required: true
   - type: input
@@ -38,41 +57,22 @@ body:
       description: Please supply a list of relevant keywords (markdown format)
       placeholder: "- foo"
   - type: dropdown
-    id: main-category
-    attributes:
-      label: OSS Main Category
-      options:
-        - Applied Analytics
-        - BHF Data Science Centre
-        - Better Care
-        - Bioinformatics
-        - COVID-19
-        - Cohort Discovery
-        - Gateway
-        - Gateway (MVP)
-        - HDR UK
-        - ICODA
-        - National Phenomics Resource
-        - National Text Analytics
-        - Training
-        - Other
-  - type: dropdown
     id: other-categories
     attributes:
       label: OSS Other Categories
       multiple: true
       options:
-        - Applied Analytics
-        - BHF Data Science Centre
-        - Better Care
-        - Bioinformatics
-        - COVID-19
-        - Cohort Discovery
-        - Gateway
-        - Gateway (MVP)
-        - HDR UK
-        - ICODA
-        - National Phenomics Resource
-        - National Text Analytics
-        - Training
-        - Other
+        - applied-analytics
+        - bhf-dsc
+        - better-care
+        - bioinformatics
+        - covid-19
+        - cohort-discovery
+        - gateway
+        - gateway-mvp
+        - hdruk
+        - icoda
+        - phenomics
+        - text-analytics
+        - training
+        - uncategorised
