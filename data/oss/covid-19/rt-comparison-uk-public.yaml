@@ -1,0 +1,8 @@
+name: rt-comparison-uk-public
+url: https://github.com/epiforecasts/rt-comparison-uk-public
+description: Evaluating the use of the reproduction number as an epidemiological tool,
+  using spatio-temporal trends of the Covid-19 outbreak in England https://github.com/epiforecasts/rt-comparison-uk-public/blob/master/README.md
+keywords:
+- Coronavirus
+categories:
+- COVID-19
