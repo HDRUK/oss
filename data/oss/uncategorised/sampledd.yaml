@@ -5,6 +5,7 @@ description: Sample MIMIC patients who die during their stay, and associated tex
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-04 16:19:11'
 github:
   name: sampledd
   url: https://github.com/reality/sampledd
@@ -20,7 +21,7 @@ github:
   stars: 0
   forks: 0
   network: 0
-  created_since: 4
+  created_since: 5
   updated_since: 1
   contributor_count: 1
   org_count: 0
@@ -30,4 +31,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.04325
+  criticality_score: 0.04772

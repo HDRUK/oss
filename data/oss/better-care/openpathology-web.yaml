@@ -4,6 +4,7 @@ description: Openpathology website
 keywords: []
 categories:
 - Better Care
+updated_at: '2021-06-24 08:53:56'
 github:
   name: openpathology-web
   url: https://github.com/ebmdatalab/openpathology-web
@@ -19,7 +20,7 @@ github:
   forks: 2
   network: 2
   created_since: 28
-  updated_since: 1
+  updated_since: 2
   contributor_count: 6
   org_count: 1
   commit_frequency: 0.1
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 9
   comment_frequency: 0.3
   dependents_count: 0
-  criticality_score: 0.19858
+  criticality_score: 0.18864

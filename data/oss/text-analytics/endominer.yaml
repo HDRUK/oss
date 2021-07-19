@@ -5,6 +5,7 @@ description: a rule-based information extraction system for free-text and semi-s
 keywords: []
 categories:
 - National Text Analytics
+updated_at: '2021-07-15 20:34:29'
 github:
   name: EndoMineR
   url: https://github.com/sebastiz/EndoMineR

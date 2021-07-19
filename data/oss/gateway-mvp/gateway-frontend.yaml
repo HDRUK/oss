@@ -8,6 +8,7 @@ keywords:
 - react
 categories:
 - Gateway (MVP)
+updated_at: '2021-06-25 09:18:54'
 github:
   name: Gateway-Frontend
   url: https://github.com/HDRUK/Gateway-Frontend
@@ -26,7 +27,7 @@ github:
   stars: 1
   forks: 1
   network: 1
-  created_since: 21
+  created_since: 22
   updated_since: 18
   contributor_count: 9
   org_count: 2
@@ -36,4 +37,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.12111
+  criticality_score: 0.1222

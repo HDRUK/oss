@@ -4,6 +4,7 @@ description: mimic3 nlp evaluation. needs a NOTEEVENTS.csv, processed files from
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-22 08:15:23'
 github:
   name: mim3val
   url: https://github.com/reality/mim3val
@@ -19,7 +20,7 @@ github:
   stars: 0
   forks: 0
   network: 0
-  created_since: 19
+  created_since: 20
   updated_since: 12
   contributor_count: 1
   org_count: 0
@@ -29,4 +30,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.02972
+  criticality_score: 0.03091

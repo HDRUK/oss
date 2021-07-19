@@ -6,6 +6,7 @@ keywords:
 - datasets
 categories:
 - HDR UK
+updated_at: '2021-07-18 04:12:24'
 github:
   name: datasets
   url: https://github.com/HDRUK/datasets
@@ -20,5 +21,16 @@ github:
   subscribers: 5
   watchers: 8
   stars: 8
-  forks: 7
-  network: 7
+  forks: 8
+  network: 8
+  created_since: 15
+  updated_since: 1
+  contributor_count: 6
+  org_count: 1
+  commit_frequency: 13.5
+  recent_releases_count: 0
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 21
+  criticality_score: 0.23974

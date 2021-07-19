@@ -7,3 +7,31 @@ keywords:
 categories:
 - Uncategorised
 - Applied Analytics
+updated_at: '2021-07-04 03:26:56'
+github:
+  name: metaviz
+  url: https://github.com/Mkossmeier/metaviz
+  description: Forest plot and funnel plot variants for meta-analysis
+  keywords:
+  - rainforest-plots
+  - funnel-plots
+  language: R
+  created_at: 2017-02-06 11:00:26
+  updated_at: 2021-06-12 05:31:15
+  archived: false
+  subscribers: 2
+  watchers: 11
+  stars: 11
+  forks: 3
+  network: 3
+  created_since: 54
+  updated_since: 16
+  contributor_count: 2
+  org_count: 1
+  commit_frequency: 0.0
+  recent_releases_count: 1
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 4
+  criticality_score: 0.13439

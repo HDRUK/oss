@@ -4,6 +4,7 @@ description: bedtools - the swiss army knife for genome arithmetic
 keywords: []
 categories:
 - Bioinformatics
+updated_at: '2021-07-10 18:27:24'
 github:
   name: bedtools2
   url: https://github.com/arq5x/bedtools2
@@ -11,21 +12,21 @@ github:
   keywords: ''
   language: C
   created_at: 2013-12-09 21:18:03
-  updated_at: 2021-07-11 07:41:39
+  updated_at: 2021-07-18 14:04:49
   archived: false
   subscribers: 57
-  watchers: 694
-  stars: 694
-  forks: 254
-  network: 254
+  watchers: 696
+  stars: 696
+  forks: 253
+  network: 253
   created_since: 149
-  updated_since: 0
+  updated_since: 1
   contributor_count: 87
   org_count: 8
   commit_frequency: 0.7
   recent_releases_count: 1
-  updated_issues_count: 22
-  closed_issues_count: 8
+  updated_issues_count: 24
+  closed_issues_count: 9
   comment_frequency: 1.8
-  dependents_count: 208
-  criticality_score: 0.54685
+  dependents_count: 210
+  criticality_score: 0.53132

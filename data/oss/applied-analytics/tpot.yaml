@@ -19,6 +19,7 @@ keywords:
 - xgboost
 categories:
 - Applied Analytics
+updated_at: '2021-07-11 11:03:03'
 github:
   name: tpot
   url: https://github.com/EpistasisLab/tpot
@@ -41,13 +42,13 @@ github:
   - xgboost
   language: Python
   created_at: 2015-11-03 21:08:40
-  updated_at: 2021-07-11 19:22:36
+  updated_at: 2021-07-19 13:24:14
   archived: false
-  subscribers: 292
-  watchers: 8113
-  stars: 8113
-  forks: 1408
-  network: 1408
+  subscribers: 291
+  watchers: 8125
+  stars: 8125
+  forks: 1411
+  network: 1411
   created_since: 69
   updated_since: 6
   contributor_count: 108

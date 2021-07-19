@@ -4,6 +4,7 @@ description: ''
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-07-11 02:03:44'
 github:
   name: transmission_inference
   url: https://github.com/davideyre/transmission_inference
@@ -19,7 +20,7 @@ github:
   forks: 1
   network: 1
   created_since: 52
-  updated_since: 26
+  updated_since: 27
   contributor_count: 2
   org_count: 0
   commit_frequency: 0.0
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.04689
+  criticality_score: 0.046

@@ -4,6 +4,7 @@ description: Shiny app to infer caes from new deaths of COVID-19
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-07-12 15:41:09'
 github:
   name: covid19_cases_from_deaths
   url: https://github.com/thibautjombart/covid19_cases_from_deaths

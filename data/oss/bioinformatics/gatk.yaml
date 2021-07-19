@@ -5,6 +5,7 @@ description: Official code repository for GATK versions 1.0 through 3.7 (core en
 keywords: []
 categories:
 - Bioinformatics
+updated_at: '2021-06-28 13:27:14'
 github:
   name: gatk
   url: https://github.com/broadgsa/gatk
@@ -18,8 +19,8 @@ github:
   subscribers: 69
   watchers: 276
   stars: 276
-  forks: 220
-  network: 220
+  forks: 221
+  network: 221
   created_since: 151
   updated_since: 45
   contributor_count: 121

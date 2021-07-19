@@ -16,6 +16,7 @@ keywords:
 - nonsense
 categories:
 - Uncategorised
+updated_at: '2021-07-04 13:06:37'
 github:
   name: jabberwocky
   url: https://github.com/sap218/jabberwocky
@@ -42,7 +43,7 @@ github:
   stars: 10
   forks: 0
   network: 0
-  created_since: 19
+  created_since: 20
   updated_since: 2
   contributor_count: 2
   org_count: 1
@@ -52,4 +53,4 @@ github:
   closed_issues_count: 1
   comment_frequency: 1.0
   dependents_count: 0
-  criticality_score: 0.16798
+  criticality_score: 0.16918

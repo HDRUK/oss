@@ -4,6 +4,7 @@ description: SPARQL Endpoint with functions for computing embedding similarities
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-17 08:03:13'
 github:
   name: vec2sparql
   url: https://github.com/gkoutos-group/vec2sparql

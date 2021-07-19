@@ -4,6 +4,7 @@ description: EHR analysis for the HDR UK summer school 2019
 keywords: []
 categories:
 - Training
+updated_at: '2021-07-14 22:39:15'
 github:
   name: hdruk_summerschool_session1
   url: https://github.com/athro/hdruk_summerschool_session1
@@ -18,8 +19,8 @@ github:
   stars: 0
   forks: 1
   network: 1
-  created_since: 23
-  updated_since: 23
+  created_since: 24
+  updated_since: 24
   contributor_count: 1
   org_count: 0
   commit_frequency: 0.0

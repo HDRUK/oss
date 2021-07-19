@@ -14,6 +14,7 @@ keywords:
 - electronic-health-record
 categories:
 - Uncategorised
+updated_at: '2021-06-29 23:39:31'
 github:
   name: RDMP
   url: https://github.com/HicServices/RDMP
@@ -31,21 +32,21 @@ github:
   - electronic-health-record
   language: C#
   created_at: 2017-08-23 15:25:09
-  updated_at: 2021-07-09 15:50:47
+  updated_at: 2021-07-15 12:57:38
   archived: false
   subscribers: 8
   watchers: 13
   stars: 13
-  forks: 7
-  network: 7
-  created_since: 47
+  forks: 8
+  network: 8
+  created_since: 48
   updated_since: 0
   contributor_count: 12
   org_count: 2
-  commit_frequency: 14.8
-  recent_releases_count: 16
+  commit_frequency: 14.9
+  recent_releases_count: 15
   updated_issues_count: 141
-  closed_issues_count: 123
+  closed_issues_count: 122
   comment_frequency: 0.3
   dependents_count: 258
-  criticality_score: 0.49558
+  criticality_score: 0.49505

@@ -4,6 +4,7 @@ description: Scenario analyses for COVID-19 outbreak in the United Kingdom
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-07-08 06:07:35'
 github:
   name: covid-uk
   url: https://github.com/cmmid/covid-uk
@@ -19,7 +20,7 @@ github:
   forks: 28
   network: 28
   created_since: 16
-  updated_since: 14
+  updated_since: 15
   contributor_count: 3
   org_count: 2
   commit_frequency: 0.0
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 1
   comment_frequency: 0.0
   dependents_count: 4
-  criticality_score: 0.1337
+  criticality_score: 0.13212

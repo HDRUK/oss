@@ -5,6 +5,7 @@ description: Machine Learning Resources collected from the HDRUK UK Fellows's da
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-20 16:45:00'
 github:
   name: HDRUK-fellows-day-2018
   url: https://github.com/alastair-droop/HDRUK-fellows-day-2018
@@ -20,7 +21,7 @@ github:
   stars: 0
   forks: 1
   network: 1
-  created_since: 32
+  created_since: 33
   updated_since: 32
   contributor_count: 1
   org_count: 1
@@ -30,4 +31,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.05316
+  criticality_score: 0.05389

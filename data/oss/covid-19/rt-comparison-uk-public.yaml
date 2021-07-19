@@ -6,3 +6,36 @@ keywords:
 - Coronavirus
 categories:
 - COVID-19
+updated_at: '2021-07-11 17:49:15'
+github:
+  name: rt-comparison-uk-public
+  url: https://github.com/epiforecasts/rt-comparison-uk-public
+  description: Evaluating the use of the reproduction number as an epidemiological
+    tool, using spatio-temporal trends of the Covid-19 outbreak in England.
+  keywords:
+  - epinow2
+  - covid-19
+  - reproduction-number
+  - united-kingdom
+  - open-source
+  - rt-comparison-uk
+  language: R
+  created_at: 2020-08-18 09:13:10
+  updated_at: 2021-05-31 14:44:22
+  archived: false
+  subscribers: 6
+  watchers: 2
+  stars: 2
+  forks: 1
+  network: 1
+  created_since: 11
+  updated_since: 2
+  contributor_count: 2
+  org_count: 2
+  commit_frequency: 2.8
+  recent_releases_count: 2
+  updated_issues_count: 0
+  closed_issues_count: 0
+  comment_frequency: 0
+  dependents_count: 7
+  criticality_score: 0.19788

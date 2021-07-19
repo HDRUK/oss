@@ -7,6 +7,7 @@ keywords:
 - COVID-19
 categories:
 - COVID-19
+updated_at: '2021-07-19 10:43:24'
 github:
   name: covid-sim
   url: https://github.com/mrc-ide/covid-sim
@@ -16,21 +17,21 @@ github:
   keywords: ''
   language: C++
   created_at: 2020-03-24 13:53:03
-  updated_at: 2021-07-09 14:51:22
+  updated_at: 2021-07-19 12:05:44
   archived: false
   subscribers: 77
-  watchers: 1192
-  stars: 1192
+  watchers: 1191
+  stars: 1191
   forks: 262
   network: 262
   created_since: 16
-  updated_since: 2
+  updated_since: 0
   contributor_count: 23
   org_count: 4
-  commit_frequency: 4.6
+  commit_frequency: 4.4
   recent_releases_count: 7
   updated_issues_count: 2
-  closed_issues_count: 1
+  closed_issues_count: 2
   comment_frequency: 0.0
   dependents_count: 16
-  criticality_score: 0.33894
+  criticality_score: 0.36807

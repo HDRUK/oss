@@ -5,6 +5,7 @@ description: Code and data from the analysis of the 1st wave of the CoMix 2020 c
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-06-20 18:57:56'
 github:
   name: comix_covid-19-first_wave
   url: https://github.com/jarvisc1/comix_covid-19-first_wave
@@ -20,7 +21,7 @@ github:
   stars: 5
   forks: 5
   network: 5
-  created_since: 15
+  created_since: 16
   updated_since: 15
   contributor_count: 2
   org_count: 2
@@ -30,4 +31,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.09662
+  criticality_score: 0.09811

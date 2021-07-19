@@ -4,6 +4,7 @@ description: Generate maps from google mobility data
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-06-27 14:44:15'
 github:
   name: covid-mobility-tracker
   url: https://github.com/SurgicalInformatics/covid-mobility-tracker
@@ -18,7 +19,7 @@ github:
   stars: 0
   forks: 1
   network: 1
-  created_since: 15
+  created_since: 16
   updated_since: 14
   contributor_count: 1
   org_count: 0
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.02073
+  criticality_score: 0.02222

@@ -4,6 +4,7 @@ description: Fine-mapping method only using summary statistics
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-28 03:22:49'
 github:
   name: FM-summary
   url: https://github.com/hailianghuang/FM-summary

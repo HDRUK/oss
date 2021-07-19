@@ -14,6 +14,7 @@ keywords:
 - variability
 categories:
 - Uncategorised
+updated_at: '2021-07-08 15:21:11'
 github:
   name: EHRtemporalVariability
   url: https://github.com/hms-dbmi/EHRtemporalVariability
@@ -39,7 +40,7 @@ github:
   forks: 7
   network: 7
   created_since: 37
-  updated_since: 1
+  updated_since: 2
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.1
@@ -48,4 +49,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.12701
+  criticality_score: 0.11706

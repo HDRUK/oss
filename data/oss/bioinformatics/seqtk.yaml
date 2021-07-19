@@ -6,6 +6,7 @@ keywords:
 - sequence-analysis
 categories:
 - Bioinformatics
+updated_at: '2021-07-11 01:01:33'
 github:
   name: seqtk
   url: https://github.com/lh3/seqtk
@@ -15,13 +16,13 @@ github:
   - sequence-analysis
   language: C
   created_at: 2012-03-23 23:24:13
-  updated_at: 2021-07-12 12:54:39
+  updated_at: 2021-07-16 06:40:47
   archived: false
   subscribers: 62
-  watchers: 842
-  stars: 842
-  forks: 246
-  network: 246
+  watchers: 844
+  stars: 844
+  forks: 247
+  network: 247
   created_since: 113
   updated_since: 4
   contributor_count: 8
@@ -30,6 +31,6 @@ github:
   recent_releases_count: 0
   updated_issues_count: 13
   closed_issues_count: 3
-  comment_frequency: 0.7
+  comment_frequency: 0.9
   dependents_count: 34
-  criticality_score: 0.34694
+  criticality_score: 0.35166

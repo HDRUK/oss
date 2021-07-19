@@ -5,6 +5,7 @@ description: 'Docker image for running UK Biobank utilities: ukbunpack, ukbfetch
 keywords: []
 categories:
 - National Phenomics Resource
+updated_at: '2021-07-01 14:20:34'
 github:
   name: docker-ukbiobank-utils
   url: https://github.com/spiros/docker-ukbiobank-utils
@@ -21,13 +22,13 @@ github:
   forks: 4
   network: 4
   created_since: 29
-  updated_since: 3
+  updated_since: 4
   contributor_count: 3
   org_count: 3
   commit_frequency: 0.0
   recent_releases_count: 0
-  updated_issues_count: 0
+  updated_issues_count: 1
   closed_issues_count: 0
-  comment_frequency: 0
+  comment_frequency: 0.0
   dependents_count: 0
-  criticality_score: 0.15574
+  criticality_score: 0.15505

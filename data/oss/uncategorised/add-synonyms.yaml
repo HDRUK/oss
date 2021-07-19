@@ -4,6 +4,7 @@ description: add a synonym vocabulary to an ontology
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-25 16:39:08'
 github:
   name: add_synonyms
   url: https://github.com/reality/add_synonyms
@@ -18,8 +19,8 @@ github:
   stars: 0
   forks: 0
   network: 0
-  created_since: 26
-  updated_since: 26
+  created_since: 27
+  updated_since: 27
   contributor_count: 1
   org_count: 0
   commit_frequency: 0.0

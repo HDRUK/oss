@@ -6,6 +6,7 @@ keywords:
 - synthetic-data
 categories:
 - National Phenomics Resource
+updated_at: '2021-06-23 02:26:58'
 github:
   name: tofu
   url: https://github.com/spiros/tofu
@@ -23,7 +24,7 @@ github:
   forks: 5
   network: 5
   created_since: 18
-  updated_since: 9
+  updated_since: 10
   contributor_count: 3
   org_count: 3
   commit_frequency: 0.1
@@ -32,4 +33,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.14842
+  criticality_score: 0.14608

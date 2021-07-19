@@ -17,6 +17,7 @@ keywords:
 - Healthcare
 categories:
 - COVID-19
+updated_at: '2021-06-24 11:01:24'
 github:
   name: benevolentai-dat
   url: https://github.com/BenevolentAI/benevolentai-dat
@@ -34,7 +35,7 @@ github:
   keywords: ''
   language: Python
   created_at: 2020-09-10 14:45:14
-  updated_at: 2021-05-21 14:59:49
+  updated_at: 2021-07-17 15:07:39
   archived: false
   subscribers: 7
   watchers: 4
@@ -42,13 +43,13 @@ github:
   forks: 1
   network: 1
   created_since: 10
-  updated_since: 4
+  updated_since: 0
   contributor_count: 5
   org_count: 1
-  commit_frequency: 0.2
+  commit_frequency: 0.3
   recent_releases_count: 0
-  updated_issues_count: 0
-  closed_issues_count: 0
-  comment_frequency: 0
+  updated_issues_count: 2
+  closed_issues_count: 2
+  comment_frequency: 1.0
   dependents_count: 0
-  criticality_score: 0.10595
+  criticality_score: 0.19138

@@ -14,6 +14,7 @@ keywords:
 - data-integration
 categories:
 - National Text Analytics
+updated_at: '2021-07-06 18:07:49'
 github:
   name: CogStack-NiFi
   url: https://github.com/CogStack/CogStack-NiFi
@@ -39,7 +40,7 @@ github:
   forks: 10
   network: 10
   created_since: 26
-  updated_since: 11
+  updated_since: 12
   contributor_count: 1
   org_count: 0
   commit_frequency: 0.0
@@ -48,4 +49,4 @@ github:
   closed_issues_count: 1
   comment_frequency: 0.0
   dependents_count: 0
-  criticality_score: 0.04862
+  criticality_score: 0.04665

@@ -9,6 +9,7 @@ keywords:
 - health-data
 categories:
 - Gateway (MVP)
+updated_at: '2021-07-05 05:06:02'
 github:
   name: Gateway-Auth-Server
   url: https://github.com/HDRUK/Gateway-Auth-Server
@@ -28,7 +29,7 @@ github:
   stars: 1
   forks: 1
   network: 1
-  created_since: 21
+  created_since: 22
   updated_since: 18
   contributor_count: 12
   org_count: 2
@@ -38,4 +39,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0.0
   dependents_count: 0
-  criticality_score: 0.13793
+  criticality_score: 0.13902
