@@ -1,0 +1,10 @@
+name: UKBiobank_deep_pretrain
+url: https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain
+description: Pretrained neural networks for UK Biobank brain MRI images. SFCN, 3D-ResNet
+  etc.
+keywords:
+- Machine Learning
+- Neural Network
+- MRI Images
+categories:
+- Applied Analytics
