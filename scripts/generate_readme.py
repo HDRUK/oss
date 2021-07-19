@@ -39,7 +39,7 @@ def format_content(projects):
                     i=i + 1,
                     name=p["name"],
                     url=p["url"],
-                    description=p["description"],
+                    description=p.get("description", ""),
                     gh_repo=p.get("gh_repo", ""),
                     score=p.get("github", {}).get("criticality_score", 0.0),
                 )
