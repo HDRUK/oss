@@ -6,10 +6,11 @@ from github import Github
 import subprocess
 import psutil
 import ray
+from datetime import datetime
 
 from common import OSS_PROJECTS_DIR, PROJECT_YAMLS, read_yaml, write_yaml
 
-num_cpus = psutil.cpu_count(logical=False)
+num_cpus = psutil.cpu_count(logical=True)
 ray.init(num_cpus=num_cpus)
 
 GITHUB_AUTH_TOKEN = os.environ.get(
@@ -75,6 +76,16 @@ def annotate_oss(oss_project_yaml, i, len):
     print("{}/{}: {}".format(i, len, oss_project_yaml))
     data = read_yaml(oss_project_yaml)
     repo_url = get_github_repo_url(data["url"])
+    updated_time = datetime.strptime(data['updated_at'], "%Y-%m-%d %H:%M:%S")
+    current_time = datetime.today()
+    delta = current_time - updated_time
+    # Do not update for 30 days
+    if delta.days < 30:
+        print("{}/{}: Skipping {}".format(i, len, oss_project_yaml))
+        return
+    else:
+        data['updated_at'] = current_time.strftime("%Y-%m-%d %H:%M:%S")
+
     if repo_url is None:
         write_yaml(data, oss_project_yaml)
         return
