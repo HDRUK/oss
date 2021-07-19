@@ -5,6 +5,7 @@ description: 'Study Aim: To construct a data-driven multi-dimensional typology o
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-09 12:30:22'
 github:
   name: Electronic-Monitoring-Device-Adherence-Typology
   url: https://github.com/hollytibble/Electronic-Monitoring-Device-Adherence-Typology
@@ -20,8 +21,8 @@ github:
   stars: 1
   forks: 1
   network: 1
-  created_since: 22
-  updated_since: 7
+  created_since: 23
+  updated_since: 8
   contributor_count: 1
   org_count: 0
   commit_frequency: 0.1
@@ -30,4 +31,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.04668
+  criticality_score: 0.04483

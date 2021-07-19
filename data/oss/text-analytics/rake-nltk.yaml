@@ -10,6 +10,7 @@ keywords:
 - keyword-extraction
 categories:
 - National Text Analytics
+updated_at: '2021-07-01 03:29:36'
 github:
   name: rake-nltk
   url: https://github.com/csurfer/rake-nltk
@@ -23,11 +24,11 @@ github:
   - keyword-extraction
   language: Python
   created_at: 2017-01-18 08:17:09
-  updated_at: 2021-07-08 05:26:56
+  updated_at: 2021-07-13 13:26:34
   archived: false
   subscribers: 32
-  watchers: 831
-  stars: 831
+  watchers: 832
+  stars: 832
   forks: 134
   network: 134
   created_since: 55

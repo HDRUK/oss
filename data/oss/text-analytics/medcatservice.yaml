@@ -13,6 +13,7 @@ keywords:
 - spacy
 categories:
 - National Text Analytics
+updated_at: '2021-06-26 09:07:45'
 github:
   name: MedCATservice
   url: https://github.com/CogStack/MedCATservice
@@ -37,7 +38,7 @@ github:
   forks: 6
   network: 6
   created_since: 23
-  updated_since: 7
+  updated_since: 8
   contributor_count: 4
   org_count: 1
   commit_frequency: 0.3
@@ -46,4 +47,4 @@ github:
   closed_issues_count: 2
   comment_frequency: 2.0
   dependents_count: 0
-  criticality_score: 0.18405
+  criticality_score: 0.18116

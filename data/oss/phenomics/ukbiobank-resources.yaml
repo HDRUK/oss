@@ -5,6 +5,7 @@ description: A curated list for preprocessing, cleaning, mapping and analyzing U
 keywords: []
 categories:
 - National Phenomics Resource
+updated_at: '2021-07-12 05:28:35'
 github:
   name: ukbiobank-resources
   url: https://github.com/spiros/ukbiobank-resources
@@ -24,10 +25,10 @@ github:
   updated_since: 2
   contributor_count: 1
   org_count: 1
-  commit_frequency: 0.1
+  commit_frequency: 0.0
   recent_releases_count: 0
   updated_issues_count: 0
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.09873
+  criticality_score: 0.09711

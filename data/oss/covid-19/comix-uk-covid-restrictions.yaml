@@ -5,6 +5,7 @@ description: code and data to reproduce analysis for Comix local and national re
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-07-11 13:14:21'
 github:
   name: comix_uk_covid_restrictions
   url: https://github.com/jarvisc1/comix_uk_covid_restrictions
@@ -21,7 +22,7 @@ github:
   forks: 1
   network: 1
   created_since: 9
-  updated_since: 5
+  updated_since: 6
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.1
@@ -30,4 +31,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.06731
+  criticality_score: 0.06353

@@ -5,6 +5,7 @@ description: 'An open database of polygenic scores and relevant metadata needed 
 keywords: []
 categories:
 - National Phenomics Resource
+updated_at: '2021-06-20 17:12:39'
 github:
   name: PGS_Catalog
   url: https://github.com/PGScatalog/PGS_Catalog
@@ -21,7 +22,7 @@ github:
   forks: 3
   network: 3
   created_since: 18
-  updated_since: 0
+  updated_since: 1
   contributor_count: 4
   org_count: 2
   commit_frequency: 2.0
@@ -30,4 +31,4 @@ github:
   closed_issues_count: 25
   comment_frequency: 0.7
   dependents_count: 0
-  criticality_score: 0.25708
+  criticality_score: 0.24008

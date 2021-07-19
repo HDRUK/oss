@@ -6,6 +6,7 @@ keywords:
 - Infection
 categories:
 - COVID-19
+updated_at: '2021-06-26 19:44:53'
 github:
   name: ggquickeda
   url: https://github.com/smouksassi/ggquickeda
@@ -24,10 +25,10 @@ github:
   updated_since: 1
   contributor_count: 4
   org_count: 2
-  commit_frequency: 2.4
+  commit_frequency: 2.3
   recent_releases_count: 5
   updated_issues_count: 1
   closed_issues_count: 0
   comment_frequency: 1.0
   dependents_count: 13
-  criticality_score: 0.30739
+  criticality_score: 0.30688

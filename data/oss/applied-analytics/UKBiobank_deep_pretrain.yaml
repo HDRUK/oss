@@ -8,3 +8,30 @@ keywords:
 - MRI Images
 categories:
 - Applied Analytics
+updated_at: '2021-07-09 20:01:55'
+github:
+  name: UKBiobank_deep_pretrain
+  url: https://github.com/ha-ha-ha-han/UKBiobank_deep_pretrain
+  description: Pretrained neural networks for UK Biobank brain MRI images. SFCN, 3D-ResNet
+    etc.
+  keywords: ''
+  language: Jupyter Notebook
+  created_at: 2019-12-17 11:41:36
+  updated_at: 2021-07-18 23:16:40
+  archived: false
+  subscribers: 5
+  watchers: 47
+  stars: 47
+  forks: 17
+  network: 17
+  created_since: 19
+  updated_since: 6
+  contributor_count: 1
+  org_count: 1
+  commit_frequency: 0.1
+  recent_releases_count: 0
+  updated_issues_count: 2
+  closed_issues_count: 1
+  comment_frequency: 2.5
+  dependents_count: 2
+  criticality_score: 0.16576

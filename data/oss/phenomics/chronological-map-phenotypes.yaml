@@ -11,6 +11,7 @@ keywords:
 - health-informatics
 categories:
 - National Phenomics Resource
+updated_at: '2021-07-16 16:13:11'
 github:
   name: chronological-map-phenotypes
   url: https://github.com/spiros/chronological-map-phenotypes
@@ -30,16 +31,16 @@ github:
   subscribers: 4
   watchers: 29
   stars: 29
-  forks: 26
-  network: 26
-  created_since: 28
+  forks: 27
+  network: 27
+  created_since: 29
   updated_since: 5
   contributor_count: 2
   org_count: 1
   commit_frequency: 0.0
   recent_releases_count: 3
-  updated_issues_count: 0
+  updated_issues_count: 1
   closed_issues_count: 0
-  comment_frequency: 0
+  comment_frequency: 0.0
   dependents_count: 0
-  criticality_score: 0.12775
+  criticality_score: 0.13337

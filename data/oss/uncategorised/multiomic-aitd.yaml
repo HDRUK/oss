@@ -4,6 +4,7 @@ description: 'Scripts associated with the paper doi: https://doi.org/10.1101/662
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-26 01:45:06'
 github:
   name: multiomic_AITD
   url: https://github.com/TiphaineCMartin/multiomic_AITD
@@ -18,8 +19,8 @@ github:
   stars: 0
   forks: 1
   network: 1
-  created_since: 25
-  updated_since: 25
+  created_since: 26
+  updated_since: 26
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.0

@@ -9,6 +9,7 @@ keywords:
 - curve
 categories:
 - National Phenomics Resource
+updated_at: '2021-06-26 23:52:37'
 github:
   name: discrete_frechet
   url: https://github.com/spiros/discrete_frechet
@@ -21,21 +22,21 @@ github:
   - curve
   language: Python
   created_at: 2018-01-20 15:57:57
-  updated_at: 2021-07-03 14:14:20
+  updated_at: 2021-07-15 10:21:49
   archived: false
   subscribers: 4
-  watchers: 47
-  stars: 47
+  watchers: 48
+  stars: 48
   forks: 15
   network: 15
   created_since: 42
-  updated_since: 23
+  updated_since: 24
   contributor_count: 2
   org_count: 1
   commit_frequency: 0.0
   recent_releases_count: 1
-  updated_issues_count: 0
+  updated_issues_count: 1
   closed_issues_count: 0
-  comment_frequency: 0
+  comment_frequency: 0.0
   dependents_count: 0
-  criticality_score: 0.09103
+  criticality_score: 0.09482

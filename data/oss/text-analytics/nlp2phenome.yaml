@@ -8,6 +8,7 @@ keywords:
 - ehr-phenotyping
 categories:
 - National Text Analytics
+updated_at: '2021-06-21 06:11:16'
 github:
   name: nlp2phenome
   url: https://github.com/CogStack/nlp2phenome
@@ -26,7 +27,7 @@ github:
   stars: 8
   forks: 2
   network: 2
-  created_since: 31
+  created_since: 32
   updated_since: 6
   contributor_count: 1
   org_count: 1
@@ -36,12 +37,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0.0
   dependents_count: 2
-  criticality_score: 0.11935
-- name: nlp2phenome
-  url: https://github.com/CogStack/nlp2phenome
-  description: using AI models to infer patient phenotypes from identified named entities (instances of biomedical concepts)
-  categories:
-  - National Text Analytics
-  - National Phenomics Resource
-
-
+  criticality_score: 0.1201

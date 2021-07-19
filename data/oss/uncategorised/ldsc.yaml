@@ -4,6 +4,7 @@ description: LD Score Regression (LDSC)
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-17 11:06:03'
 github:
   name: ldsc
   url: https://github.com/bulik/ldsc
@@ -24,8 +25,8 @@ github:
   org_count: 4
   commit_frequency: 0.0
   recent_releases_count: 0
-  updated_issues_count: 24
+  updated_issues_count: 25
   closed_issues_count: 3
   comment_frequency: 1.0
   dependents_count: 53
-  criticality_score: 0.33996
+  criticality_score: 0.34023

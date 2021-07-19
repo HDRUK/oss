@@ -4,6 +4,7 @@ description: Implementation of the treeSeg algorithm as an R package.
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-30 01:00:33'
 github:
   name: treeSeg
   url: https://github.com/merlebehr/treeSeg
@@ -18,8 +19,8 @@ github:
   stars: 7
   forks: 2
   network: 2
-  created_since: 29
-  updated_since: 6
+  created_since: 30
+  updated_since: 7
   contributor_count: 2
   org_count: 1
   commit_frequency: 0.1
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.10168
+  criticality_score: 0.09921

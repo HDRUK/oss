@@ -17,6 +17,7 @@ keywords:
 - gisaid
 categories:
 - HDR UK
+updated_at: '2021-07-09 03:43:46'
 github:
   name: covid-19
   url: https://github.com/HDRUK/covid-19
@@ -45,7 +46,7 @@ github:
   forks: 9
   network: 9
   created_since: 16
-  updated_since: 15
+  updated_since: 16
   contributor_count: 4
   org_count: 3
   commit_frequency: 0.0
@@ -54,4 +55,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.11396
+  criticality_score: 0.11248

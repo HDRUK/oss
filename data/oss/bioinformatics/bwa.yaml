@@ -9,6 +9,7 @@ keywords:
 - fm-index
 categories:
 - Bioinformatics
+updated_at: '2021-07-06 20:29:54'
 github:
   name: bwa
   url: https://github.com/lh3/bwa
@@ -21,13 +22,13 @@ github:
   - fm-index
   language: C
   created_at: 2011-01-14 01:36:33
-  updated_at: 2021-07-12 15:16:50
+  updated_at: 2021-07-17 03:57:03
   archived: false
-  subscribers: 109
-  watchers: 1008
-  stars: 1008
-  forks: 483
-  network: 483
+  subscribers: 108
+  watchers: 1009
+  stars: 1009
+  forks: 486
+  network: 486
   created_since: 128
   updated_since: 2
   contributor_count: 31

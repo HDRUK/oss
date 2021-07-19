@@ -11,6 +11,7 @@ keywords:
 - machine-learning
 categories:
 - National Text Analytics
+updated_at: '2021-06-28 12:12:53'
 github:
   name: MedCATtrainer
   url: https://github.com/CogStack/MedCATtrainer
@@ -25,7 +26,7 @@ github:
   - machine-learning
   language: Python
   created_at: 2019-06-26 11:35:37
-  updated_at: 2021-07-12 22:56:42
+  updated_at: 2021-07-14 13:57:58
   archived: false
   subscribers: 7
   watchers: 30
@@ -36,10 +37,10 @@ github:
   updated_since: 0
   contributor_count: 7
   org_count: 2
-  commit_frequency: 1.7
-  recent_releases_count: 2
-  updated_issues_count: 13
-  closed_issues_count: 10
-  comment_frequency: 1.2
+  commit_frequency: 1.8
+  recent_releases_count: 4
+  updated_issues_count: 11
+  closed_issues_count: 7
+  comment_frequency: 2.0
   dependents_count: 18
-  criticality_score: 0.35065
+  criticality_score: 0.37028

@@ -4,6 +4,7 @@ description: Analysis of COVID-19 transmission using cluster size distribution
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-06-27 12:54:48'
 github:
   name: COVID19_clustersize
   url: https://github.com/akira-endo/COVID19_clustersize
@@ -18,14 +19,14 @@ github:
   stars: 8
   forks: 6
   network: 6
-  created_since: 16
+  created_since: 17
   updated_since: 13
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.0
-  recent_releases_count: 2
+  recent_releases_count: 1
   updated_issues_count: 0
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.07753
+  criticality_score: 0.07169

@@ -5,6 +5,7 @@ description: Source code for the Freetext Matching Algorithm, a natural language
 keywords: []
 categories:
 - National Text Analytics
+updated_at: '2021-07-11 06:56:45'
 github:
   name: freetext-matching-algorithm
   url: https://github.com/anoopshah/freetext-matching-algorithm

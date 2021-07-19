@@ -4,6 +4,7 @@ description: ''
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-07-13 03:11:12'
 github:
   name: screening_outbreak_delay
   url: https://github.com/cmmid/screening_outbreak_delay
@@ -19,7 +20,7 @@ github:
   forks: 1
   network: 1
   created_since: 17
-  updated_since: 16
+  updated_since: 17
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.0
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.05456
+  criticality_score: 0.05316

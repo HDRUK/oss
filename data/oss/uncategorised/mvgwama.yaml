@@ -4,6 +4,7 @@ description: Python script for multivariate GWAS meta-analysis
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-10 08:00:24'
 github:
   name: mvGWAMA
   url: https://github.com/Kyoko-wtnb/mvGWAMA

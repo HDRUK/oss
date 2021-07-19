@@ -4,6 +4,7 @@ description: Docker image for first two sessions at the HDRUK summer school 2019
 keywords: []
 categories:
 - Training
+updated_at: '2021-06-26 09:15:31'
 github:
   name: hdruk_summerschool_session_1_2
   url: https://github.com/athro/hdruk_summerschool_session_1_2
@@ -18,7 +19,7 @@ github:
   stars: 0
   forks: 1
   network: 1
-  created_since: 23
+  created_since: 24
   updated_since: 23
   contributor_count: 1
   org_count: 0
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.01915
+  criticality_score: 0.02015

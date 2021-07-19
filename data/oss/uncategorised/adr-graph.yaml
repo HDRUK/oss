@@ -4,6 +4,7 @@ description: Predicting adverse drug reactions from a knowledge graph
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-02 17:24:20'
 github:
   name: ADR-graph
   url: https://github.com/KHP-Informatics/ADR-graph

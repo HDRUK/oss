@@ -12,6 +12,7 @@ keywords:
 - english
 categories:
 - Uncategorised
+updated_at: '2021-06-26 04:52:22'
 github:
   name: Data-Science-for-Docs
   url: https://github.com/carpentries-incubator/Data-Science-for-Docs
@@ -34,14 +35,14 @@ github:
   stars: 4
   forks: 2
   network: 2
-  created_since: 97
-  updated_since: 20
+  created_since: 98
+  updated_since: 21
   contributor_count: 56
   org_count: 5
   commit_frequency: 0.0
   recent_releases_count: 2
-  updated_issues_count: 0
+  updated_issues_count: 1
   closed_issues_count: 0
-  comment_frequency: 0
+  comment_frequency: 0.0
   dependents_count: 2
-  criticality_score: 0.27669
+  criticality_score: 0.28059

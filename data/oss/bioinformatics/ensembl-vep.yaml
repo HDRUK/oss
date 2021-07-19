@@ -5,6 +5,7 @@ description: The Ensembl Variant Effect Predictor predicts the functional effect
 keywords: []
 categories:
 - Bioinformatics
+updated_at: '2021-07-11 13:04:13'
 github:
   name: ensembl-vep
   url: https://github.com/Ensembl/ensembl-vep
@@ -25,9 +26,9 @@ github:
   contributor_count: 22
   org_count: 6
   commit_frequency: 1.5
-  recent_releases_count: 9
-  updated_issues_count: 73
-  closed_issues_count: 44
-  comment_frequency: 2.4
+  recent_releases_count: 8
+  updated_issues_count: 66
+  closed_issues_count: 41
+  comment_frequency: 2.7
   dependents_count: 18
-  criticality_score: 0.47498
+  criticality_score: 0.47553

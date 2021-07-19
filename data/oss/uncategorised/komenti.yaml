@@ -4,6 +4,7 @@ description: Semantic query and text mining tool
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-08 01:13:27'
 github:
   name: komenti
   url: https://github.com/reality/komenti
@@ -19,13 +20,13 @@ github:
   forks: 0
   network: 0
   created_since: 20
-  updated_since: 2
+  updated_since: 3
   contributor_count: 2
   org_count: 0
-  commit_frequency: 0.5
-  recent_releases_count: 4
+  commit_frequency: 0.4
+  recent_releases_count: 3
   updated_issues_count: 0
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 9
-  criticality_score: 0.155
+  criticality_score: 0.14279

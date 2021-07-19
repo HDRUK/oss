@@ -5,6 +5,7 @@ description: Bayesian Hierarchical Poisson Models for Multiple Grouped Outcomes 
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-26 20:00:29'
 github:
   name: bhpm
   url: https://github.com/rcarragh/bhpm
@@ -20,7 +21,7 @@ github:
   stars: 0
   forks: 2
   network: 2
-  created_since: 25
+  created_since: 26
   updated_since: 9
   contributor_count: 1
   org_count: 0
@@ -30,4 +31,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.05806
+  criticality_score: 0.05899

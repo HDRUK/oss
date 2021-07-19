@@ -5,6 +5,7 @@ description: Container for Python analysis codes regarding "Prediction of vascul
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-17 12:22:30'
 github:
   name: vascular-ageing
   url: https://github.com/LorenzoDallOlio/vascular-ageing
@@ -20,8 +21,8 @@ github:
   stars: 1
   forks: 2
   network: 2
-  created_since: 14
-  updated_since: 14
+  created_since: 15
+  updated_since: 15
   contributor_count: 1
   org_count: 0
   commit_frequency: 0.0

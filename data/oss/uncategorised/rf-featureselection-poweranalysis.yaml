@@ -4,6 +4,7 @@ description: ''
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-08 01:26:07'
 github:
   name: RF-FeatureSelection-PowerAnalysis
   url: https://github.com/joelarkman/RF-FeatureSelection-PowerAnalysis
@@ -18,8 +19,8 @@ github:
   stars: 0
   forks: 3
   network: 3
-  created_since: 24
-  updated_since: 24
+  created_since: 25
+  updated_since: 25
   contributor_count: 1
   org_count: 1
   commit_frequency: 0.0

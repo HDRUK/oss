@@ -4,6 +4,7 @@ description: Work for the tree sequence inference paper.
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-25 18:48:11'
 github:
   name: treeseq-inference
   url: https://github.com/mcveanlab/treeseq-inference
@@ -18,7 +19,7 @@ github:
   stars: 16
   forks: 7
   network: 7
-  created_since: 56
+  created_since: 57
   updated_since: 14
   contributor_count: 6
   org_count: 2
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 122
-  criticality_score: 0.22669
+  criticality_score: 0.22712

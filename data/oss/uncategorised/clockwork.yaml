@@ -4,6 +4,7 @@ description: CRyPTIC data processing pipelines
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-06-27 02:41:01'
 github:
   name: clockwork
   url: https://github.com/iqbal-lab-org/clockwork
@@ -18,3 +19,14 @@ github:
   stars: 14
   forks: 13
   network: 13
+  created_since: 43
+  updated_since: 2
+  contributor_count: 9
+  org_count: 2
+  commit_frequency: 0.1
+  recent_releases_count: 6
+  updated_issues_count: 2
+  closed_issues_count: 2
+  comment_frequency: 0.0
+  dependents_count: 3
+  criticality_score: 0.25978

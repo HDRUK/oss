@@ -4,6 +4,7 @@ description: ''
 keywords: []
 categories:
 - National Text Analytics
+updated_at: '2021-07-11 17:23:25'
 github:
   name: med7
   url: https://github.com/kormilitzin/med7
@@ -26,6 +27,6 @@ github:
   recent_releases_count: 0
   updated_issues_count: 9
   closed_issues_count: 7
-  comment_frequency: 1.8
+  comment_frequency: 2.0
   dependents_count: 0
-  criticality_score: 0.18411
+  criticality_score: 0.18704

@@ -4,6 +4,7 @@ description: ''
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-18 16:06:29'
 github:
   name: CPRD_HES_variability
   url: https://github.com/prockenschaub/CPRD_HES_variability
@@ -18,7 +19,7 @@ github:
   stars: 1
   forks: 1
   network: 1
-  created_since: 23
+  created_since: 24
   updated_since: 22
   contributor_count: 1
   org_count: 1
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.0542
+  criticality_score: 0.0552

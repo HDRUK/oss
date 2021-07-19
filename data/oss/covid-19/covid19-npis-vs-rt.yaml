@@ -4,6 +4,7 @@ description: ''
 keywords: []
 categories:
 - COVID-19
+updated_at: '2021-06-29 10:55:56'
 github:
   name: COVID19_NPIs_vs_Rt
   url: https://github.com/yangclaraliu/COVID19_NPIs_vs_Rt
@@ -22,10 +23,10 @@ github:
   updated_since: 8
   contributor_count: 1
   org_count: 0
-  commit_frequency: 0.4
+  commit_frequency: 0.3
   recent_releases_count: 0
   updated_issues_count: 0
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 2
-  criticality_score: 0.0536
+  criticality_score: 0.05234

@@ -6,6 +6,7 @@ keywords:
 - hdruk-gateway
 categories:
 - Gateway
+updated_at: '2021-06-23 16:40:23'
 github:
   name: gateway-api
   url: https://github.com/HDRUK/gateway-api
@@ -26,10 +27,10 @@ github:
   updated_since: 0
   contributor_count: 13
   org_count: 4
-  commit_frequency: 15.4
-  recent_releases_count: 62
-  updated_issues_count: 104
-  closed_issues_count: 103
+  commit_frequency: 15.2
+  recent_releases_count: 60
+  updated_issues_count: 102
+  closed_issues_count: 100
   comment_frequency: 0.7
   dependents_count: 30
-  criticality_score: 0.47886
+  criticality_score: 0.47832

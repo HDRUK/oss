@@ -4,6 +4,7 @@ description: ''
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-13 04:37:10'
 github:
   name: artificialMHR
   url: https://github.com/KCL-Health-NLP/artificialMHR
@@ -19,7 +20,7 @@ github:
   forks: 1
   network: 1
   created_since: 21
-  updated_since: 16
+  updated_since: 17
   contributor_count: 1
   org_count: 0
   commit_frequency: 0.0
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.02547
+  criticality_score: 0.02407

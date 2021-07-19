@@ -5,6 +5,7 @@ description: Evaluating potential drug targets through human loss-of-function ge
 keywords: []
 categories:
 - Uncategorised
+updated_at: '2021-07-09 08:39:45'
 github:
   name: drug_target_lof
   url: https://github.com/ericminikel/drug_target_lof

@@ -4,6 +4,7 @@ description: HDR Link Lite - an open source lightweight version of BC-Link
 keywords: []
 categories:
 - Cohort Discovery
+updated_at: '2021-07-07 21:34:00'
 github:
   name: link-lite
   url: https://github.com/biobankinguk/link-lite
@@ -18,7 +19,7 @@ github:
   stars: 2
   forks: 0
   network: 0
-  created_since: 7
+  created_since: 8
   updated_since: 4
   contributor_count: 1
   org_count: 1
@@ -28,4 +29,4 @@ github:
   closed_issues_count: 0
   comment_frequency: 0
   dependents_count: 0
-  criticality_score: 0.06915
+  criticality_score: 0.07204

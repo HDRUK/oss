@@ -13,6 +13,7 @@ keywords:
 - validated
 categories:
 - Gateway
+updated_at: '2021-07-06 12:02:44'
 github:
   name: Winterfell
   url: https://github.com/andrewhathaway/Winterfell
@@ -29,11 +30,11 @@ github:
   - validated
   language: JavaScript
   created_at: 2015-08-23 19:11:53
-  updated_at: 2021-04-20 19:32:15
+  updated_at: 2021-07-15 16:26:27
   archived: false
   subscribers: 29
-  watchers: 787
-  stars: 787
+  watchers: 786
+  stars: 786
   forks: 127
   network: 127
   created_since: 72
