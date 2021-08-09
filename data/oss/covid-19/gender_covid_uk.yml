@@ -1,14 +1,15 @@
-- name: 'How is COVID-19 impacting women and men’s working lives in the UK?'
-  description: 'Data analysis, interactive visualizations, and integrative dashboard to understand the impact of COVID-19 on women and men's working lives in the UK'
-  url: 'https://github.com/luistorresr/gender_covid_uk'
-  keywords:
-   - 'gender'
-   - 'ethnicity'
-   - 'class'
-   - 'employment'
-   - 'trends'
-   - 'covid-19'
-  categories:
-   - 'HDR UK'
-   - 'Data and Connectivity National Core Study'
-   - 'University of Nottingham'
+name: "gender_covid_uk"
+description: "How is COVID-19 impacting women and men’s working lives in the UK? Data analysis, interactive visualizations, and integrative dashboard to understand the impact of COVID-19 on women and men's working lives in the UK"
+url: "https://github.com/luistorresr/gender_covid_uk"
+keywords:
+  - 'gender'
+  - 'ethnicity'
+  - 'class'
+  - 'employment'
+  - 'trends'
+  - 'covid-19'
+  - 'HDR UK'
+  - 'Data and Connectivity National Core Study'
+  - 'University of Nottingham'
+categories:
+  - COVID-19
