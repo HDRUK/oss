@@ -1,5 +1,6 @@
 import os
 import sys
+from datetime import datetime
 from collections import OrderedDict
 
 from common import read_lines_from_file, write_yaml, CATGEORIES, OSS_PROJECTS_DIR
@@ -47,6 +48,9 @@ def format_yaml(sections):
     description = "\n".join([d for d in sections['description'] if d != '_No response_'])
     keywords = [k for k in sections['keywords'] if k != '_No response_']
     categories = [c for c in categories if c != '_No response_']
+
+    current_date = datetime.today()
+    current_date = datetime.strftime(current_date, "%Y-%m-%d %H:%M:%S")
     
     # create yaml data
     data = {
@@ -54,7 +58,8 @@ def format_yaml(sections):
         'url': sections['url'][0],
         'description': description,
         'keywords': [k.lstrip('- ') for k in keywords],
-        'categories': categories
+        'categories': categories,
+        'updated_at': current_date
     }
     return filename, data
 
